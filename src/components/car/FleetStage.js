@@ -71,20 +71,35 @@ export default function FleetStage({ fleet, t }) {
               {car.seats}
             </span>
             {/* xe */}
+            {/* Khung cố định: xe căn giữa, bánh xe chạm bệ xoay; ảnh nào cũng vừa khung đều nhau */}
             <div
               key={`${car.key}-${img}`}
-              className="absolute inset-x-0 bottom-[14%] flex animate-drive-in justify-center"
+              className="absolute inset-x-[4%] top-[6%] bottom-[12%] animate-drive-in"
             >
               <Image
                 src={car.images[img]}
                 alt={`${car.name.label} – ${car.models[0]}`}
-                width={760}
-                height={420}
+                fill
                 sizes="(min-width: 1024px) 50vw, 90vw"
-                className="h-auto max-h-[300px] w-auto max-w-[88%] object-contain drop-shadow-[0_32px_24px_rgba(0,0,0,0.55)]"
+                className="object-contain object-bottom drop-shadow-[0_32px_24px_rgba(0,0,0,0.55)]"
               />
             </div>
           </div>
+          {/* Ghi nguồn ảnh đang xem (giấy phép CC BY-SA yêu cầu) */}
+          {car.credits?.[img] && (
+            <p className="text-center text-[0.65rem] text-white/40">
+              {t.photoCredit}:{" "}
+              <a
+                href={car.credits[img].url}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                className="underline-offset-2 hover:text-white/70 hover:underline"
+              >
+                {car.credits[img].author} / Wikimedia Commons
+              </a>
+              , CC BY-SA 4.0
+            </p>
+          )}
           {/* các mẫu xe thực tế trong hạng */}
           {car.images?.length > 1 && (
             <div className="mt-2 flex justify-center gap-2">

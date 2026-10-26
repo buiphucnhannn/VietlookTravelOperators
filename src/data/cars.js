@@ -12,7 +12,18 @@ export const fleet = [
     luggage: 2,
     name: { en: "Sedan", zh: "轿车" },
     tagline: { en: "Comfort for 1–3 travellers", zh: "1–3人舒适出行" },
-    images: [`${C}/sedan-studio.webp`, `${C}/honda-civic.webp`, `${C}/bmw-5.webp`],
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2024_Toyota_Vios_1.3_XLE_in_Super_Red_V,_front_left,_06-27-2024.jpg",
+      },
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2023_Toyota_Vios_1.5_G_in_Black,_front_left.jpg",
+      },
+    ],
+    images: [`${C}/fleet/sedan-1.webp`, `${C}/fleet/sedan-2.webp`],
     models: ["Toyota Vios", "Hyundai Accent", "Honda City", "Mazda 3", "Honda Civic"],
     ideal: {
       en: ["Airport transfers", "Business trips", "City tours"],
@@ -28,13 +39,18 @@ export const fleet = [
     luggage: 4,
     name: { en: "SUV / Crossover", zh: "SUV / 跨界车" },
     tagline: { en: "Space & power for long roads", zh: "长途出行空间与动力兼备" },
-    images: [
-      `${C}/xpander-front.webp`,
-      `${C}/hyundai-kona.webp`,
-      `${C}/kia-seltos.webp`,
-      `${C}/crossover-white.webp`,
-      `${C}/toyota-veloz.webp`,
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2023_Toyota_Fortuner_2.8_LTD_4x2_in_Silver_Metallic,_front_left,_06-27-2024.jpg",
+      },
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2023_Ford_Everest_2.0_Bi-Turbo_Titanium%2B_in_Sedona_Orange,_front_left,_05-11-2024.jpg",
+      },
     ],
+    images: [`${C}/fleet/suv-1.webp`, `${C}/fleet/suv-2.webp`],
     models: [
       "Toyota Fortuner",
       "Mitsubishi Xpander",
@@ -56,12 +72,18 @@ export const fleet = [
     luggage: 5,
     name: { en: "Minivan / MPV", zh: "MPV 商务车" },
     tagline: { en: "Flexible seats for small groups", zh: "灵活座椅，适合小团体" },
-    images: [
-      `${C}/innova-studio.webp`,
-      `${C}/xpander-side.webp`,
-      `${C}/suzuki-ertiga.webp`,
-      `${C}/toyota-avanza.webp`,
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2022_Toyota_Innova_2.8_V_in_White_Pearl_Crystal_Shine,_front_left.jpg",
+      },
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:2019_Mitsubishi_Xpander_1.5_GLS_in_Red_Metallic,_front_left.jpg",
+      },
     ],
+    images: [`${C}/fleet/minivan-1.webp`, `${C}/fleet/minivan-2.webp`],
     models: ["Toyota Innova", "Mitsubishi Xpander", "Suzuki Ertiga", "Toyota Avanza / Veloz"],
     ideal: {
       en: ["Small groups", "Resort transfers", "Multi-day trips"],
@@ -78,11 +100,18 @@ export const fleet = [
     vip: true,
     name: { en: "Luxury MPV – Kia Carnival", zh: "豪华MPV – 起亚嘉华" },
     tagline: { en: "VIP captain seats & electric doors", zh: "VIP航空座椅与电动侧门" },
-    images: [
-      `${C}/kia-carnival-open.webp`,
-      `${C}/kia-carnival-front.webp`,
-      `${C}/kia-carnival-green.webp`,
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "SsmIntrigue",
+        url: "https://commons.wikimedia.org/wiki/File:2022_Kia_Carnival_LXS,_Front_Left,_05-24-2021.jpg",
+      },
+      {
+        author: "SsmIntrigue",
+        url: "https://commons.wikimedia.org/wiki/File:2022_Kia_Carnival_LX,_Front_Left,_05-02-2021.jpg",
+      },
     ],
+    images: [`${C}/fleet/luxury-1.webp`, `${C}/fleet/luxury-2.webp`],
     models: ["Kia Carnival", "Kia Sedona", "Toyota Granvia"],
     ideal: {
       en: ["VIP guests", "Honeymooners", "Executive transfers"],
@@ -99,7 +128,18 @@ export const fleet = [
     vip: true,
     name: { en: "Limousine Van 9–11", zh: "豪华商务车 9–11座" },
     tagline: { en: "Lounge seats, ambient lights, Wi-Fi", zh: "沙发座椅、氛围灯与Wi-Fi" },
-    images: [`${C}/limousine-studio.webp`, `${C}/limousine-van.webp`],
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Ethan Llamas",
+        url: "https://commons.wikimedia.org/wiki/File:Hyundai_Solati_2.5L_2024.jpg",
+      },
+      {
+        author: "Alexander-93",
+        url: "https://commons.wikimedia.org/wiki/File:Hyundai_Staria_1X7A6772.jpg",
+      },
+    ],
+    images: [`${C}/fleet/limo9-1.webp`, `${C}/fleet/limo9-2.webp`],
     models: ["DCar Limousine", "Auto Kingdom", "Ford Tourneo", "Hyundai Starex"],
     ideal: {
       en: ["Halong & Sapa trips", "Corporate guests", "Families with seniors"],
@@ -115,7 +155,18 @@ export const fleet = [
     luggage: 12,
     name: { en: "16-seat Van", zh: "16座中巴" },
     tagline: { en: "The go-to for mid-size groups", zh: "中型团队首选" },
-    images: [`${C}/ford-transit.webp`, `${C}/van16-studio.webp`],
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "MercurySable99",
+        url: "https://commons.wikimedia.org/wiki/File:2023_Ford_Transit_T-350HD_XL_high_roof_extended_length_passenger_van,_front_left,_09-28-2024.jpg",
+      },
+      {
+        author: "Elise240SX",
+        url: "https://commons.wikimedia.org/wiki/File:2020_Ford_Transit_350_XLT_Passenger_Van_in_Oxford_White,_Front_Right,_05-21-2022.jpg",
+      },
+    ],
+    images: [`${C}/fleet/van16-1.webp`, `${C}/fleet/van16-2.webp`],
     models: ["Ford Transit", "Hyundai Solati", "Toyota Hiace"],
     ideal: {
       en: ["Group tours", "Team outings", "Airport groups"],
@@ -131,7 +182,18 @@ export const fleet = [
     luggage: 20,
     name: { en: "29-seat Coach", zh: "29座大巴" },
     tagline: { en: "Comfortable mini-coach for groups", zh: "舒适中型大巴" },
-    images: [`${C}/coach45.webp`],
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Dinkun Chen",
+        url: "https://commons.wikimedia.org/wiki/File:HYUNDAI_COUNTY_China_(4).jpg",
+      },
+      {
+        author: "Dinkun Chen",
+        url: "https://commons.wikimedia.org/wiki/File:HYUNDAI_COUNTY_China_(3).jpg",
+      },
+    ],
+    images: [`${C}/fleet/coach29-1.webp`, `${C}/fleet/coach29-2.webp`],
     models: ["Hyundai County", "Thaco Meadow"],
     ideal: {
       en: ["School & study tours", "Incentive groups", "Weddings"],
@@ -147,7 +209,18 @@ export const fleet = [
     luggage: 40,
     name: { en: "45-seat Coach", zh: "45座大巴" },
     tagline: { en: "Full-size coach for big events", zh: "大型活动全尺寸大巴" },
-    images: [`${C}/coach45.webp`],
+    // Ảnh: Wikimedia Commons, CC BY-SA 4.0 (credits khớp thứ tự images)
+    credits: [
+      {
+        author: "Ki hoon",
+        url: "https://commons.wikimedia.org/wiki/File:Hyundai_Universe_Space_Luxury_Front_Side.jpg",
+      },
+      {
+        author: "Damian B Oh",
+        url: "https://commons.wikimedia.org/wiki/File:Hyundai_Universe_Mobile_Office_(3).jpg",
+      },
+    ],
+    images: [`${C}/fleet/coach45-1.webp`, `${C}/fleet/coach45-2.webp`],
     models: ["Hyundai Universe", "Thaco"],
     ideal: {
       en: ["MICE & conferences", "Large tour groups", "Event shuttles"],
