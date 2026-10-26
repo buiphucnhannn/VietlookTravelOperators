@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
+  BookOpen,
   Calendar,
   Car,
   ChevronDown,
@@ -13,6 +14,7 @@ import {
   Handshake,
   Info,
   Mail,
+  Map as MapIcon,
   Menu,
   MessageCircle,
   Phone,
@@ -43,6 +45,8 @@ const icons = {
   card: CreditCard,
   calendar: Calendar,
   shield: Shield,
+  map: MapIcon,
+  book: BookOpen,
 };
 
 function MenuColumns({ columns, onNavigate }) {

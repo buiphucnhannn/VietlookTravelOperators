@@ -47,7 +47,10 @@ export default function FastTrackPicker({ airports, levels, labels }) {
         ))}
       </div>
 
-      <div key={code} className="rail mt-6 grid animate-fade-up gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <div
+        key={code}
+        className="rail mt-6 grid animate-fade-up gap-5 sm:grid-cols-2 lg:grid-cols-3"
+      >
         {levels.map((l) => (
           <div
             key={l.key}

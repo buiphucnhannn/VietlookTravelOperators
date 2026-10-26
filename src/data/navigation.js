@@ -233,9 +233,10 @@ export function buildNavigation(lang, dict) {
     {
       key: "services",
       label: n.services,
-      href: h("/group-tailor-made-tours"),
+      href: h("/services"),
       type: "cards",
       cols: 3,
+      // 5 dịch vụ chính theo tài liệu yêu cầu
       links: [
         {
           label: n.groupTours,
@@ -247,10 +248,22 @@ export function buildNavigation(lang, dict) {
           ),
         },
         {
+          label: z("Vietnam Package Tours", "越南套餐线路"),
+          href: h("/packages"),
+          icon: "map",
+          desc: z(
+            "1–3 week tours, tours by theme & Halong Bay cruises",
+            "1至3周线路、主题线路与下龙湾游轮",
+          ),
+        },
+        {
           label: n.carHire,
           href: h("/car-rental"),
           icon: "car",
-          desc: z("4 to 45-seat vehicles with English-speaking drivers", "4–45座车辆，配英语司机"),
+          desc: z(
+            "4–45 seat vehicles, airport transfers & intercity trips",
+            "4–45座车辆，接送机与城际出行",
+          ),
         },
         {
           label: n.visa,
@@ -262,21 +275,12 @@ export function buildNavigation(lang, dict) {
           ),
         },
         {
-          label: n.airportTransfer,
-          href: h("/car-rental#services"),
-          icon: "plane",
+          label: n.guide,
+          href: h("/travel-guide"),
+          icon: "book",
           desc: z(
-            "Meet & greet with flight tracking, day or night",
-            "接机举牌、航班跟踪，全天候服务",
-          ),
-        },
-        {
-          label: n.partners,
-          href: h("/partners"),
-          icon: "handshake",
-          desc: z(
-            "Net rates & ground handling for agencies and OTAs",
-            "为旅行社与OTA提供净价与地接服务",
+            "Destination guides & practical tips from our local team",
+            "本地团队撰写的目的地攻略与实用贴士",
           ),
         },
       ],

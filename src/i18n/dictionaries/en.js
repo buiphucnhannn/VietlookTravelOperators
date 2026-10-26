@@ -852,6 +852,60 @@ const en = {
     successTitle: "Message sent!",
     successText: "Thanks for reaching out. We'll reply within 24 hours.",
   },
+  servicesPage: {
+    title: "Our Services",
+    subtitle:
+      "Tours, private cars, visas and local know-how – everything for your Vietnam trip, arranged by one local team.",
+    intro: "Five ways we make travelling in Vietnam easy",
+    items: [
+      {
+        title: "Group & Tailor-made Tours",
+        text: "Private itineraries designed around your dates, hotel class, budget and interests – for families, friends, companies and agency groups.",
+        points: [
+          "Families, friends & corporate groups",
+          "Hotel class 3★ to 5★",
+          "Free quote, no planning fee",
+        ],
+        cta: "Plan a tailor-made trip",
+      },
+      {
+        title: "Vietnam Package Tours",
+        text: "Ready-made journeys across North, Central and South Vietnam – multi-day tours of 1, 2 or 3 weeks, tours by theme and Halong Bay cruises.",
+        points: [
+          "1, 2 & 3-week packages",
+          "Tours by theme & by region",
+          "Halong Bay day & overnight cruises",
+        ],
+        cta: "Browse package tours",
+      },
+      {
+        title: "Private Car Hire with Driver",
+        text: "Clean, insured 4 to 45-seat vehicles with courteous drivers – airport pick-up, city tours and intercity transfers nationwide.",
+        points: [
+          "Airport transfers with name sign",
+          "Day hire & intercity trips",
+          "Fixed prices – tolls & fuel included",
+        ],
+        cta: "Get a car quote",
+      },
+      {
+        title: "Vietnam Visa & Airport Fast-track",
+        text: "E-visa support and VIP lanes through immigration at Noi Bai, Tan Son Nhat, Da Nang and other major airports.",
+        points: [
+          "E-visa application support",
+          "Fast-track & VIP airport service",
+          "Meet & greet at the aircraft gate",
+        ],
+        cta: "Visa & fast-track options",
+      },
+      {
+        title: "Vietnam Travel Guide",
+        text: "Destination guides, practical tips and month-by-month advice written by our local team – everything you need to plan your trip.",
+        points: ["Destination guides", "Visa, money & SIM tips", "Vietnam month by month"],
+        cta: "Read the travel guide",
+      },
+    ],
+  },
   partners: {
     title: "Partner with Vietlook Travel",
     subtitle: "Your DMC & ground handler in Vietnam",

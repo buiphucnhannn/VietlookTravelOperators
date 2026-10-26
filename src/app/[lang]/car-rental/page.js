@@ -178,13 +178,13 @@ export default async function CarRentalPage({ params }) {
             <div className="mt-7 flex flex-wrap gap-3">
               <a
                 href="#quote"
-                className="inline-flex h-12 items-center rounded-xl max-sm:px-5 sm:h-13 bg-amber-brand px-7 font-bold text-ink shadow-lg shadow-amber-brand/25 transition hover:brightness-105"
+                className="inline-flex h-12 items-center rounded-xl bg-amber-brand px-7 font-bold text-ink shadow-lg shadow-amber-brand/25 transition hover:brightness-105 max-sm:px-5 sm:h-13"
               >
                 {t.ctaQuote}
               </a>
               <a
                 href="#fleet"
-                className="inline-flex h-12 items-center rounded-xl max-sm:px-5 sm:h-13 border-2 border-white/40 px-7 font-semibold transition hover:bg-white hover:text-ink"
+                className="inline-flex h-12 items-center rounded-xl border-2 border-white/40 px-7 font-semibold transition hover:bg-white hover:text-ink max-sm:px-5 sm:h-13"
               >
                 {t.ctaFleet}
               </a>
