@@ -402,7 +402,7 @@ async function TourPageContent({ params }) {
                   <Plane className="size-6 text-brand-600" />
                   <span>
                     <span className="block font-bold text-ink">{t.dailyDeparture}</span>
-                    <span className="text-sm text-muted">{t.departureNote.replace(/:$/, "")}</span>
+                    <span className="text-sm text-muted">{t.departureCardNote}</span>
                   </span>
                 </span>
                 <a href="#book" className="font-semibold text-sun-500 hover:underline">

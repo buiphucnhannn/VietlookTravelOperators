@@ -18,7 +18,7 @@ import {
 const noopSubscribe = () => () => {};
 const todayISO = () => new Date().toISOString().slice(0, 10);
 
-/** Ngày sớm nhất có thể đặt (+2 ngày) và 6 ngày khởi hành ghép đoàn gợi ý. */
+/** Ngày sớm nhất có thể đặt (+2 ngày) và 6 ngày gợi ý để chọn nhanh (tour khởi hành hằng ngày). */
 function buildDepartures(today, days) {
   if (!today) return { minDate: "", departures: [] };
   const min = new Date(today);
