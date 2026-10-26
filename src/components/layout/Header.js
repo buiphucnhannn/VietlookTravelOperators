@@ -354,11 +354,13 @@ export default function Header({ lang, nav, labels, contact }) {
             <nav className="hidden items-center lg:flex" aria-label={labels.menu}>
               {nav.map((item) => (
                 <div key={item.key} onMouseEnter={() => open(item.key)}>
-                  <button
-                    type="button"
+                  {/* Rê chuột / focus: mở dropdown; bấm thẳng vào mục: sang trang tổng (vd. All travel guides) */}
+                  <Link
+                    href={item.href}
                     aria-expanded={openKey === item.key}
                     aria-haspopup="true"
-                    onClick={() => setOpenKey((k) => (k === item.key ? null : item.key))}
+                    onFocus={() => open(item.key)}
+                    onClick={() => setOpenKey(null)}
                     className={cn(
                       "relative flex items-center gap-1 px-3.5 py-3 text-[0.95rem] font-semibold transition-colors xl:px-4",
                       clear
@@ -381,7 +383,7 @@ export default function Header({ lang, nav, labels, contact }) {
                         openKey === item.key ? "scale-x-100" : "scale-x-0",
                       )}
                     />
-                  </button>
+                  </Link>
                 </div>
               ))}
             </nav>

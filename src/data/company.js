@@ -53,6 +53,10 @@ export const about = {
 export const policies = {
   payment: {
     title: { en: "Payment policy", zh: "付款政策" },
+    subtitle: {
+      en: "How to pay for your trip – bank transfer, in person or on arrival. No online card payments.",
+      zh: "如何支付行程费用——银行转账、线下付款或抵达后付款，网站不收取在线刷卡。",
+    },
     image: "/images/tours/hcm-tour-2 (1).jpg",
     body: {
       en: `<p>Vietlook Travel does not take online card payments on this website. After you send a booking request, our team confirms availability and sends you a written confirmation with the final price.</p><h2>How to pay</h2><ul><li><strong>Bank transfer</strong> – international transfer to our company account in Vietnam (details provided on your confirmation).</li><li><strong>In person</strong> – cash (USD or VND) or card at our Hanoi office.</li><li><strong>On arrival</strong> – for day tours, car transfers and fast-track, payment to our guide or driver is possible on request.</li></ul><h2>Deposit and balance</h2><ul><li>Multi-day tours: a deposit (usually 30%) secures hotels, cruises and flights; the balance is paid before or on arrival.</li><li>Peak dates (Tet, national holidays, Christmas–New Year) may require full prepayment for cruises and hotels.</li></ul><h2>Travel agents (B2B)</h2><p>Partner agencies receive net-rate confirmations and invoice-based payment terms agreed in our partnership contract.</p>`,
@@ -61,6 +65,10 @@ export const policies = {
   },
   cancellation: {
     title: { en: "Cancellation & changes", zh: "取消与变更" },
+    subtitle: {
+      en: "Clear, fair rules for cancelling or changing your booking – and what happens with weather or force majeure.",
+      zh: "清晰公平的取消与变更规则，以及天气或不可抗力情况下的处理方式。",
+    },
     image: "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
     body: {
       en: `<p>We understand plans change. The following conditions apply unless your confirmation states otherwise (some cruises and peak-season hotels have stricter rules).</p><h2>Cancellation by the guest</h2><ul><li>More than 30 days before departure: deposit refunded minus bank fees.</li><li>15–30 days before departure: 30% of the tour price.</li><li>7–14 days before departure: 50% of the tour price.</li><li>Less than 7 days or no-show: 100% of the tour price.</li></ul><h2>Changes</h2><p>Date or itinerary changes are free when made more than 15 days before departure, subject to availability. Later changes may incur supplier fees.</p><h2>Day tours, cars & fast-track</h2><p>Free cancellation up to 24 hours before the service. Flight delays are tracked – your driver waits at no extra cost.</p><h2>Force majeure</h2><p>If weather (typhoons, closures of Halong Bay) or authorities cancel a service, we offer an alternative or refund the unused part.</p>`,
@@ -69,6 +77,10 @@ export const policies = {
   },
   privacy: {
     title: { en: "Privacy policy", zh: "隐私政策" },
+    subtitle: {
+      en: "What personal data we collect, how we use it to arrange your trip and how we keep it safe.",
+      zh: "我们收集哪些个人信息、如何用于安排您的行程，以及如何保障信息安全。",
+    },
     image: "/images/tours/west-lake-hanoi.png",
     body: {
       en: `<p>Vietlook Travel respects your privacy. This policy explains what we collect and how we use it.</p><h2>Information we collect</h2><ul><li>Contact details you send via our forms: name, email, phone/WhatsApp/WeChat, nationality.</li><li>Trip details: dates, number of travellers, children's ages, flight numbers and special requests.</li><li>Passport details only when needed for visas, flights, cruises or hotel registration.</li></ul><h2>How we use it</h2><p>Only to answer your enquiry, arrange and operate your services, and send booking confirmations. We share necessary details with hotels, cruises, airlines and immigration services that deliver your trip – never for marketing by third parties.</p><h2>Security & retention</h2><p>Requests are stored in our protected management system and kept only as long as needed for your booking and legal obligations.</p><h2>Your rights</h2><p>Email us at any time to access, correct or delete your personal data.</p>`,

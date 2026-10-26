@@ -51,6 +51,7 @@ async function PolicyPageContent({ params }) {
     <>
       <BannerHero
         title={tr(policy.title, lang)}
+        subtitle={tr(policy.subtitle, lang)}
         images={[policy.image, ...Object.values(policies).map((x) => x.image)]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: tr(policy.title, lang) }]}
       />

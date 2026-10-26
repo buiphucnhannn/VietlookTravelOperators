@@ -118,6 +118,7 @@ export default async function PackagesPage({ params }) {
     <>
       <BrushHero
         title={p.title}
+        subtitle={p.intro}
         images={[
           "/images/tours/dulichhagiangcaobang6ngay5dem.png",
           "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
@@ -126,12 +127,6 @@ export default async function PackagesPage({ params }) {
         ]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: p.title }]}
       />
-
-      <Container className="py-10 text-center lg:py-12">
-        <p className="mx-auto max-w-5xl text-xl leading-snug font-medium text-ink sm:text-2xl">
-          {p.intro}
-        </p>
-      </Container>
 
       <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]">
         <BgImage src="/images/tours/bao-lac-cao-bang.jpg" tone="light" />
