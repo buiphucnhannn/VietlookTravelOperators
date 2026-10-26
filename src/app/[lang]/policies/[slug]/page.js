@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import PageSkeleton from "@/components/ui/PageSkeleton";
 import Link from "next/link";
-import { Mail, Phone } from "lucide-react";
+import { CalendarX2, CreditCard, FileText, Mail, Phone, ShieldCheck } from "lucide-react";
 import { siteConfig } from "@/constants/site";
 import { WhatsAppIcon } from "@/components/ui/BrandIcons";
 import { notFound } from "next/navigation";
@@ -12,6 +12,8 @@ import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { policies } from "@/data/company";
 import { Container } from "@/components/ui";
 import { BannerHero } from "@/components/ui/PageHero";
+
+const policyIcons = { payment: CreditCard, cancellation: CalendarX2, privacy: ShieldCheck };
 
 export function generateStaticParams() {
   return locales.flatMap((lang) => Object.keys(policies).map((slug) => ({ lang, slug })));
@@ -55,20 +57,42 @@ async function PolicyPageContent({ params }) {
         images={[policy.image, ...Object.values(policies).map((x) => x.image)]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: tr(policy.title, lang) }]}
       />
-      <Container className="grid gap-10 py-12 lg:grid-cols-[240px_minmax(0,1fr)] lg:py-14 xl:grid-cols-[240px_minmax(0,1fr)_290px] xl:gap-12">
-        <nav className="space-y-1 lg:sticky lg:top-32 lg:self-start">
-          {Object.entries(policies).map(([key, p]) => (
-            <Link
-              key={key}
-              href={`${lp(lang)}/policies/${key}`}
-              className={cn(
-                "block rounded-lg px-4 py-3 font-medium transition",
-                key === slug ? "bg-brand-600 text-white" : "text-ink hover:bg-surface",
-              )}
-            >
-              {tr(p.title, lang)}
-            </Link>
-          ))}
+      <Container className="grid gap-10 py-12 lg:grid-cols-[270px_minmax(0,1fr)] lg:py-14 xl:grid-cols-[270px_minmax(0,1fr)_290px] xl:gap-12">
+        {/* Menu chính sách: khung giống cột phải (đối xứng), dính theo khi cuộn */}
+        <nav className="self-start rounded-2xl border border-border bg-white p-3 lg:sticky lg:top-32">
+          <p className="px-3 pt-2 pb-3 text-xs font-bold tracking-[0.18em] text-brand-700 uppercase">
+            {t.title}
+          </p>
+          <ul className="space-y-1">
+            {Object.entries(policies).map(([key, p]) => {
+              const Icon = policyIcons[key] || FileText;
+              const on = key === slug;
+              return (
+                <li key={key}>
+                  <Link
+                    href={`${lp(lang)}/policies/${key}`}
+                    aria-current={on ? "page" : undefined}
+                    className={cn(
+                      "flex items-center gap-3 rounded-xl px-3 py-2.5 text-[0.95rem] font-medium whitespace-nowrap transition",
+                      on
+                        ? "bg-brand-600 text-white shadow-sm"
+                        : "text-ink hover:bg-brand-50 hover:text-brand-700",
+                    )}
+                  >
+                    <span
+                      className={cn(
+                        "grid size-8 shrink-0 place-items-center rounded-lg",
+                        on ? "bg-white/15" : "bg-brand-50 text-brand-600",
+                      )}
+                    >
+                      <Icon className="size-4" />
+                    </span>
+                    {tr(p.title, lang)}
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
         </nav>
         <article className="prose-guide max-w-3xl" dangerouslySetInnerHTML={{ __html: body }} />
 
@@ -94,19 +118,18 @@ async function PolicyPageContent({ params }) {
             </div>
           )}
 
-          <div className="relative overflow-hidden rounded-2xl bg-brand-950 p-6 text-white">
-            <div className="absolute -top-16 -right-16 size-40 rounded-full bg-amber-brand/15 blur-2xl" />
-            <p className="relative text-lg font-bold">{t.helpTitle}</p>
-            <p className="relative mt-1.5 text-sm leading-relaxed text-white/70">{t.helpText}</p>
+          {/* Thẻ hỗ trợ nền trắng, icon nét đơn giản cùng màu thương hiệu */}
+          <div className="rounded-2xl border border-border bg-white p-5">
+            <p className="text-lg font-bold text-ink">{t.helpTitle}</p>
+            <p className="mt-1 text-sm leading-relaxed text-muted">{t.helpText}</p>
             {/* 3 kênh liên hệ gọn trên một hàng */}
-            <div className="relative mt-5 grid grid-cols-3 gap-2 text-xs">
+            <div className="mt-4 grid grid-cols-3 gap-2 text-xs">
               {[
                 {
                   href: siteConfig.messaging.whatsapp,
                   icon: WhatsAppIcon,
                   label: "WhatsApp",
                   title: "WhatsApp",
-                  color: "text-[#25d366]",
                   ext: true,
                 },
                 {
@@ -114,14 +137,12 @@ async function PolicyPageContent({ params }) {
                   icon: Phone,
                   label: "Hotline",
                   title: siteConfig.contact.hotline,
-                  color: "text-amber-brand",
                 },
                 {
                   href: `mailto:${siteConfig.contact.email}`,
                   icon: Mail,
                   label: "Email",
                   title: siteConfig.contact.email,
-                  color: "text-amber-brand",
                 },
               ].map((c) => (
                 <a
@@ -129,16 +150,16 @@ async function PolicyPageContent({ params }) {
                   href={c.href}
                   {...(c.ext ? { target: "_blank", rel: "noopener noreferrer" } : {})}
                   title={c.title}
-                  className="flex flex-col items-center gap-1.5 rounded-xl bg-white/5 py-3 font-semibold ring-1 ring-white/10 transition hover:bg-white/10"
+                  className="flex flex-col items-center gap-1.5 rounded-xl border border-border py-3 font-semibold text-ink transition hover:border-brand-300 hover:bg-brand-50 hover:text-brand-700"
                 >
-                  <c.icon className={cn("size-5", c.color)} />
+                  <c.icon className="size-5 text-brand-600" />
                   {c.label}
                 </a>
               ))}
             </div>
             <Link
               href={href(lang, "/plan-your-trip")}
-              className="relative mt-5 flex h-11 items-center justify-center rounded-xl bg-sun-500 text-sm font-semibold transition hover:bg-sun-600"
+              className="mt-4 flex h-11 items-center justify-center rounded-xl bg-sun-500 text-sm font-semibold text-white transition hover:bg-sun-600"
             >
               {dict.nav.planTrip}
             </Link>

@@ -27,6 +27,7 @@ import TourGallery from "@/components/tours/TourGallery";
 import StickyTabs from "@/components/tours/StickyTabs";
 import BookingWidget from "@/components/tours/BookingWidget";
 import StickySide from "@/components/ui/StickySide";
+import PriceTable from "@/components/tours/PriceTable";
 import MobileBookBar from "@/components/tours/MobileBookBar";
 import YouTubeLite from "@/components/ui/YouTubeLite";
 import { TripAdvisorIcon, WeChatIcon, WhatsAppIcon } from "@/components/ui/BrandIcons";
@@ -404,45 +405,7 @@ async function TourPageContent({ params }) {
               <Card id="prices" eyebrow={t.pricing} title={t.pricing}>
                 <div className="space-y-6">
                   {tx.priceTables.map((tb, i) => (
-                    <div key={i} className="overflow-x-auto rounded-xl ring-1 ring-border">
-                      {tb.heading && tb.heading !== "Price" && (
-                        <p className="bg-brand-600 px-4 py-2.5 text-sm font-semibold text-white">
-                          {tb.heading}
-                        </p>
-                      )}
-                      <table className="w-full text-left text-sm">
-                        <thead className="bg-brand-50 text-brand-800">
-                          <tr>
-                            {tb.rows[0].map((h, j) => (
-                              <th key={j} className="px-4 py-3 font-semibold whitespace-nowrap">
-                                {h}
-                              </th>
-                            ))}
-                          </tr>
-                        </thead>
-                        <tbody>
-                          {tb.rows.slice(1).map((r, j) => (
-                            <tr
-                              key={j}
-                              className="border-t border-border odd:bg-white even:bg-surface/60"
-                            >
-                              {r.map((cell, k) => (
-                                <td
-                                  key={k}
-                                  className={
-                                    k === 0
-                                      ? "px-4 py-3 font-medium text-ink"
-                                      : "px-4 py-3 text-ink/80"
-                                  }
-                                >
-                                  {cell}
-                                </td>
-                              ))}
-                            </tr>
-                          ))}
-                        </tbody>
-                      </table>
-                    </div>
+                    <PriceTable key={i} table={tb} />
                   ))}
                   <p className="text-sm text-muted">{t.holidaySurcharge}</p>
                 </div>
