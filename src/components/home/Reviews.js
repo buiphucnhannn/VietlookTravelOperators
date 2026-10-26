@@ -12,7 +12,7 @@ export default function Reviews({ lang, dict, reviews, bg = "surface" }) {
   const t = dict.home;
   return (
     <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]" id="reviews">
-      <BgImage src="/images/tours/hoi-an-9-copy.jpg" tone="light" />
+      <BgImage src="/images/tours/hd/hoi-an-9-copy.jpg" tone="light" />
       <Container>
         <SectionHeading
           eyebrow={t.reviewsEyebrow}

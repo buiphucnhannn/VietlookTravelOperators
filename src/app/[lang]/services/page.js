@@ -13,12 +13,12 @@ const meta = [
   {
     icon: Users,
     path: "/group-tailor-made-tours",
-    image: "/images/tours/hoang-su-phi-ha-giang.jpg",
+    image: "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
   },
   { icon: Map, path: "/packages", image: "/images/tours/khamphavedepvietnamhuehoiansapa.jpg" },
   { icon: Car, path: "/car-rental", image: "/images/rent-car/download.jpeg" },
   { icon: Stamp, path: "/visa-fast-track", image: "/images/tours/welcome-vietlook.png" },
-  { icon: BookOpen, path: "/travel-guide", image: "/images/tours/west-lake-hanoi.png" },
+  { icon: BookOpen, path: "/travel-guide", image: "/images/tours/hd/west-lake-hanoi.jpg" },
 ];
 
 export async function generateMetadata({ params }) {

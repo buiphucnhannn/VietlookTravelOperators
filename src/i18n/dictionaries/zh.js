@@ -765,6 +765,8 @@ const zh = {
     newsletterPlaceholder: "您的邮箱",
     subscribe: "订阅",
     rights: "版权所有。",
+    photoCredits: "图片来源",
+    creditsIntro: "本网站部分图片来自维基共享资源，依据自由许可使用。感谢以下摄影师。",
     knowUs: "您可能在这些平台见过我们",
     ctaTitle: "准备好探索越南了吗？",
     ctaText: "本地旅行专家为您免费定制行程，无任何义务。",

@@ -11,7 +11,7 @@ export default async function NotFound() {
   return (
     <section className="relative isolate overflow-hidden bg-brand-950 text-white">
       <Image
-        src="/images/tours/lonely-tree.jpg"
+        src="/images/tours/hd/lonely-tree.jpg"
         alt=""
         fill
         sizes="100vw"

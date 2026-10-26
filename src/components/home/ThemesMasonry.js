@@ -20,7 +20,7 @@ export default function ThemesMasonry({ lang, dict, themes }) {
   return (
     <section className="relative isolate overflow-hidden bg-[#141210] py-14 text-white lg:py-[4.5rem]">
       <Image
-        src="/images/tours/ha-long.png"
+        src="/images/tours/hd/ha-long.jpg"
         alt=""
         fill
         sizes="100vw"

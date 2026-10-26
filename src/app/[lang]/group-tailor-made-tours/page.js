@@ -34,7 +34,7 @@ export async function generateMetadata({ params }) {
     path: "/group-tailor-made-tours",
     title: dict.group.title,
     description: dict.group.intro,
-    image: "/images/tours/hoang-su-phi-ha-giang.jpg",
+    image: "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
   });
 }
 
@@ -46,9 +46,9 @@ export default async function GroupTailorMadePage({ params }) {
   const pillarIcons = [Wrench, Star, MapPin, MessagesSquare];
   const groupIcons = [UsersRound, Briefcase, GraduationCap, Handshake];
   const groupImages = [
-    "/images/tours/walking-under-the-sea-tour-1.jpg",
+    "/images/tours/hd/walking-under-the-sea-tour-1.jpg",
     "/images/tours/tourdulichphuquoc4ngay3demtet1.png",
-    "/images/tours/sim-wine-factory.jpg",
+    "/images/tours/hd/sim-wine-factory.jpg",
     "/images/tours/coktail-crusie.jpg",
   ];
   const tabIds = ["included", "groups", "how", "plan", "faq"];
@@ -69,7 +69,7 @@ export default async function GroupTailorMadePage({ params }) {
       <BrushHero
         title={g.title}
         subtitle={g.subtitle}
-        images={["/images/tours/hoang-su-phi-ha-giang.jpg"]}
+        images={["/images/tours/hd/hoang-su-phi-ha-giang.jpg"]}
         cta={{ href: "#plan", label: g.cta }}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: g.title }]}
       />
@@ -125,7 +125,7 @@ export default async function GroupTailorMadePage({ params }) {
       </section>
 
       <div className="relative isolate overflow-hidden bg-[#16a777] py-10 text-white">
-        <BgImage src="/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg" tone="dark" />
+        <BgImage src="/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg" tone="dark" />
         <Container className="grid grid-cols-2 gap-6 text-center md:grid-cols-4">
           {g.pillars.map((p, i) => {
             const Icon = pillarIcons[i];
@@ -176,7 +176,7 @@ export default async function GroupTailorMadePage({ params }) {
         id="how"
         className="relative isolate scroll-mt-40 overflow-hidden bg-surface py-14 lg:py-[4.5rem]"
       >
-        <BgImage src="/images/tours/dam-van-long-ninh-binh.jpg" tone="light" />
+        <BgImage src="/images/tours/hd/dam-van-long-ninh-binh.jpg" tone="light" />
         <Container>
           <SectionHeading title={g.howTitle} />
           <ol className="relative grid gap-8 md:grid-cols-4">
@@ -196,7 +196,7 @@ export default async function GroupTailorMadePage({ params }) {
 
       <section id="plan" className="relative scroll-mt-36 overflow-hidden py-14 lg:py-[4.5rem]">
         <Image
-          src="/images/tours/didulichsapathang4cogidep5.jpg"
+          src="/images/tours/hd/didulichsapathang4cogidep5.jpg"
           alt=""
           fill
           sizes="100vw"

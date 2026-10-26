@@ -30,9 +30,9 @@ export default async function AboutPage({ params }) {
   const a = dict.about;
   const valueIcons = [Rocket, HeartHandshake, Sparkles];
   const collage = [
-    "/images/tours/langnonchuongdapxe.jpg",
+    "/images/tours/hd/langnonchuongdapxe.jpg",
     "/images/tours/bike-tours-hanoi-1-1.jpg",
-    "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+    "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
     "/images/tours/tourdulichlanghuong1ngay.png",
   ];
 
@@ -91,7 +91,7 @@ export default async function AboutPage({ params }) {
       </section>
 
       <section className="relative isolate overflow-hidden bg-brand-950 py-14 text-white lg:py-[4.5rem]">
-        <BgImage src="/images/tours/hanoi7.png" tone="dark" />
+        <BgImage src="/images/tours/hd/hanoi7.jpg" tone="dark" />
         <Container className="grid gap-6 md:grid-cols-2">
           {[
             { icon: Eye, title: lang === "zh" ? "愿景" : "Vision", text: tr(about.vision, lang) },
@@ -139,7 +139,7 @@ export default async function AboutPage({ params }) {
       </div>
 
       <section className="relative isolate overflow-hidden bg-surface py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/west-lake-hanoi.png" tone="mist" />
+        <BgImage src="/images/tours/hd/west-lake-hanoi.jpg" tone="mist" />
         <Container className="grid items-center gap-10 lg:grid-cols-2">
           <div className="overflow-hidden rounded-3xl shadow-xl">
             <YouTubeLite

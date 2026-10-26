@@ -15,7 +15,7 @@ export function PlannerBlock({ lang, dict, destinationOptions }) {
   return (
     <section className="relative isolate overflow-clip py-14 lg:py-[4.5rem]" id="plan">
       <Image
-        src="/images/tours/tourdulichninhbinh1ngay.png"
+        src="/images/tours/hd/tourdulichninhbinh1ngay.jpg"
         alt=""
         fill
         sizes="100vw"
@@ -70,7 +70,7 @@ export function AboutBlob({ lang, dict }) {
   const t = dict.home;
   return (
     <section className="relative isolate overflow-hidden bg-surface py-14 lg:py-[4.5rem]">
-      <BgImage src="/images/tours/duong-lam.jpg" tone="side" />
+      <BgImage src="/images/tours/hd/duong-lam.jpg" tone="side" />
       <Container className="grid items-center gap-12 lg:grid-cols-2">
         <div>
           <h2 className="heading-xl text-ink">{t.aboutTitle}</h2>
@@ -87,7 +87,7 @@ export function AboutBlob({ lang, dict }) {
         <div className="relative mx-auto w-full max-w-xl">
           <div className="blob relative aspect-square overflow-hidden shadow-2xl">
             <Image
-              src="/images/tours/langnonchuongdapxe.jpg"
+              src="/images/tours/hd/langnonchuongdapxe.jpg"
               alt=""
               fill
               sizes="(min-width: 1024px) 40vw, 90vw"

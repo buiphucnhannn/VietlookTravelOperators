@@ -20,6 +20,7 @@ const staticPaths = [
   "/contact",
   "/partners",
   "/services",
+  "/photo-credits",
   "/policies/payment",
   "/policies/cancellation",
   "/policies/privacy",

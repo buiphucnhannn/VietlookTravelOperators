@@ -15,7 +15,7 @@ export async function generateMetadata({ params }) {
     path: "/plan-your-trip",
     title: dict.home.plannerTitle,
     description: dict.home.plannerSubtitle,
-    image: "/images/tours/lonely-tree.jpg",
+    image: "/images/tours/hd/lonely-tree.jpg",
   });
 }
 
@@ -25,7 +25,7 @@ export default async function PlanYourTripPage({ params }) {
   return (
     <section className="relative isolate overflow-clip bg-brand-950 pt-28 pb-16 lg:flex lg:min-h-[min(100svh,960px)] lg:items-center lg:pt-[120px] lg:pb-12">
       <Image
-        src="/images/tours/lonely-tree.jpg"
+        src="/images/tours/hd/lonely-tree.jpg"
         alt=""
         fill
         priority

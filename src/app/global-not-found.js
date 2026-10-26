@@ -20,7 +20,7 @@ export default function GlobalNotFound() {
       <body className="font-sans">
         <main className="relative grid min-h-screen place-items-center overflow-hidden bg-brand-950 px-6 text-center text-white">
           <Image
-            src="/images/tours/lonely-tree.jpg"
+            src="/images/tours/hd/lonely-tree.jpg"
             alt=""
             fill
             sizes="100vw"

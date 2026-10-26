@@ -64,8 +64,8 @@ export default async function VisaPage({ params }) {
         subtitle={v.intro}
         images={[
           "/images/tours/welcome-vietlook.png",
-          "/images/tours/airport-pick-up-one-way.jpg",
-          "/images/tours/hcm-tour-1.jpg",
+          "/images/tours/hd/airport-pick-up-one-way.jpg",
+          "/images/tours/hd/hcm-tour-1.jpg",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: "/" + lang }, { label: v.title }]}
       >
@@ -107,7 +107,7 @@ export default async function VisaPage({ params }) {
       </section>
 
       <section className="relative isolate overflow-hidden bg-surface py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/airport-pick-up-one-way.jpg" tone="light" />
+        <BgImage src="/images/tours/hd/airport-pick-up-one-way.jpg" tone="light" />
         <Container>
           <SectionHeading title={v.howTitle} />
           <ol className="grid gap-6 md:grid-cols-4">
@@ -195,7 +195,7 @@ export default async function VisaPage({ params }) {
         id="book-visa"
         className="relative isolate scroll-mt-32 overflow-clip bg-surface py-14 lg:py-[4.5rem]"
       >
-        <BgImage src="/images/tours/hcm-tour-1.jpg" tone="mist" />
+        <BgImage src="/images/tours/hd/hcm-tour-1.jpg" tone="mist" />
         <Container className="grid items-start gap-10 lg:grid-cols-[1.25fr_0.75fr]">
           <div className="rounded-3xl bg-white p-6 shadow-sm ring-1 ring-border sm:p-8">
             <h2 className="mb-6 text-3xl font-bold tracking-tight text-ink">{v.formTitle}</h2>

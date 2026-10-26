@@ -961,6 +961,9 @@ const en = {
     newsletterPlaceholder: "Your email",
     subscribe: "Subscribe",
     rights: "All rights reserved.",
+    photoCredits: "Photo credits",
+    creditsIntro:
+      "Some photos on this website come from Wikimedia Commons and are used under free licences. Thank you to the photographers below.",
     knowUs: "You might know us from",
     ctaTitle: "Ready to explore Vietnam?",
     ctaText: "Get a free, no-obligation itinerary from our local travel experts.",

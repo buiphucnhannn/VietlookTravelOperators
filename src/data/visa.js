@@ -112,13 +112,13 @@ export const airports = [
     code: "HAN",
     name: { en: "Noi Bai – Hanoi", zh: "内排 – 河内" },
     factor: 1,
-    image: "/images/tours/hanoi6.png",
+    image: "/images/tours/hd/hanoi6.jpg",
   },
   {
     code: "SGN",
     name: { en: "Tan Son Nhat – Ho Chi Minh City", zh: "新山一 – 胡志明市" },
     factor: 1,
-    image: "/images/tours/hcm-tour-1.jpg",
+    image: "/images/tours/hd/hcm-tour-1.jpg",
   },
   {
     code: "DAD",
@@ -136,7 +136,7 @@ export const airports = [
     code: "PQC",
     name: { en: "Phu Quoc", zh: "富国岛" },
     factor: 0.9,
-    image: "/images/tours/airport-pick-up-one-way.jpg",
+    image: "/images/tours/hd/airport-pick-up-one-way.jpg",
   },
 ];
 

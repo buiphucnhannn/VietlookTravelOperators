@@ -4,7 +4,7 @@ export const regions = [
     slug: "north-vietnam",
     name: { en: "North Vietnam", zh: "越南北部" },
     short: { en: "North", zh: "北部" },
-    image: "/images/tours/du-lich-tay-bac.png",
+    image: "/images/tours/hd/du-lich-tay-bac.jpg",
     intro: {
       en: "Limestone seascapes, emerald rice terraces and the thousand-year-old capital. The North is where Vietnam's culture and drama of nature meet.",
       zh: "喀斯特海景、翠绿梯田与千年古都——越南北部是文化与壮丽自然交汇之地。",
@@ -14,7 +14,7 @@ export const regions = [
     slug: "central-vietnam",
     name: { en: "Central Vietnam", zh: "越南中部" },
     short: { en: "Central", zh: "中部" },
-    image: "/images/tours/hoi-an-9-copy.jpg",
+    image: "/images/tours/hd/hoi-an-9-copy.jpg",
     intro: {
       en: "Imperial Hue, lantern-lit Hoi An, Da Nang's beaches and the cool highlands of Dalat – heritage and coastline in one journey.",
       zh: "顺化皇城、灯笼古城会安、岘港海滩与凉爽的大叻高原——遗产与海岸一程尽览。",
@@ -24,7 +24,7 @@ export const regions = [
     slug: "south-vietnam",
     name: { en: "South Vietnam", zh: "越南南部" },
     short: { en: "South", zh: "南部" },
-    image: "/images/tours/phu-quoc.jpg",
+    image: "/images/tours/hd/phu-quoc.jpg",
     intro: {
       en: "Energetic Saigon, the floating markets of the Mekong Delta and the white-sand islands of Phu Quoc.",
       zh: "活力西贡、湄公河三角洲水上市场与富国岛的白沙海滩。",
@@ -38,8 +38,8 @@ export const destinations = [
     slug: "hanoi",
     region: "north-vietnam",
     name: { en: "Hanoi", zh: "河内" },
-    image: "/images/tours/hanoi-2-2.png",
-    hero: "/images/tours/old-quarter-ta-hien-1.jpg",
+    image: "/images/tours/hd/hanoi-2-2.jpg",
+    hero: "/images/tours/hd/old-quarter-ta-hien-1.jpg",
     keywords: [
       "hanoi",
       "ha noi",
@@ -63,8 +63,8 @@ export const destinations = [
     slug: "halong-bay",
     region: "north-vietnam",
     name: { en: "Halong Bay", zh: "下龙湾" },
-    image: "/images/tours/ha-long.png",
-    hero: "/images/tours/emperor-cruises.png",
+    image: "/images/tours/hd/ha-long.jpg",
+    hero: "/images/tours/hd/emperor-cruises.jpg",
     keywords: ["halong", "ha long", "lan ha", "bai tu long", "cat ba", "quan lan", "cruise"],
     intro: {
       en: "Thousands of limestone islands rising from emerald water – best experienced on an overnight cruise with kayaking and cave visits.",
@@ -75,8 +75,8 @@ export const destinations = [
     slug: "ninh-binh",
     region: "north-vietnam",
     name: { en: "Ninh Binh", zh: "宁平" },
-    image: "/images/tours/tam-coc.png",
-    hero: "/images/tours/tourdulichninhbinh1ngay.png",
+    image: "/images/tours/hd/tam-coc.jpg",
+    hero: "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
     keywords: [
       "ninh binh",
       "tam coc",
@@ -96,8 +96,8 @@ export const destinations = [
     slug: "sapa",
     region: "north-vietnam",
     name: { en: "Sapa", zh: "沙坝" },
-    image: "/images/tours/where-is-cat-cat-village-1.jpg",
-    hero: "/images/tours/du-lich-sa-pa-mua-he.jpg",
+    image: "/images/tours/hd/where-is-cat-cat-village-1.jpg",
+    hero: "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
     keywords: ["sapa", "sa pa", "fansipan", "cat cat", "lao cai", "moana"],
     intro: {
       en: "Mountain town above sweeping rice terraces, home to Hmong and Dao communities and Fansipan – the roof of Indochina.",
@@ -108,7 +108,7 @@ export const destinations = [
     slug: "ha-giang",
     region: "north-vietnam",
     name: { en: "Ha Giang", zh: "河江" },
-    image: "/images/tours/hoang-su-phi-ha-giang.jpg",
+    image: "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     keywords: ["ha giang", "hoang su phi", "dong van", "ma pi leng"],
     intro: {
       en: "Vietnam's northernmost frontier – dramatic mountain passes, karst plateaus and colourful ethnic markets.",
@@ -130,7 +130,7 @@ export const destinations = [
     slug: "moc-chau",
     region: "north-vietnam",
     name: { en: "Moc Chau", zh: "木州" },
-    image: "/images/tours/doi-che-moc-chau.jpg",
+    image: "/images/tours/hd/doi-che-moc-chau.jpg",
     keywords: ["moc chau", "mai chau", "tay bac", "northwest", "pu luong"],
     intro: {
       en: "Tea hills, plum blossom valleys and stilt-house villages of the Northwest loop.",
@@ -142,7 +142,7 @@ export const destinations = [
     slug: "hue",
     region: "central-vietnam",
     name: { en: "Hue", zh: "顺化" },
-    image: "/images/tours/imperial-citadel.jpg",
+    image: "/images/tours/hd/imperial-citadel.jpg",
     hero: "/images/tours/hue-tour.jpg",
     keywords: ["hue", "imperial", "lang co", "hien luong", "dmz", "quang tri"],
     intro: {
@@ -154,7 +154,7 @@ export const destinations = [
     slug: "da-nang",
     region: "central-vietnam",
     name: { en: "Da Nang", zh: "岘港" },
-    image: "/images/tours/da-nang.jpg",
+    image: "/images/tours/hd/da-nang.jpg",
     hero: "/images/tours/da-nang-tour-copy.jpg",
     keywords: ["da nang", "danang", "ba na", "golden bridge", "linh ung", "son tra", "marble"],
     intro: {
@@ -166,7 +166,7 @@ export const destinations = [
     slug: "hoi-an",
     region: "central-vietnam",
     name: { en: "Hoi An", zh: "会安" },
-    image: "/images/tours/hoi-an-9-copy.jpg",
+    image: "/images/tours/hd/hoi-an-9-copy.jpg",
     hero: "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
     keywords: ["hoi an", "my son", "cham", "bay mau", "coconut", "tra que", "cu lao"],
     intro: {
@@ -189,7 +189,7 @@ export const destinations = [
     slug: "dalat",
     region: "central-vietnam",
     name: { en: "Dalat", zh: "大叻" },
-    image: "/images/tours/da-lat.png",
+    image: "/images/tours/hd/da-lat.jpg",
     keywords: ["dalat", "da lat", "lam dong"],
     intro: {
       en: "The cool “city of eternal spring” with pine forests, flower gardens and French villas.",
@@ -212,7 +212,7 @@ export const destinations = [
     slug: "ho-chi-minh-city",
     region: "south-vietnam",
     name: { en: "Ho Chi Minh City", zh: "胡志明市" },
-    image: "/images/tours/hcm-tour-1.jpg",
+    image: "/images/tours/hd/hcm-tour-1.jpg",
     keywords: ["ho chi minh", "saigon", "sai gon", "cu chi", "hcm", "cho lon", "binh tay"],
     intro: {
       en: "Saigon's colonial landmarks, buzzing markets and Cu Chi Tunnels – the gateway to the South.",
@@ -223,7 +223,7 @@ export const destinations = [
     slug: "mekong-delta",
     region: "south-vietnam",
     name: { en: "Mekong Delta", zh: "湄公河三角洲" },
-    image: "/images/tours/dulichmientay5ngay4dem.png",
+    image: "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     keywords: ["mekong", "mien tay", "can tho", "ben tre", "my tho", "chau doc"],
     intro: {
       en: "Floating markets, fruit orchards and slow boat rides through the rice bowl of Vietnam.",
@@ -234,8 +234,8 @@ export const destinations = [
     slug: "phu-quoc",
     region: "south-vietnam",
     name: { en: "Phu Quoc", zh: "富国岛" },
-    image: "/images/tours/phu-quoc.jpg",
-    hero: "/images/tours/tourdulichphuquocgiare.png",
+    image: "/images/tours/hd/phu-quoc.jpg",
+    hero: "/images/tours/hd/tourdulichphuquocgiare.jpg",
     keywords: ["phu quoc", "hon thom", "may rut", "rach vem", "sunset town", "grand world"],
     intro: {
       en: "Island paradise with powder-white beaches, snorkelling reefs and the world's longest sea cable car.",
@@ -246,7 +246,7 @@ export const destinations = [
     slug: "mui-ne",
     region: "south-vietnam",
     name: { en: "Mui Ne", zh: "美奈" },
-    image: "/images/tours/mui-ne-sunset-tour.jpg",
+    image: "/images/tours/hd/mui-ne-sunset-tour.jpg",
     hero: "/images/tours/tourdulichmuinegiare.png",
     keywords: ["mui ne", "phan thiet", "binh thuan", "suoi tien", "fairy stream"],
     intro: {

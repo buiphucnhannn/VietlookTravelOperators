@@ -14,7 +14,7 @@ export async function generateMetadata({ params }) {
     path: "/halong-bay-cruises",
     title: dict.cruises.title,
     description: dict.cruises.intro,
-    image: "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    image: "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
   });
 }
 
@@ -27,8 +27,8 @@ export default async function CruisesPage({ params }) {
         title={dict.cruises.title}
         subtitle={dict.cruises.intro}
         images={[
-          "/images/tours/tourduthuyenhalong1ngay1-2.png",
-          "/images/tours/ha-long.png",
+          "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+          "/images/tours/hd/ha-long.jpg",
           "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: dict.cruises.title }]}

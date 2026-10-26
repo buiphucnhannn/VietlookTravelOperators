@@ -20,7 +20,7 @@ const monthData = [
       events: "春节前夕，市场里摆满年花与金桔。",
       go: ["富国岛", "湄公河三角洲", "美奈", "会安"],
     },
-    image: "/images/tours/tourdulichphuquoc-1.jpg",
+    image: "/images/tours/hd/tourdulichphuquocgiare.jpg",
   },
   {
     m: "february",
@@ -41,7 +41,7 @@ const monthData = [
       events: "2027年春节为2月6日——越南最盛大的节日。请提前预订，部分服务停业3–5天。",
       go: ["河内", "会安", "胡志明市", "富国岛"],
     },
-    image: "/images/tours/du-lich-tay-bac.png",
+    image: "/images/tours/hd/du-lich-tay-bac.jpg",
   },
   {
     m: "march",
@@ -63,7 +63,7 @@ const monthData = [
       events: "香寺朝圣季持续，西北白色羊蹄甲花盛开。",
       go: ["下龙湾", "宁平", "沙坝", "会安"],
     },
-    image: "/images/tours/ha-long.png",
+    image: "/images/tours/hd/ha-long.jpg",
   },
   {
     m: "april",
@@ -84,7 +84,7 @@ const monthData = [
       events: "雄王节（农历三月初十）与4月30日统一日——4/30–5/1假期国内出游高峰。",
       go: ["宁平", "河江", "岘港", "芽庄"],
     },
-    image: "/images/tours/tam-coc.png",
+    image: "/images/tours/hd/tam-coc.jpg",
   },
   {
     m: "may",
@@ -104,7 +104,7 @@ const monthData = [
       events: "全国寺庙庆祝佛诞节。",
       go: ["岘港", "会安", "归仁", "宁平"],
     },
-    image: "/images/tours/tourdulichninhbinh1ngay.png",
+    image: "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
   },
   {
     m: "june",
@@ -124,7 +124,7 @@ const monthData = [
       events: "暑假开始，中部海岸酒店需提前预订。",
       go: ["会安", "岘港", "芽庄", "沙坝"],
     },
-    image: "/images/tours/cham-islands-da-nang.png",
+    image: "/images/tours/hd/cham-islands-da-nang.jpg",
   },
   {
     m: "july",
@@ -144,7 +144,7 @@ const monthData = [
       events: "宁平与河内西湖荷花盛开。",
       go: ["岘港", "会安", "峰牙", "沙坝"],
     },
-    image: "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+    image: "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
   },
   {
     m: "august",
@@ -164,7 +164,7 @@ const monthData = [
       events: "农历七月——婚礼与开业活动较少。",
       go: ["会安", "顺化", "芽庄", "沙坝"],
     },
-    image: "/images/tours/hoang-su-phi-ha-giang.jpg",
+    image: "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
   },
   {
     m: "september",
@@ -186,7 +186,7 @@ const monthData = [
       events: "国庆节（9月2日）与中秋节（2027年9月15日）——灯笼与月饼。",
       go: ["沙坝", "河江", "河内", "下龙湾"],
     },
-    image: "/images/tours/where-is-cat-cat-village-1.jpg",
+    image: "/images/tours/hd/where-is-cat-cat-village-1.jpg",
   },
   {
     m: "october",
@@ -206,7 +206,7 @@ const monthData = [
       events: "10月下旬河江高原荞麦花开始盛开。",
       go: ["河内", "下龙湾", "河江", "宁平"],
     },
-    image: "/images/tours/bao-lac-cao-bang.jpg",
+    image: "/images/tours/hd/bao-lac-cao-bang.jpg",
   },
   {
     m: "november",
@@ -310,7 +310,7 @@ const essentials = [
   {
     slug: "vietnam-currency-money-tips",
     category: "need-to-know",
-    image: "/images/tours/cho-lon-binh-tay-market.jpg",
+    image: "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     title: {
       en: "Money in Vietnam: Currency, ATMs & Card Payments",
       zh: "越南货币指南：越南盾、取款与刷卡",
@@ -327,7 +327,7 @@ const essentials = [
   {
     slug: "vietnam-sim-card-internet",
     category: "need-to-know",
-    image: "/images/tours/hanoi-2-2.png",
+    image: "/images/tours/hd/hanoi-2-2.jpg",
     title: { en: "SIM Cards, eSIM & Internet in Vietnam", zh: "越南电话卡、eSIM与上网指南" },
     excerpt: {
       en: "How to stay connected in Vietnam: tourist SIMs, eSIM, Wi-Fi and the apps you need.",
@@ -341,7 +341,7 @@ const essentials = [
   {
     slug: "is-vietnam-safe",
     category: "need-to-know",
-    image: "/images/tours/old-quarter-ta-hien-1.jpg",
+    image: "/images/tours/hd/old-quarter-ta-hien-1.jpg",
     title: { en: "Is Vietnam Safe? Honest Advice from Locals", zh: "越南安全吗？本地人的真诚建议" },
     excerpt: {
       en: "Vietnam is one of Asia's safest destinations. Here's what to watch out for – from traffic to taxis.",
@@ -355,7 +355,7 @@ const essentials = [
   {
     slug: "best-time-to-visit-vietnam",
     category: "need-to-know",
-    image: "/images/tours/hoi-an-9-copy.jpg",
+    image: "/images/tours/hd/hoi-an-9-copy.jpg",
     title: {
       en: "Best Time to Visit Vietnam: Region by Region",
       zh: "越南最佳旅游时间：分地区详解",
@@ -372,7 +372,7 @@ const essentials = [
   {
     slug: "tipping-etiquette-vietnam",
     category: "food-culture",
-    image: "/images/tours/vietnamese-1.jpg",
+    image: "/images/tours/hd/vietnamese-1.jpg",
     title: { en: "Tipping & Local Etiquette in Vietnam", zh: "越南小费与当地礼仪" },
     excerpt: {
       en: "How much to tip guides and drivers, and simple do's and don'ts that locals appreciate.",
@@ -386,7 +386,7 @@ const essentials = [
   {
     slug: "domestic-flights-vietnam",
     category: "getting-around",
-    image: "/images/tours/airport-pick-up-one-way.jpg",
+    image: "/images/tours/hd/airport-pick-up-one-way.jpg",
     title: {
       en: "Domestic Flights in Vietnam: Airlines & Routes",
       zh: "越南国内航班：航空公司与航线",
@@ -403,7 +403,7 @@ const essentials = [
   {
     slug: "train-travel-vietnam",
     category: "getting-around",
-    image: "/images/tours/hanoi-2-2.png",
+    image: "/images/tours/hd/hanoi-2-2.jpg",
     title: {
       en: "Train Travel in Vietnam: The Reunification Express",
       zh: "越南火车旅行：统一铁路",
@@ -421,7 +421,7 @@ const essentials = [
     slug: "hanoi-to-halong-bay",
     category: "getting-around",
     destination: "halong-bay",
-    image: "/images/tours/emperor-cruises.png",
+    image: "/images/tours/hd/emperor-cruises.jpg",
     title: { en: "How to Get from Hanoi to Halong Bay", zh: "如何从河内前往下龙湾" },
     excerpt: {
       en: "Private car, limousine bus or seaplane – the options and travel times from Hanoi to Halong.",
@@ -436,7 +436,7 @@ const essentials = [
     slug: "hanoi-to-sapa",
     category: "getting-around",
     destination: "sapa",
-    image: "/images/tours/tips-to-sapa-moana.jpg",
+    image: "/images/tours/hd/tips-to-sapa-moana.jpg",
     title: { en: "How to Get from Hanoi to Sapa", zh: "如何从河内前往沙坝" },
     excerpt: {
       en: "Expressway car, limousine bus or night train – getting to Sapa's rice terraces.",
@@ -451,7 +451,7 @@ const essentials = [
     slug: "hanoi-to-ninh-binh",
     category: "getting-around",
     destination: "ninh-binh",
-    image: "/images/tours/tam-coc-bich-dong.jpg",
+    image: "/images/tours/hd/tam-coc-bich-dong.jpg",
     title: { en: "How to Get from Hanoi to Ninh Binh", zh: "如何从河内前往宁平" },
     excerpt: {
       en: "Ninh Binh is an easy day trip or overnight from Hanoi – here's how to get there.",

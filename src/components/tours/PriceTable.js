@@ -29,9 +29,7 @@ export function normalizeTable(rows) {
   const grid = [];
   body.forEach((row, i) => {
     if (row.length >= width || i === 0) {
-      grid.push(
-        Array.from({ length: width }, (_, j) => ({ text: row[j] ?? "", rowSpan: 1 })),
-      );
+      grid.push(Array.from({ length: width }, (_, j) => ({ text: row[j] ?? "", rowSpan: 1 })));
       return;
     }
     const prev = body[i - 1].length >= width ? body[i - 1] : body.find((r) => r.length >= width);

@@ -19,13 +19,13 @@
     "image": "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
     "gallery": [
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/cham-islands-da-nang.png",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg",
-      "/images/tours/tam-coc.png",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/thung-nham-bird-park.jpg"
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg"
     ],
     "route": [
       "Welcome to Ha Noi-Ha Long Bay-Lan Ha Bay",
@@ -196,15 +196,15 @@
     "price": 560,
     "originalPrice": null,
     "summary": "You’ll enjoy a mix of SIC (join-in) tours and private services, comfortable hotels, and a special complimentary Vietnamese hair-wash experience or…",
-    "image": "/images/tours/hcm-tour-1.jpg",
+    "image": "/images/tours/hd/hcm-tour-1.jpg",
     "gallery": [
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/ha-long.png",
-      "/images/tours/da-nang.jpg",
-      "/images/tours/west-lake-hanoi.png",
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/da-nang.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/yen-stream.png"
     ],
     "route": [
@@ -471,16 +471,16 @@
     "price": 492,
     "originalPrice": null,
     "summary": "The 10 Days 9 Nights HANOI – HA LONG – NINH BINH – DA NANG – PHU QUOC package is a full North Central South journey that blends world-class scenery,…",
-    "image": "/images/tours/phu-quoc.jpg",
+    "image": "/images/tours/hd/phu-quoc.jpg",
     "gallery": [
-      "/images/tours/phu-quoc.jpg",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/tam-coc.png",
-      "/images/tours/ha-long.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/cuc-huong.png",
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/cuc-huong.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": [
       "Welcome to Hanoi – Half Day City Tour – Private Tour",
@@ -828,11 +828,11 @@
     "image": "/images/tours/halongdanang9day8nightstour.png",
     "gallery": [
       "/images/tours/halongdanang9day8nightstour.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/chua-linh-ung-1.jpeg",
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/than-tai-hot-spring-park.png"
     ],
@@ -980,16 +980,16 @@
     "price": 435,
     "originalPrice": null,
     "summary": "Coming to Ha Long, tourists can experience kayaking to admire the beautiful scenery of the bay, continue the journey to Ninh Binh, tourists can visit the sacred pagoda, famous landscapes, come to Sapa to enjoy cloud hunting, see the fresh flowers, experience the culture of the highlands of ethnic minorities in the…",
-    "image": "/images/tours/dam-van-long-ninh-binh.jpg",
+    "image": "/images/tours/hd/dam-van-long-ninh-binh.jpg",
     "gallery": [
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/thung-nham-bird-park.jpg",
-      "/images/tours/cuc-huong.png",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg",
+      "/images/tours/hd/cuc-huong.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": [
       "Xin Chao! Welcome to Hanoi & City Tour",
@@ -1143,12 +1143,12 @@
     "image": "/images/tours/danang-phuquoctour8days7nights.png",
     "gallery": [
       "/images/tours/danang-phuquoctour8days7nights.png",
-      "/images/tours/airport-pick-up-one-way.jpg",
+      "/images/tours/hd/airport-pick-up-one-way.jpg",
       "/images/tours/dong-duong.png",
-      "/images/tours/fish.png",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
       "/images/tours/ganh-dau-beach.jpg",
-      "/images/tours/glaming.jpg",
+      "/images/tours/hd/glaming.jpg",
       "/images/tours/ho-quoc-pagoda.jpg"
     ],
     "route": [
@@ -1281,16 +1281,16 @@
     "price": 520,
     "originalPrice": null,
     "summary": "Travelers will experience the vibrant seaside city of Nha Trang, the cool climate and flower filled hills of Da Lat, the golden sand dunes of Mui Ne, and the cultural richness of the Mekong Delta before concluding in Ho Chi Minh…",
-    "image": "/images/tours/da-lat.png",
+    "image": "/images/tours/hd/da-lat.jpg",
     "gallery": [
-      "/images/tours/da-lat.png",
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
-      "/images/tours/suoi-tien-mui-ne.jpg",
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/da-lat.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
+      "/images/tours/hd/suoi-tien-mui-ne.jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
-      "/images/tours/lan-ngam-san-ho-1.jpg"
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg"
     ],
     "route": [
       "Arrival in Nha Trang – City Tour",
@@ -1430,14 +1430,14 @@
     "price": 450,
     "originalPrice": null,
     "summary": "Nha Trang – Da Lat – Mui Ne – Ho Chi Minh City itinerary is one of our signature programs, carefully designed to showcase Vietnam’s diverse landscapes,…",
-    "image": "/images/tours/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
+    "image": "/images/tours/hd/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
     "gallery": [
-      "/images/tours/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
-      "/images/tours/da-lat.png",
-      "/images/tours/mui-ne-sunset-tour.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
+      "/images/tours/hd/da-lat.jpg",
+      "/images/tours/hd/mui-ne-sunset-tour.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": [
       "Arrival in Nha Trang – City Tour",
@@ -1560,14 +1560,14 @@
     "price": 266,
     "originalPrice": null,
     "summary": "This tour 6 day, 5-night Hanoi – Ha Long – Ninh Binh – Sapa package is designed for travelers who want to experience the very best of Northern Vietnam in…",
-    "image": "/images/tours/ha-long.png",
+    "image": "/images/tours/hd/ha-long.jpg",
     "gallery": [
-      "/images/tours/ha-long.png",
-      "/images/tours/tam-coc.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png",
-      "/images/tours/bai-dinh.png"
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
+      "/images/tours/hd/bai-dinh.jpg"
     ],
     "route": [
       "Welcome to Hanoi – Half Day City Tour",
@@ -1907,14 +1907,14 @@
     "price": 520,
     "originalPrice": null,
     "summary": "Ha Giang – Cao Bang – Ban Gioc – Ba Be Lake Easy Rider tour is perfect for travelers who want to go deeper into Vietnam’s wild and mountainous…",
-    "image": "/images/tours/ba-ba-lake.jpg",
+    "image": "/images/tours/hd/ba-ba-lake.jpg",
     "gallery": [
-      "/images/tours/ba-ba-lake.jpg",
+      "/images/tours/hd/ba-ba-lake.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichcaobangbaccanthainguyen2ngay.jpg",
       "/images/tours/cao-bang.jpg",
-      "/images/tours/hoang-su-phi-ha-giang.jpg"
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg"
     ],
     "route": [
       "Ha Giang City – Bac Sum Slope – Quan Ba Heaven Gate – Twin Mountains – Yen Minh – Tham Ma Slope – H’Mong King Palace – Dong Van",
@@ -2062,14 +2062,14 @@
     "price": 298,
     "originalPrice": null,
     "summary": "The 6 Days 5 Nights HANOI – BAT TRANG – CHUONG CONICAL HAT VILLAGE – QUANG PHU CAU – HA LONG – NINH BINH package is perfect for travelers who want to…",
-    "image": "/images/tours/ha-long.png",
+    "image": "/images/tours/hd/ha-long.jpg",
     "gallery": [
-      "/images/tours/ha-long.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/thung-nham-bird-park.jpg",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png"
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg"
     ],
     "route": [
       "Welcome to Hanoi – Half Day City Tour",
@@ -2415,13 +2415,13 @@
     "price": 338,
     "originalPrice": null,
     "summary": "This five day four night tour at Vietlook Travel combines southern Vietnam’s natural landscapes, cultural heritage, and historical landmarks. Travelers…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/dulichmuine3ngay2demtuhcm(1).png"
     ],
     "route": [
@@ -2537,13 +2537,13 @@
     "price": 338,
     "originalPrice": null,
     "summary": "This five day, four night tour ( HCM - Mui Ne - Vung Tau Tour) offers a well balanced journey through southern Vietnam, combining vibrant city life,…",
-    "image": "/images/tours/mui-ne-sunset-tour.jpg",
+    "image": "/images/tours/hd/mui-ne-sunset-tour.jpg",
     "gallery": [
-      "/images/tours/mui-ne-sunset-tour.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/mui-ne-sunset-tour.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/tourdulichvungtau4ngay3dem.png"
     ],
     "route": [
@@ -2654,14 +2654,14 @@
     "price": 440,
     "originalPrice": null,
     "summary": "This 5 day Ha Giang – Cao Bang Easy Rider tour is perfect for travelers seeking a deeper journey into Northern Vietnam. The route combines the world–famous…",
-    "image": "/images/tours/bao-lac-cao-bang.jpg",
+    "image": "/images/tours/hd/bao-lac-cao-bang.jpg",
     "gallery": [
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
-      "/images/tours/ba-ba-lake.jpg",
+      "/images/tours/hd/ba-ba-lake.jpg",
       "/images/tours/cao-bang.jpg",
       "/images/tours/dulichcaobangbaccanthainguyen2ngay.jpg",
-      "/images/tours/nguom-ngao.png"
+      "/images/tours/hd/nguom-ngao.jpg"
     ],
     "route": [
       "Ha Giang City – Bac Sum Pass – Quan Ba Heaven Gate – Twin Mountains – Yen Minh – Tham Ma Slope – H’Mong King Palace – Dong Van",
@@ -2792,14 +2792,14 @@
     "price": 269,
     "originalPrice": null,
     "summary": "During the 4-day, 3-night Ha Long tour, visitors will experience a 5-star cruise to admire the beauty of the bay, visit the beauty of Hoa Lu, freely check-in at Hang Mua to save beautiful photos and enjoy delicious dishes that will bring visitors the most enjoyable…",
-    "image": "/images/tours/dulichninhbinhthang12cogidep8.jpg",
+    "image": "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
     "gallery": [
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/mua-cave.png",
-      "/images/tours/ninh-binh-goat.jpg"
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg"
     ],
     "route": [
       "Welcome to Ha Noi- Ha Long Bay- Lan Ha Bay",
@@ -2886,10 +2886,10 @@
     "price": 292,
     "originalPrice": null,
     "summary": "This 4 day Ha Giang Easy Rider adventure is designed for travelers who want to fully explore the most spectacular landscapes of Northern Vietnam. From…",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -3017,11 +3017,11 @@
     "image": "/images/tours/silver-waterfall-1.png",
     "gallery": [
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/du-lich.jpg",
-      "/images/tours/lonely-tree.jpg",
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/vietnamese-1.jpg"
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/du-lich.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/vietnamese-1.jpg"
     ],
     "route": [
       "Hanoi – Sapa – Cat Cat Village",
@@ -3110,12 +3110,12 @@
     "price": 124,
     "originalPrice": null,
     "summary": "This tour is perfect for travelers who want to spend more time exploring Sapa’s most popular attractions, combined with a colorful cultural experience at…",
-    "image": "/images/tours/cho-dong-xuan-ha-noi.jpg",
+    "image": "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
     "gallery": [
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg",
-      "/images/tours/du-lich.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
+      "/images/tours/hd/du-lich.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -3212,14 +3212,14 @@
     "price": 162,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to spend 3 days and 2 nights in Sapa, saving time while still visiting the most popular attractions. Guests…",
-    "image": "/images/tours/lonely-tree.jpg",
+    "image": "/images/tours/hd/lonely-tree.jpg",
     "gallery": [
-      "/images/tours/lonely-tree.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg",
-      "/images/tours/du-lich.jpg"
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
+      "/images/tours/hd/du-lich.jpg"
     ],
     "route": [
       "Hanoi – Sapa by Bus – Short Trek to Cat Cat Village",
@@ -3309,14 +3309,14 @@
     "price": 108,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to spend 3 days and 2 nights in Sapa, visiting the most popular attractions while staying in a comfortable…",
-    "image": "/images/tours/lonely-tree.jpg",
+    "image": "/images/tours/hd/lonely-tree.jpg",
     "gallery": [
-      "/images/tours/lonely-tree.jpg",
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi6.png",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg"
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg"
     ],
     "route": [
       "Hanoi – Sapa by Bus – Short Trek to Cat Cat Village",
@@ -3424,13 +3424,13 @@
     "price": 250,
     "originalPrice": null,
     "summary": "This 3 day, 2 night journey takes you deep into the majestic landscapes and historical sites of Cao Bang in the Northeast of Vietnam. Visit…",
-    "image": "/images/tours/nguom-ngao.png",
+    "image": "/images/tours/hd/nguom-ngao.jpg",
     "gallery": [
-      "/images/tours/nguom-ngao.png",
+      "/images/tours/hd/nguom-ngao.jpg",
       "/images/tours/cao-bang.jpg",
-      "/images/tours/ba-ba-lake.jpg",
+      "/images/tours/hd/ba-ba-lake.jpg",
       "/images/tours/dulichcaobangbaccanthainguyen2ngay.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png"
     ],
     "route": [
@@ -3543,10 +3543,10 @@
     "price": 216,
     "originalPrice": null,
     "summary": "This 3 day Ha Giang Easy Rider tour is designed for travelers who want a deeper, more immersive experience in the majestic landscapes of Ha Giang.",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -3661,10 +3661,10 @@
     "price": 340,
     "originalPrice": null,
     "summary": "Ha Giang Jeep Tour is ideal for travelers who want to discover the full beauty of the Ha Giang Loop in comfort and safety. Instead of riding a motorbike,…",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -3773,13 +3773,13 @@
     "price": 135,
     "originalPrice": null,
     "summary": "Experience the Mekong Delta with Vietlook Travel immerse yourself in rivers, culture, and Southern Vietnamese cuisine on this 3 day journey from My Tho to…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     "gallery": [
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": [
       "Saigon – My Tho – Ben Tre – Can Tho",
@@ -3876,13 +3876,13 @@
     "price": 135,
     "originalPrice": null,
     "summary": "Vietlook Travel 3 day tour takes you on an immersive journey through the Mekong Delta, exploring rivers, floating markets, traditional villages,…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     "gallery": [
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": [
       "Saigon – My Tho – Ben Tre – Chau Doc",
@@ -3983,14 +3983,14 @@
     "price": 144,
     "originalPrice": null,
     "summary": "On the 3-day, 2-night Sapa tour, visitors will visit Cat Cat and Ta Van villages to experience the culture of ethnic minorities, or immerse themselves in the clear blue waterfalls like Bac waterfall... especially the terraced fields winding around the mountainside, along with the beauty of blooming…",
-    "image": "/images/tours/du-lich.jpg",
+    "image": "/images/tours/hd/du-lich.jpg",
     "gallery": [
-      "/images/tours/du-lich.jpg",
+      "/images/tours/hd/du-lich.jpg",
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg",
-      "/images/tours/lonely-tree.jpg",
-      "/images/tours/tips-to-sapa-moana.jpg"
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg"
     ],
     "route": [
       "Hanoi – Sapa by bus with a short trek to Cat Cat village",
@@ -4088,11 +4088,11 @@
     "image": "/images/tours/tourdulichlanghuong1ngay.png",
     "gallery": [
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/duong-lam.jpg",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/quang-phu-cau.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg"
+      "/images/tours/hd/duong-lam.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg"
     ],
     "route": ["Hanoi – Sapa – Cat Cat Village", "Sapa – Fansipan Peak – Hanoi"],
     "highlights": ["Meals: Lunch, Dinner", "Meals: Breakfast, Lunch", "What to Bring"],
@@ -4174,13 +4174,13 @@
     "price": 105,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to visit both the most popular attractions in Sapa and the vibrant Bac Ha Market (open only on Sundays) within…",
-    "image": "/images/tours/where-is-cat-cat-village-1.jpg",
+    "image": "/images/tours/hd/where-is-cat-cat-village-1.jpg",
     "gallery": [
-      "/images/tours/where-is-cat-cat-village-1.jpg",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png"
     ],
     "route": ["Hanoi – Sapa – Cat Cat Village", "Sapa – Bac Ha Market – Lao Cai – Hanoi"],
@@ -4250,14 +4250,14 @@
     "price": 72,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to experience an authentic stay at a basic hill-tribe homestay, trek through the most beautiful ethnic…",
-    "image": "/images/tours/where-is-cat-cat-village-1.jpg",
+    "image": "/images/tours/hd/where-is-cat-cat-village-1.jpg",
     "gallery": [
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg"
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg"
     ],
     "route": [
       "Hanoi – Sapa – Y Linh Ho – Lao Chai – Ta Van",
@@ -4328,12 +4328,12 @@
     "price": 90,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to spend 2 days and 1 night in Sapa while saving time and visiting the most popular attractions. Enjoy…",
-    "image": "/images/tours/where-is-cat-cat-village-1.jpg",
+    "image": "/images/tours/hd/where-is-cat-cat-village-1.jpg",
     "gallery": [
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
       "/images/tours/bike-tours-hanoi-1-1.jpg"
     ],
@@ -4410,14 +4410,14 @@
     "price": 92,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to spend 2 days and 2 nights in Sapa, saving time while still visiting the most popular destinations. Stay in…",
-    "image": "/images/tours/tips-to-sapa-moana.jpg",
+    "image": "/images/tours/hd/tips-to-sapa-moana.jpg",
     "gallery": [
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg",
-      "/images/tours/du-lich.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
+      "/images/tours/hd/du-lich.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg"
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg"
     ],
     "route": [
       "Sapa – Fansipan – Short Trek to Cat Cat Village",
@@ -4499,14 +4499,14 @@
     "price": 124,
     "originalPrice": null,
     "summary": "Sapa sits at an altitude of 1,600 meters above sea level and enjoys a temperate climate with average temperatures ranging from 15°C to 18°C. Cool…",
-    "image": "/images/tours/lonely-tree.jpg",
+    "image": "/images/tours/hd/lonely-tree.jpg",
     "gallery": [
-      "/images/tours/lonely-tree.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi6.png",
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi6.jpg",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
-      "/images/tours/tips-to-sapa-moana.jpg"
+      "/images/tours/hd/tips-to-sapa-moana.jpg"
     ],
     "route": [
       "Hanoi – Sapa – Cat Cat Village – Sapa",
@@ -4587,14 +4587,14 @@
     "price": 80,
     "originalPrice": null,
     "summary": "This tour is designed for travelers who want to spend 2 days and 1 night in Sapa while saving time, visiting the most popular destinations, and…",
-    "image": "/images/tours/where-is-cat-cat-village-1.jpg",
+    "image": "/images/tours/hd/where-is-cat-cat-village-1.jpg",
     "gallery": [
-      "/images/tours/where-is-cat-cat-village-1.jpg",
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg"
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg"
     ],
     "route": [
       "Hanoi – Sapa by Bus – Short Trek to Cat Cat Village",
@@ -4662,14 +4662,14 @@
     "price": 80,
     "originalPrice": null,
     "summary": "This tour is designed for travelers who want to spend 2 days - 1 night in Sapa aiming at: Saving the time, visit the most popular travel sites in Sapa, stay overnight in a good hotel to be comfortable, much lower cost than going by night train, especially you can enjoy the friendly services…",
-    "image": "/images/tours/tips-to-sapa-moana.jpg",
+    "image": "/images/tours/hd/tips-to-sapa-moana.jpg",
     "gallery": [
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg"
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg"
     ],
     "route": [
       "Hanoi – Sapa by Bus with a Short Trek to Cat Cat Village",
@@ -4744,8 +4744,8 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": ["Phong Nha – Tan Hoa – Hang Ruc", "Hang Tien 1 – Hang Tien 2 – Tan Hoa – Phong Nha"],
     "highlights": [],
@@ -4817,9 +4817,9 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/cuc-huong.png",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/cuc-huong.jpg",
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": ["Elephant Cave and Ma Da Valley Jungle Trek"],
     "highlights": [],
@@ -4887,10 +4887,10 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/may-rut.png",
+      "/images/tours/hd/may-rut.jpg",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Phong Nha – Ban Doong Village – Hang En", "Hang En – Hang Lanh – Phong Nha"],
     "highlights": [],
@@ -4955,10 +4955,10 @@
     "price": 148,
     "originalPrice": null,
     "summary": "This Ha Giang Easy Rider tour is perfect for travelers seeking an authentic and adventurous journey through one of the most spectacular landscapes in…",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -5061,10 +5061,10 @@
     "price": 240,
     "originalPrice": null,
     "summary": "Ha Giang Jeep Tour is perfect for travelers who want to experience the legendary Ha Giang Loop in comfort and safety. Instead of riding a motorbike, you…",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg"
     ],
@@ -5159,13 +5159,13 @@
     "price": 80,
     "originalPrice": null,
     "summary": "Mekong Delta 2 days 1 night tour offers an immersive experience into the unique lifestyle of the Mekong Delta. Escape the busy city of Ho Chi Minh and…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     "gallery": [
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png"
     ],
     "route": [
@@ -5264,14 +5264,14 @@
     "price": 60,
     "originalPrice": null,
     "summary": "Arrive at An Thoi Harbor and board the boat for a scenic cruise through the southern islands of Phu Quoc. Visit Xuong Island and Gam Ghi Island for…",
-    "image": "/images/tours/glaming.jpg",
+    "image": "/images/tours/hd/glaming.jpg",
     "gallery": [
-      "/images/tours/glaming.jpg",
-      "/images/tours/may-rut.png",
+      "/images/tours/hd/glaming.jpg",
+      "/images/tours/hd/may-rut.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-north-island.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-south-island-1-day.jpg",
       "/images/tours/phu-quoc-to-east-island.png",
-      "/images/tours/sim-wine-factory.jpg"
+      "/images/tours/hd/sim-wine-factory.jpg"
     ],
     "route": ["Glamping Trip Two Days One Night"],
     "highlights": [
@@ -5347,13 +5347,13 @@
     "price": 40,
     "originalPrice": null,
     "summary": "Begin your adventure at An Thoi Harbor and enjoy a scenic boat cruise through the southern islands of Phu Quoc. Visit Xuong Island and Gam Ghi Island…",
-    "image": "/images/tours/may-rut.png",
+    "image": "/images/tours/hd/may-rut.jpg",
     "gallery": [
-      "/images/tours/may-rut.png",
-      "/images/tours/may-rut-trong-island.jpg",
-      "/images/tours/sunset-1.png",
+      "/images/tours/hd/may-rut.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/sunset-1.jpg",
       "/images/tours/tourdulichphuquoc4ngay3demtet1.png",
-      "/images/tours/airport-pick-up-one-way.jpg",
+      "/images/tours/hd/airport-pick-up-one-way.jpg",
       "/images/tours/dong-duong.png"
     ],
     "route": ["Camping Trip Two Days One Night"],
@@ -5434,14 +5434,14 @@
     "price": 28,
     "originalPrice": null,
     "summary": "Join Vietlook Travel on a one-day Hanoi City Tour to explore iconic landmarks, ancient pagodas, and historic sites. Immerse yourself in the city’s…",
-    "image": "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
+    "image": "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
     "gallery": [
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png"
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg"
     ],
     "route": ["Hanoi City Tour Full Day"],
     "highlights": ["Hoa Lo Prison Museum"],
@@ -5529,14 +5529,14 @@
     "price": 108,
     "originalPrice": null,
     "summary": "Sapa tour is designed for travelers who want to spend 3 days and 2 nights in Sapa while saving time and visiting the most popular destinations. You will…",
-    "image": "/images/tours/where-is-cat-cat-village-1.jpg",
+    "image": "/images/tours/hd/where-is-cat-cat-village-1.jpg",
     "gallery": [
-      "/images/tours/where-is-cat-cat-village-1.jpg",
-      "/images/tours/du-lich-sa-pa-mua-he.jpg",
-      "/images/tours/du-lich.jpg",
-      "/images/tours/didulichsapathang4cogidep5.jpg",
-      "/images/tours/tips-to-sapa-moana.jpg",
-      "/images/tours/lonely-tree.jpg"
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/du-lich-sa-pa-mua-he.jpg",
+      "/images/tours/hd/du-lich.jpg",
+      "/images/tours/hd/didulichsapathang4cogidep5.jpg",
+      "/images/tours/hd/tips-to-sapa-moana.jpg",
+      "/images/tours/hd/lonely-tree.jpg"
     ],
     "route": [
       "Hanoi – Sapa by Bus – Short Trek to Cat Cat Village",
@@ -5619,12 +5619,12 @@
     "price": 68,
     "originalPrice": null,
     "summary": "Experience Ha Noi Cultural Day Trip of culture, history, and local traditions with Vietlook Travel. Explore Van Phuc Silk Village – Thay Pagoda – Duong Lam Ancient…",
-    "image": "/images/tours/pho-chien-phong.jpg",
+    "image": "/images/tours/hd/pho-chien-phong.jpg",
     "gallery": [
-      "/images/tours/pho-chien-phong.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
       "/images/tours/bike-tours-hanoi-1-1.jpg"
     ],
@@ -5684,14 +5684,14 @@
     "price": 60,
     "originalPrice": null,
     "summary": "Departure time: 12:30 –…",
-    "image": "/images/tours/vietnamese-1.jpg",
+    "image": "/images/tours/hd/vietnamese-1.jpg",
     "gallery": [
-      "/images/tours/vietnamese-1.jpg",
+      "/images/tours/hd/vietnamese-1.jpg",
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/quang-phu-cau.jpg"
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg"
     ],
     "route": ["Enjoy Ha Noi’s Unique Cuisine and Vietnam Hair Washing"],
     "highlights": [
@@ -5811,14 +5811,14 @@
     "price": 56,
     "originalPrice": null,
     "summary": "Departure time: 12:30 –…",
-    "image": "/images/tours/quang-phu-cau.jpg",
+    "image": "/images/tours/hd/quang-phu-cau.jpg",
     "gallery": [
-      "/images/tours/quang-phu-cau.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/duong-lam.jpg",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/pho-chien-phong.jpg"
+      "/images/tours/hd/duong-lam.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg"
     ],
     "route": ["Hanoi Food Tour And Incense Stick Making Village Experience"],
     "highlights": [
@@ -5944,13 +5944,13 @@
     "price": 55,
     "originalPrice": null,
     "summary": "Discover the timeless charm of Duong Lam Ancient Village with Vietlook Travel. Located just 50 km from Hanoi, this peaceful heritage village offers…",
-    "image": "/images/tours/lang-co1.jpg",
+    "image": "/images/tours/hd/lang-co1.jpg",
     "gallery": [
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/quang-phu-cau.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/tournonchung.jpg"
     ],
     "route": ["Duong Lam Ancient Village – Private Day Tour From Hanoi"],
@@ -6006,8 +6006,8 @@
       "/images/tours/yen-stream.png",
       "/images/tours/dulichtamdao2ngay1dem.png",
       "/images/tours/tourcityhanoi1ngay.jpg",
-      "/images/tours/west-lake-hanoi.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/hanoicitytour01daytrip.png"
     ],
     "route": ["Perfume Pagoda One Day Trip"],
@@ -6064,10 +6064,10 @@
     "image": "/images/tours/hanoicitytour01daytrip.png",
     "gallery": [
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png"
     ],
     "route": ["Itinerary of Hanoi City Tour full day"],
@@ -6125,8 +6125,8 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": ["Discovery Phong Nha – Hang Tien Cave Tour"],
     "highlights": [],
@@ -6180,14 +6180,14 @@
     "price": 35,
     "originalPrice": null,
     "summary": "Ninh Binh 1 day tour will take visitors to visit the beauty of Hang Mua, or take a boat to admire the beautiful scenery of ripe rice fields surrounded by undulating limestone mountains, watch the lotus lake with fragrant scent, enjoy a cup of fragrant lotus tea will bring visitors the most enjoyable…",
-    "image": "/images/tours/dulichninhbinhthang12cogidep8.jpg",
+    "image": "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
     "gallery": [
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/mua-cave.png",
-      "/images/tours/cuc-huong.png"
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/cuc-huong.jpg"
     ],
     "route": ["Ha Noi - Bai Dinh - Trang An - Mua Cave"],
     "highlights": [],
@@ -6240,14 +6240,14 @@
     "price": 52,
     "originalPrice": null,
     "summary": "Hands-on lantern-making workshop – create a unique souvenir with your own story woven in silk and…",
-    "image": "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+    "image": "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
     "gallery": [
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
-      "/images/tours/cham-islands-da-nang.png",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/my-son-holy-land-1.jpg",
-      "/images/tours/hoi-an-9-copy.jpg"
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/my-son-holy-land-1.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg"
     ],
     "route": ["Lantern Making - Be a Real Farmer at Tra Que Village"],
     "highlights": [],
@@ -6310,14 +6310,14 @@
     "price": 52,
     "originalPrice": null,
     "summary": "This full day tour takes you to two of Central Vietnam’s most iconic UNESCO World Heritage sites. Explore the mystical My Son Holy Land, the ancient…",
-    "image": "/images/tours/my-son-holy-land-1.jpg",
+    "image": "/images/tours/hd/my-son-holy-land-1.jpg",
     "gallery": [
-      "/images/tours/my-son-holy-land-1.jpg",
-      "/images/tours/cham-islands-da-nang.png",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
-      "/images/tours/chua-linh-ung-1.jpeg"
+      "/images/tours/hd/my-son-holy-land-1.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg"
     ],
     "route": ["My Son Holy Land - Hoi An Ancient Town"],
     "highlights": [],
@@ -6374,14 +6374,14 @@
     "price": 42,
     "originalPrice": null,
     "summary": "Da Nang City Full Day Tour is an excellent introduction to the most modern and vibrant coastal city in Central Vietnam. This tour combines iconic…",
-    "image": "/images/tours/da-nang-world-wonders-park.jpeg",
+    "image": "/images/tours/hd/da-nang-world-wonders-park.jpg",
     "gallery": [
-      "/images/tours/da-nang-world-wonders-park.jpeg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
       "/images/tours/than-tai-hot-spring-park.png",
-      "/images/tours/chua-linh-ung-1.jpeg"
+      "/images/tours/hd/chua-linh-ung-1.jpg"
     ],
     "route": ["Day 1"],
     "highlights": [],
@@ -6436,8 +6436,8 @@
     "gallery": [
       "/images/tours/than-tai-hot-spring-park.png",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg",
-      "/images/tours/da-nang.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
+      "/images/tours/hd/da-nang.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png"
     ],
@@ -6492,14 +6492,14 @@
     "price": 20,
     "originalPrice": null,
     "summary": "Operated by Vietlook Travel, the Cham Island Full Day Tour is an ideal getaway for travelers who love nature, the sea, and outdoor activities. Located…",
-    "image": "/images/tours/cham-islands-da-nang.png",
+    "image": "/images/tours/hd/cham-islands-da-nang.jpg",
     "gallery": [
-      "/images/tours/cham-islands-da-nang.png",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
-      "/images/tours/chua-linh-ung-1.jpeg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg",
-      "/images/tours/da-nang.jpg"
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
+      "/images/tours/hd/da-nang.jpg"
     ],
     "route": ["Cham Island Full Day Tour"],
     "highlights": [],
@@ -6563,10 +6563,10 @@
     "price": 54,
     "originalPrice": null,
     "summary": "Enjoy a full-day escape to the cool climate of Ba Na Hills ( Da Nang City ), ride one of the world’s most impressive cable car systems, walk on the…",
-    "image": "/images/tours/da-nang.jpg",
+    "image": "/images/tours/hd/da-nang.jpg",
     "gallery": [
-      "/images/tours/da-nang.jpg",
-      "/images/tours/chua-linh-ung-1.jpeg",
+      "/images/tours/hd/da-nang.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
       "/images/tours/da-nang-tour-copy.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png",
@@ -6629,14 +6629,14 @@
     "price": 25,
     "originalPrice": null,
     "summary": "This afternoon tour brings you from Da Nang’s most sacred pagoda to the mystical Marble Mountains and the magical lantern town of Hoi An. It’s a perfect…",
-    "image": "/images/tours/chua-linh-ung-1.jpeg",
+    "image": "/images/tours/hd/chua-linh-ung-1.jpg",
     "gallery": [
-      "/images/tours/chua-linh-ung-1.jpeg",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/cham-islands-da-nang.png",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
-      "/images/tours/my-son-holy-land-1.jpg"
+      "/images/tours/hd/chua-linh-ung-1.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/my-son-holy-land-1.jpg"
     ],
     "route": [],
     "highlights": [
@@ -6695,14 +6695,14 @@
     "price": 30,
     "originalPrice": null,
     "summary": "This afternoon evening tour is perfect for travelers who want to combine nature, culture, and fun in one go: explore the sacred Marble Mountains, enjoy…",
-    "image": "/images/tours/bay-mau-coconut-forest.png",
+    "image": "/images/tours/hd/rach-vem-fishing-village-1.jpg",
     "gallery": [
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/chua-linh-ung-1.jpeg",
-      "/images/tours/cham-islands-da-nang.png",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg"
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg"
     ],
     "route": [],
     "highlights": ["Marble Mountain (Ngu Hanh Son)"],
@@ -6756,8 +6756,8 @@
     "image": "/images/tours/coktail-crusie.jpg",
     "gallery": [
       "/images/tours/coktail-crusie.jpg",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
       "/images/tours/tour3daonhatrang.jpg",
       "/images/tours/tourdulichdoclet1ngay.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg"
@@ -6824,12 +6824,12 @@
     "price": 32,
     "originalPrice": null,
     "summary": "Explore the beauty of Nha Trang Bay with Vietlook Travel on this exciting island-hopping tour. Swim in crystal-clear waters, snorkel among colorful…",
-    "image": "/images/tours/hon-mun-island-1.jpg",
+    "image": "/images/tours/hd/hon-mun-island-1.jpg",
     "gallery": [
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
       "/images/tours/tourdulichdoclet1ngay.jpg"
     ],
@@ -6881,14 +6881,14 @@
     "price": 48,
     "originalPrice": null,
     "summary": "Nha Trang Discovery Day…",
-    "image": "/images/tours/emperor-cruises.png",
+    "image": "/images/tours/hd/emperor-cruises.jpg",
     "gallery": [
-      "/images/tours/emperor-cruises.png",
+      "/images/tours/hd/emperor-cruises.jpg",
       "/images/tours/coktail-crusie.jpg",
       "/images/tours/tourdulichnhatrang4ngay3dem.png",
-      "/images/tours/tourdulichnhatranggiare.png",
+      "/images/tours/hd/tourdulichnhatranggiare.jpg",
       "/images/tours/tourtambunnhatrang.jpg",
-      "/images/tours/walking-under-the-sea-tour-1.jpg"
+      "/images/tours/hd/walking-under-the-sea-tour-1.jpg"
     ],
     "route": ["Nha Trang Discovery Cruises"],
     "highlights": [],
@@ -6977,11 +6977,11 @@
     "price": 32,
     "originalPrice": null,
     "summary": "Experience a relaxing and fun filled day exploring Nha Trang Bay with Vietlook Travel. This tour combines swimming at Mini Beach, a unique floating…",
-    "image": "/images/tours/nha-trang-fishing-village.jpg",
+    "image": "/images/tours/hd/nha-trang-fishing-village.jpg",
     "gallery": [
-      "/images/tours/nha-trang-fishing-village.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg",
-      "/images/tours/hon-mun-island-1.jpg",
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
       "/images/tours/tourdulichdoclet1ngay.jpg"
@@ -7039,13 +7039,13 @@
     "price": 32,
     "originalPrice": null,
     "summary": "Vietlook Travel on an exciting scuba diving experience in Nha Trang Bay. This tour is perfect for travelers who want to explore the colorful underwater…",
-    "image": "/images/tours/bai-tranh-beach-1.jpg",
+    "image": "/images/tours/hd/bai-tranh-beach-1.jpg",
     "gallery": [
-      "/images/tours/bai-tranh-beach-1.jpg",
-      "/images/tours/lan-ngam-san-ho-3.jpg",
-      "/images/tours/san-ho-1.png",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
-      "/images/tours/hon-mun-island-1.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
       "/images/tours/tourdulichdoclet1ngay.jpg"
     ],
     "route": ["Nha Trang Beach Diving Explore the Ocean Tour"],
@@ -7105,11 +7105,11 @@
     "price": 32,
     "originalPrice": null,
     "summary": "Join Vietlook Travel on a memorable island adventure in Nha Trang Bay. This tour offers the perfect combination of snorkeling at Mun Island,…",
-    "image": "/images/tours/hon-mun-island-1.jpg",
+    "image": "/images/tours/hd/hon-mun-island-1.jpg",
     "gallery": [
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg",
-      "/images/tours/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
       "/images/tours/tourdulichdoclet1ngay.jpg"
@@ -7173,12 +7173,12 @@
     "price": 25,
     "originalPrice": null,
     "summary": "Explore the cultural, historical, and natural highlights of Nha Trang City with Vietlook Travel. This city tour is an ideal choice for travelers who want…",
-    "image": "/images/tours/nha-trang-cathedral.jpg",
+    "image": "/images/tours/hd/nha-trang-cathedral.jpg",
     "gallery": [
-      "/images/tours/nha-trang-cathedral.jpg",
-      "/images/tours/long-son-pagoda.jpg",
-      "/images/tours/lan-ngam-san-ho-1.jpg",
-      "/images/tours/pristine-hon-tam-island-1-1.jpg",
+      "/images/tours/hd/nha-trang-cathedral.jpg",
+      "/images/tours/hd/long-son-pagoda.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/pristine-hon-tam-island-1-1.jpg",
       "/images/tours/tour3daonhatrang.jpg",
       "/images/tours/tourdulichnhatrang4ngay3dem.png"
     ],
@@ -7231,12 +7231,12 @@
     "price": 58,
     "originalPrice": null,
     "summary": "This tour takes you to the pristine Hon Tam Island ( Nha Trang ), a perfect destination to relax, swim, and enjoy natural wellness experiences. Escape…",
-    "image": "/images/tours/pristine-hon-tam-island-1-1.jpg",
+    "image": "/images/tours/hd/pristine-hon-tam-island-1-1.jpg",
     "gallery": [
-      "/images/tours/pristine-hon-tam-island-1-1.jpg",
+      "/images/tours/hd/pristine-hon-tam-island-1-1.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
       "/images/tours/tour3daonhatrang.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png"
     ],
@@ -7301,14 +7301,14 @@
     "price": 42,
     "originalPrice": null,
     "summary": "Experience a unique and unforgettable adventure with Vietlook Travel is Walking Under the Sea Tour. This tour allows you to walk on the ocean floor…",
-    "image": "/images/tours/walking-under-the-sea-tour-1.jpg",
+    "image": "/images/tours/hd/walking-under-the-sea-tour-1.jpg",
     "gallery": [
-      "/images/tours/walking-under-the-sea-tour-1.jpg",
+      "/images/tours/hd/walking-under-the-sea-tour-1.jpg",
       "/images/tours/tourdulichdoclet1ngay.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
       "/images/tours/dulichnhatrangbinhthun4ngay3dem.png",
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/bai-tranh-beach-1.jpg"
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg"
     ],
     "route": ["Walking Under the Sea Tour Nha Trang Beach"],
     "highlights": [],
@@ -7370,13 +7370,13 @@
     "price": 28,
     "originalPrice": null,
     "summary": "Enjoy a premium island-hopping experience in Nha Trang with Vietlook Travel’s 3 Island VIP Tour. This tour combines crystal-clear beaches, exciting…",
-    "image": "/images/tours/san-ho-1.png",
+    "image": "/images/tours/hd/lan-ngam-san-ho-3.jpg",
     "gallery": [
-      "/images/tours/san-ho-1.png",
-      "/images/tours/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/pristine-hon-tam-island-1-1.jpg",
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/pristine-hon-tam-island-1-1.jpg",
       "/images/tours/tour3daonhatrang.jpg"
     ],
     "route": ["Discover Nha Trang Beach 3 Island VIP Tour"],
@@ -7440,14 +7440,14 @@
     "price": 18,
     "originalPrice": null,
     "summary": "Discover the stunning beauty of Nha Trang Bay with Vietlook Travel on an exciting 3-island tour. This journey combines crystal-clear waters, colorful…",
-    "image": "/images/tours/bai-tranh-beach-1.jpg",
+    "image": "/images/tours/hd/bai-tranh-beach-1.jpg",
     "gallery": [
-      "/images/tours/bai-tranh-beach-1.jpg",
-      "/images/tours/san-ho-1.png",
-      "/images/tours/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/bai-tranh-beach-1.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
       "/images/tours/tourdulichnhatrang4n3d.jpg",
-      "/images/tours/hon-mun-island-1.jpg",
-      "/images/tours/pristine-hon-tam-island-1-1.jpg"
+      "/images/tours/hd/hon-mun-island-1.jpg",
+      "/images/tours/hd/pristine-hon-tam-island-1-1.jpg"
     ],
     "route": ["Discover Nha Trang Beach 3 Island Tour"],
     "highlights": ["SAN HO BAY"],
@@ -7516,14 +7516,14 @@
     "price": 32,
     "originalPrice": null,
     "summary": "This tour offers a unique opportunity to explore Hoi An’s traditional craft villages, where centuries-old skills are preserved and passed down…",
-    "image": "/images/tours/hoi-an-9-copy.jpg",
+    "image": "/images/tours/hd/hoi-an-9-copy.jpg",
     "gallery": [
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/my-son-holy-land-1.jpg",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/my-son-holy-land-1.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-      "/images/tours/cham-islands-da-nang.png"
+      "/images/tours/hd/cham-islands-da-nang.jpg"
     ],
     "route": ["Discover Hoi An Craft Villages – Preserving Traditional Culture"],
     "highlights": [],
@@ -7587,14 +7587,14 @@
     "price": 25,
     "originalPrice": null,
     "summary": "This tour is perfect for travelers looking to escape the crowds and experience the authentic charm of Hoi An’s countryside. Cycle through peaceful…",
-    "image": "/images/tours/my-son-holy-land-1.jpg",
+    "image": "/images/tours/hd/my-son-holy-land-1.jpg",
     "gallery": [
-      "/images/tours/my-son-holy-land-1.jpg",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/my-son-holy-land-1.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/cham-islands-da-nang.png"
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg"
     ],
     "route": ["Non Touristy Hoi An Craft Villages Tour with Biking"],
     "highlights": [],
@@ -7655,14 +7655,14 @@
     "price": 60,
     "originalPrice": null,
     "summary": "The VinWonders Nam Hoi An Full Day Tour offers a perfect mix of entertainment, wildlife exploration, cultural performances, and thrilling amusement…",
-    "image": "/images/tours/my-son-holy-land-1.jpg",
+    "image": "/images/tours/hd/my-son-holy-land-1.jpg",
     "gallery": [
-      "/images/tours/my-son-holy-land-1.jpg",
-      "/images/tours/bay-mau-coconut-forest.png",
-      "/images/tours/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
+      "/images/tours/hd/my-son-holy-land-1.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lantern-making-be-a-real-farmer-at-tra-que-village.jpg",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/cham-islands-da-nang.png"
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg"
     ],
     "route": ["Vinwonders Nam Hoi An"],
     "highlights": [],
@@ -7715,11 +7715,11 @@
     "price": 8,
     "originalPrice": null,
     "summary": "Hue DMZ Tour is a private, full-day journey exploring the historic Demilitarized Zone in Quang Tri…",
-    "image": "/images/tours/hien-luong-bridge.jpg",
+    "image": "/images/tours/hd/hien-luong-bridge.jpg",
     "gallery": [
-      "/images/tours/hien-luong-bridge.jpg",
+      "/images/tours/hd/hien-luong-bridge.jpg",
       "/images/tours/hue-tour.jpg",
-      "/images/tours/imperial-citadel.jpg",
+      "/images/tours/hd/imperial-citadel.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
       "/images/tours/khamphadanhthangvietnam.jpg"
     ],
@@ -7807,14 +7807,14 @@
     "price": 35,
     "originalPrice": null,
     "summary": "Operated by Vietlook Travel, this full day Hue City Tour is specially designed for international travelers who wish to explore the cultural, historical,…",
-    "image": "/images/tours/imperial-citadel.jpg",
+    "image": "/images/tours/hd/imperial-citadel.jpg",
     "gallery": [
-      "/images/tours/imperial-citadel.jpg",
+      "/images/tours/hd/imperial-citadel.jpg",
       "/images/tours/hue-tour.jpg",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/hien-luong-bridge.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/hien-luong-bridge.jpg",
       "/images/tours/ho-quoc-pagoda.jpg",
-      "/images/tours/long-son-pagoda.jpg"
+      "/images/tours/hd/long-son-pagoda.jpg"
     ],
     "route": ["Hue City Tour Full Day"],
     "highlights": [],
@@ -7872,8 +7872,8 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": ["Discovery Phong Nha – Tu Lan Cave Tour 1 Day"],
     "highlights": ["Phong Nha – Tan Hoa – To Mo – Tan Hoa – Phong Nha"],
@@ -7926,12 +7926,12 @@
     "price": 44,
     "originalPrice": null,
     "summary": "Saigon Midnight Sightseeing Adventure, operated by Vietlook Travel, is a late night city experience designed for international travelers who want to…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": [],
     "highlights": [
@@ -7987,12 +7987,12 @@
     "price": 39,
     "originalPrice": null,
     "summary": "Saigon Discover and Shop at Traditional Local Markets Tour, operated by Vietlook Travel, is designed for international travelers who want to explore…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Saigon Discover and Shop at Traditional Local Markets Tour"],
     "highlights": [
@@ -8056,13 +8056,13 @@
     "price": 44,
     "originalPrice": null,
     "summary": "The Saigon Walking Foodie and History Tour, operated by Vietlook Travel, is a cultural walking experience designed for international travelers who want…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/walking-under-the-sea-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/walking-under-the-sea-tour-1.jpg"
     ],
     "route": ["Saigon Walking Foodie and History Tour"],
     "highlights": [
@@ -8118,10 +8118,10 @@
     "image": "/images/tours/tourdulichvungtau4ngay3dem.png",
     "gallery": [
       "/images/tours/tourdulichvungtau4ngay3dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Vung Tau 1 Day Trip"],
     "highlights": [],
@@ -8183,13 +8183,13 @@
     "price": 95,
     "originalPrice": null,
     "summary": "Ao Dai Photo Shoot Experience in Ho Chi Minh City, offers international visitors a unique opportunity to wear Vietnam’s traditional costume and…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg"
     ],
     "route": ["Ao Dai Photo Shoot Experience"],
     "highlights": [
@@ -8246,12 +8246,12 @@
     "price": 35,
     "originalPrice": null,
     "summary": "Saigon Slum Tour operated by Vietlook Travel, offers international visitors a deeper and more realistic understanding of Ho Chi Minh City through…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": [],
     "highlights": [
@@ -8304,12 +8304,12 @@
     "price": 42,
     "originalPrice": null,
     "summary": "The Iconic Chill Spots in Saigon Tour, operated by Vietlook Travel, is designed especially for international visitors who would like to explore Ho Chi…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Iconic Chill Spots in Saigon Tour"],
     "highlights": [
@@ -8368,12 +8368,12 @@
     "price": 35,
     "originalPrice": null,
     "summary": "Explore the heart of Saigon with Vietlook Travel and immerse yourself in the city’s rich history, culture, and local lifestyle. This tour…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Saigon Iconic Sightseeing Tour"],
     "highlights": ["Highlights / Itinerary"],
@@ -8423,14 +8423,14 @@
     "price": 45,
     "originalPrice": null,
     "summary": "Discover the authentic flavors and culture of Saigon with Vietlook Travel on this iconic food tour. Explore local markets, taste signature dishes,…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/nem-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/nem-1.jpg"
     ],
     "route": ["Saigon Iconic Food Tour"],
     "highlights": ["Morning / Afternoon Session", "Night Session"],
@@ -8488,13 +8488,13 @@
     "price": 18,
     "originalPrice": null,
     "summary": "Visit Cho Lon, also known as Binh Tay Market, a famous wholesale market in Ho Chi Minh City. This area spans District Five to District Six and is home to…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Ho Chi Minh City Half Day Tour – Afternoon"],
     "highlights": [],
@@ -8556,13 +8556,13 @@
     "price": 18,
     "originalPrice": null,
     "summary": "This half day morning tour is a perfect introduction to Ho Chi Minh City. In a short amount of time, you will visit the city’s most famous historical…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Ho Chi Minh City Half Day Tour – Morning"],
     "highlights": [],
@@ -8629,13 +8629,13 @@
     "price": 26,
     "originalPrice": null,
     "summary": "This full day tour combines the highlights of Ho Chi Minh City with a meaningful visit to the Cu Chi Tunnels. In one day, you will explore…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Ho Chi Minh City Tour and Cu Chi Tunnels One Day Tour"],
     "highlights": [],
@@ -8699,14 +8699,14 @@
     "price": 26,
     "originalPrice": null,
     "summary": "Continue to a local bee farm to learn about honeybee cultivation and enjoy fresh honey tasting. Travel through Phu Quoc National Park before arriving at…",
-    "image": "/images/tours/rach-vem-fishing-village-1.jpg",
+    "image": "/images/tours/hd/rach-vem-fishing-village-1.jpg",
     "gallery": [
-      "/images/tours/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
       "/images/tours/ganh-dau-beach.jpg",
       "/images/tours/tour4daophuquoc-1.jpg",
       "/images/tours/tour4daophuquoc.jpg",
-      "/images/tours/tourdulichphuquoc-1.jpg",
-      "/images/tours/tourdulichphuquocgiare.png"
+      "/images/tours/hd/tourdulichphuquocgiare.jpg",
+      "/images/tours/hd/tourdulichphuquocgiare.jpg"
     ],
     "route": ["Phu Quoc North Island Sightseeing Tour"],
     "highlights": ["Without Lunch", "With Lunch", "What to Bring"],
@@ -8771,14 +8771,14 @@
     "price": 21,
     "originalPrice": null,
     "summary": "Depart from An Thoi Harbor on a luxury speedboat with a maximum capacity of fifteen guests, ensuring a comfortable and spacious experience…",
-    "image": "/images/tours/sunset-1.png",
+    "image": "/images/tours/hd/sunset-1.jpg",
     "gallery": [
-      "/images/tours/sunset-1.png",
+      "/images/tours/hd/sunset-1.jpg",
       "/images/tours/island.png",
-      "/images/tours/may-rut-trong-island.jpg",
-      "/images/tours/lan-ngam-san-ho-1.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
       "/images/tours/tour4daophuquoc.jpg",
-      "/images/tours/fish.png"
+      "/images/tours/hd/fish.jpg"
     ],
     "route": ["Luxury Speedboat Snorkeling Trip"],
     "highlights": ["What to Bring", "Environmental Responsibility", "Snorkeling Safety Guidelines"],
@@ -8846,14 +8846,14 @@
     "price": 24,
     "originalPrice": null,
     "summary": "As the day comes to an end, our team will prepare a delicious barbecue seafood dinner on the island. Savor your sunset barbecue dinner while watching the…",
-    "image": "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+    "image": "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
     "gallery": [
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
-      "/images/tours/may-rut-trong-island.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
       "/images/tours/island.png",
       "/images/tours/phu-quoc-centre-hotel-area-to-north-island.jpg",
       "/images/tours/phu-quoc-to-east-island.png",
-      "/images/tours/glaming.jpg"
+      "/images/tours/hd/glaming.jpg"
     ],
     "route": ["Sunset Barbecue on a Private Lagoon"],
     "highlights": ["What to Bring", "Environmental Responsibility", "Snorkeling Safety Guidelines"],
@@ -8918,10 +8918,10 @@
     "gallery": [
       "/images/tours/island.png",
       "/images/tours/dong-duong.png",
-      "/images/tours/may-rut-trong-island.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
       "/images/tours/tour4daophuquoc.jpg",
-      "/images/tours/sun-world-hon-thom-nature.jpg",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg"
+      "/images/tours/hd/sun-world-hon-thom-nature.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg"
     ],
     "route": ["Xuong Island or Buom Island – Gam Ghi Island – May Rut Trong Island"],
     "highlights": ["What to Bring", "Environmental Responsibility", "Snorkeling Safety Guidelines"],
@@ -8993,13 +8993,13 @@
     "price": 38,
     "originalPrice": null,
     "summary": "This full day experience combines island hopping, snorkeling, a world class water park, and an unforgettable cable car ride. Cable Car And 3 Islands Tour…",
-    "image": "/images/tours/sun-world-hon-thom-nature.jpg",
+    "image": "/images/tours/hd/sun-world-hon-thom-nature.jpg",
     "gallery": [
-      "/images/tours/sun-world-hon-thom-nature.jpg",
-      "/images/tours/may-rut-trong-island.jpg",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
-      "/images/tours/fish.png",
-      "/images/tours/sunset-1.png",
+      "/images/tours/hd/sun-world-hon-thom-nature.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/sunset-1.jpg",
       "/images/tours/tour4daophuquoc.jpg"
     ],
     "route": ["Cable Car And 3 Islands Trip By Boat"],
@@ -9063,13 +9063,13 @@
     "price": 12,
     "originalPrice": null,
     "summary": "This full day snorkeling tour is designed for travelers who want to explore the most beautiful coral reefs in southern Phu Quoc. Visiting three…",
-    "image": "/images/tours/lan-ngam-san-ho-3.jpg",
+    "image": "/images/tours/hd/lan-ngam-san-ho-3.jpg",
     "gallery": [
-      "/images/tours/lan-ngam-san-ho-3.jpg",
-      "/images/tours/lan-ngam-san-ho-1.jpg",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
-      "/images/tours/fish.png",
-      "/images/tours/sunset-1.png",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/sunset-1.jpg",
       "/images/tours/tour4daophuquoc.jpg"
     ],
     "route": ["Snorkeling 3 Islands Trip By Boat"],
@@ -9137,13 +9137,13 @@
     "price": 10,
     "originalPrice": null,
     "summary": "This half day boat trip is an ideal choice for travelers seeking a relaxing marine experience in Phu Quoc. The tour combines fishing, snorkeling, and…",
-    "image": "/images/tours/lan-ngam-san-ho-1.jpg",
+    "image": "/images/tours/hd/lan-ngam-san-ho-3.jpg",
     "gallery": [
-      "/images/tours/lan-ngam-san-ho-1.jpg",
-      "/images/tours/lan-ngam-san-ho-3.jpg",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
-      "/images/tours/fish.png",
-      "/images/tours/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
       "/images/tours/dong-duong.png"
     ],
     "route": ["Fishing And Snorkeling 2 Islands Tour By Boat"],
@@ -9213,13 +9213,13 @@
     "image": "/images/tours/khamphadanhthangvietnam.jpg",
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
-      "/images/tours/cham-islands-da-nang.png",
-      "/images/tours/chua-linh-ung-1.jpeg",
-      "/images/tours/da-nang-world-wonders-park.jpeg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png",
       "/images/tours/than-tai-hot-spring-park.png",
-      "/images/tours/da-nang.jpg"
+      "/images/tours/hd/da-nang.jpg"
     ],
     "route": [
       "Arrival in Hanoi",
@@ -9593,16 +9593,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam tour 22 days 21 nights su visitors will visit the beauty and historical sites in HCM, go to the Central Highlands to visit Buon Ma Thuot, Pleiku, Kontum., experience elephant riding, visit the communal houses with gong festival, continue the journey to Da Nang to see the poetic beach and learn about the daily life with coastal…",
-    "image": "/images/tours/vietnamese-1.jpg",
+    "image": "/images/tours/hd/vietnamese-1.jpg",
     "gallery": [
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg"
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg"
     ],
     "route": [
       "Arrival in Ho Chi Minh City",
@@ -9898,8 +9898,8 @@
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
       "/images/tours/than-tai-hot-spring-park.png",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg",
-      "/images/tours/da-nang.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
+      "/images/tours/hd/da-nang.jpg",
       "/images/tours/halongdanang9day8nightstour.png",
       "/images/tours/danang-phuquoctour8days7nights.png"
     ],
@@ -10149,13 +10149,13 @@
     "image": "/images/tours/dulichtamdao2ngay1dem.png",
     "gallery": [
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png"
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg"
     ],
     "route": [
       "Arrival in Hanoi",
@@ -10404,13 +10404,13 @@
     "image": "/images/tours/hanoicitytour01daytrip.png",
     "gallery": [
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg"
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg"
     ],
     "route": [
       "Arrival in Ho Chi Minh City",
@@ -10639,13 +10639,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam tour 16 days 15 nights takes tourists to explore Vietnam's heritage, following the S-shaped route, tourists visit the capital Hanoi, visit Uncle Ho's mausoleum and enjoy dishes in the Old Quarter, go to Ha Long to experience a 5-star cruise on the sea through famous caves, go to Da Nang, Hue Quang Binh to immerse yourself in the clear blue water, participate in games or mysterious…",
-    "image": "/images/tours/lang-co1.jpg",
+    "image": "/images/tours/hd/lang-co1.jpg",
     "gallery": [
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/quang-phu-cau.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
       "/images/tours/tournonchung.jpg"
@@ -10872,16 +10872,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam, an S-shaped country, is likened to a dragon, located in the west of the East Sea. With the perfect combination of elegance and rustic charm, it always captivates many travelers. So today, let's explore the famous sights from Hanoi, Sapa, Halong Bay, Hoi An, Hue, HCM, Mekong Delta 15 days 14 nights with Vietlook Travel…",
-    "image": "/images/tours/hanoi6.png",
+    "image": "/images/tours/hd/hanoi6.jpg",
     "gallery": [
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg"
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg"
     ],
     "route": [
       "Arrival in Hanoi",
@@ -11093,12 +11093,12 @@
     "image": "/images/tours/dulichtamdao2ngay1dem.png",
     "gallery": [
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png"
     ],
     "route": [
@@ -11301,16 +11301,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam 13-day tour, visitors will enjoy the cuisine of each region, see the famous sights from the capital Hanoi, Ha Long Bay and to the Central heritage, visit Hoi An ancient town, Thua Thien Hue, and fully explore the beauty of Ho Chi Minh City will bring visitors the most memorable…",
-    "image": "/images/tours/nem-1.jpg",
+    "image": "/images/tours/hd/nem-1.jpg",
     "gallery": [
-      "/images/tours/nem-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg"
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg"
     ],
     "route": [
       "Arrival in Hanoi – Welcome Home-hosted Dinner",
@@ -11500,8 +11500,8 @@
     "price": null,
     "originalPrice": null,
     "summary": "Northwest-Eastern 13-Day 12-Night Tour to admire the S-shaped beauty, on the mountain passes, or the clear blue waterfalls next to Ban Gioc waterfall, Lenin stream, or admire the Hoang Su Phi terraced fields. In addition, you can also experience the 5-star Ha Long cruise to admire the mysterious…",
-    "image": "/images/tours/doi-che-moc-chau.jpg",
-    "gallery": ["/images/tours/doi-che-moc-chau.jpg", "/images/tours/du-lich-tay-bac.png"],
+    "image": "/images/tours/hd/doi-che-moc-chau.jpg",
+    "gallery": ["/images/tours/hd/doi-che-moc-chau.jpg", "/images/tours/hd/du-lich-tay-bac.jpg"],
     "route": [
       "Arrival in Hanoi",
       "Hanoi – Fullday City Tour",
@@ -11687,16 +11687,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "Discover the beauty of Vietnam for 13 days and 12 nights will take visitors to visit the beauty of the capital Hanoi, experience a 5-star cruise on Ha Long Bay, or cross the Central region, to Hoi An with its brilliant lantern lights and stop to visit the beautiful scenery of Ho Chi Minh City, Cu Chi tunnels, or go down a bamboo boat to explore the beauty of the Mekong along the canals of the floating…",
-    "image": "/images/tours/quang-phu-cau.jpg",
+    "image": "/images/tours/hd/quang-phu-cau.jpg",
     "gallery": [
-      "/images/tours/quang-phu-cau.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg"
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg"
     ],
     "route": [
       "Arrival in Hanoi",
@@ -11889,14 +11889,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "The 13-day tour will take visitors to explore the beauty of Vietnam, with famous landmarks in the capital Hanoi, or visit spiritual tourist attractions in Ninh Binh, experience cycling to see the peaceful countryside, then the journey will take visitors to visit Da Nang, Hoi An, Hue Ancient Capital... or visit the historical site of Cu Chi…",
-    "image": "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
+    "image": "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
     "gallery": [
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/quang-phu-cau.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png"
     ],
@@ -12085,8 +12085,8 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam tour 12 days 11 nights is a journey to explore the beauty of the Northwest arc. Coming to Ha Giang, visitors conquer the mountain pass, admire the beauty of Nho Que river, visit Lung Cu flagpole, Dong Van ancient town... coming to Cao Bang, visitors visit the majestic Ban Gioc waterfall, admire the clear blue Ba Be Lake with the blue Lenin…",
-    "image": "/images/tours/doi-che-moc-chau.jpg",
-    "gallery": ["/images/tours/doi-che-moc-chau.jpg", "/images/tours/du-lich-tay-bac.png"],
+    "image": "/images/tours/hd/doi-che-moc-chau.jpg",
+    "gallery": ["/images/tours/hd/doi-che-moc-chau.jpg", "/images/tours/hd/du-lich-tay-bac.jpg"],
     "route": [
       "Arrival in Hanoi",
       "Hanoi – Countryside Tour",
@@ -12264,15 +12264,15 @@
     "price": null,
     "originalPrice": null,
     "summary": "The tour will take visitors to visit Hanoi City, learn about the culture and history, visit Lan Ha Bay, experience swimming at My Khe Beach, visit Da Nang's famous attractions and pass through Hoi An to admire the beauty of the Thu Bon River, and visit Cu Chi…",
-    "image": "/images/tours/cham-islands-da-nang.png",
+    "image": "/images/tours/hd/cham-islands-da-nang.jpg",
     "gallery": [
-      "/images/tours/cham-islands-da-nang.png",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-south-island-1-day.jpg",
-      "/images/tours/phu-quoc.jpg",
-      "/images/tours/sim-wine-factory.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/sim-wine-factory.jpg",
       "/images/tours/tour4daophuquoc-1.jpg",
-      "/images/tours/tourdulichphuquoc-1.jpg",
+      "/images/tours/hd/tourdulichphuquocgiare.jpg",
       "/images/tours/tourdulichphuquoc4ngay3demtet1.png"
     ],
     "route": [
@@ -12460,16 +12460,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "Discovering the beauty of Vietnam from Ho Chi Minh to Hanoi, tourists will visit famous landmarks or go to Hoi An to admire the beauty of the ancient streets, through the land of the Ancient Capital to visit ancient moss-covered mausoleums, to the vibrant city of Da Nang, or spiritual tourist attractions in Ninh Binh, the journey will bring tourists unforgettable…",
-    "image": "/images/tours/hoi-an-9-copy.jpg",
+    "image": "/images/tours/hd/hoi-an-9-copy.jpg",
     "gallery": [
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg",
-      "/images/tours/thung-nham-bird-park.jpg",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/tam-coc.png",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg"
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg"
     ],
     "route": [
       "Arrival in Ho Chi Minh City",
@@ -12648,16 +12648,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "This 10 day journey is perfect for first-time visitors who want to see the very best of Vietnam in comfort. From the charm of Hanoi’s Old Quarter and…",
-    "image": "/images/tours/hcm-tour-1.jpg",
+    "image": "/images/tours/hd/hcm-tour-1.jpg",
     "gallery": [
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/ha-long.png",
-      "/images/tours/da-nang.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/da-nang.jpg",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/dam-van-long-ninh-binh.jpg"
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg"
     ],
     "route": [
       "Welcome to Hanoi – Half-Day City Tour",
@@ -12825,16 +12825,16 @@
     "price": null,
     "originalPrice": null,
     "summary": "The tour will bring you the most memorable experiences, when visiting villages, famous landscapes of the North or experiencing on a cruise to see the poetic scenery will bring you the most memorable…",
-    "image": "/images/tours/cho-dong-xuan-ha-noi.jpg",
+    "image": "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
     "gallery": [
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/vietnamese-1.jpg"
+      "/images/tours/hd/vietnamese-1.jpg"
     ],
     "route": [
       "Arrival in Hanoi",
@@ -12984,14 +12984,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Coming to Ha Long, tourists can experience a cruise, or participate in sea games. Continuing the journey, tourists will be taken to Ninh Binh to visit sacred tourist attractions, or take a boat to admire the poetic beauty, or freely take photos at Quang Phu Cau incense village, which will bring tourists the most interesting…",
-    "image": "/images/tours/cuc-huong.png",
+    "image": "/images/tours/hd/cuc-huong.jpg",
     "gallery": [
-      "/images/tours/cuc-huong.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/cuc-huong.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": [
       "Welcome to Ha Noi",
@@ -13089,14 +13089,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietlook Travel is a professional travel company offering high-quality Nha Trang Tours and other travel packages for international travelers in…",
-    "image": "/images/tours/long-son-pagoda.jpg",
+    "image": "/images/tours/hd/long-son-pagoda.jpg",
     "gallery": [
-      "/images/tours/long-son-pagoda.jpg",
-      "/images/tours/nha-trang-cathedral.jpg",
-      "/images/tours/lan-ngam-san-ho-3.jpg",
-      "/images/tours/nha-trang-fishing-village.jpg",
-      "/images/tours/pristine-hon-tam-island-1-1.jpg",
-      "/images/tours/san-ho-1.png"
+      "/images/tours/hd/long-son-pagoda.jpg",
+      "/images/tours/hd/nha-trang-cathedral.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg",
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/pristine-hon-tam-island-1-1.jpg",
+      "/images/tours/hd/lan-ngam-san-ho-3.jpg"
     ],
     "route": [
       "City Tour and Sunset Cruise",
@@ -13201,10 +13201,10 @@
     "price": null,
     "originalPrice": null,
     "summary": "Coming to Hoang Su Phi, visitors can visit Phung village where there are golden terraced fields, or immerse themselves in the sea of ​​clouds of Suoi Thau grassland, visit the highland market where visitors can buy brocade products as gifts or freely check in at Hoang A Tuong…",
-    "image": "/images/tours/bao-lac-cao-bang.jpg",
+    "image": "/images/tours/hd/bao-lac-cao-bang.jpg",
     "gallery": [
-      "/images/tours/bao-lac-cao-bang.jpg",
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
       "/images/tours/hanoi-12.png"
@@ -13317,13 +13317,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Cao Bang 3 days 2 nights tour will take visitors to admire the beauty of the majestic Ban Gioc waterfall, or the clear Lenin stream, and experience rafting to see the beautiful scenery of Ba Be lake surrounded by high mountains, visit the villages hidden on the mountainside, a peaceful…",
-    "image": "/images/tours/ba-ba-lake.jpg",
+    "image": "/images/tours/hd/ba-ba-lake.jpg",
     "gallery": [
-      "/images/tours/ba-ba-lake.jpg",
+      "/images/tours/hd/ba-ba-lake.jpg",
       "/images/tours/cao-bang.jpg",
       "/images/tours/dulichcaobangbaccanthainguyen2ngay.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png"
     ],
     "route": [
@@ -13399,13 +13399,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Coming to Ha Giang in buckwheat flower season, visitors will be immersed in the beauty of blooming flowers, conquer winding mountain passes filled with flowers or visit villages, experience the culture of ethnic minorities in the Northwest mountains and immerse themselves in the melodious sounds of trumpets and flutes calling you on the…",
-    "image": "/images/tours/hoang-su-phi-ha-giang.jpg",
+    "image": "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     "gallery": [
-      "/images/tours/hoang-su-phi-ha-giang.jpg",
+      "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
       "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
-      "/images/tours/bao-lac-cao-bang.jpg",
+      "/images/tours/hd/bao-lac-cao-bang.jpg",
       "/images/tours/dulichhagiangcaobang6ngay5dem.png",
-      "/images/tours/da-lat.png"
+      "/images/tours/hd/da-lat.jpg"
     ],
     "route": [
       "Ha Noi - Ha Giang - Quan Ba - Yen Minh",
@@ -13546,14 +13546,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Experience on the 5-star Halong Ambassador cruise will bring visitors the most comfortable vacation, with luxurious amenities, attentive service, and enjoy delicious dishes with Asian and European…",
-    "image": "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    "image": "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
     "gallery": [
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Hanoi - Hanoi - Halong Cruise", "Surprise Cave - Halong Bay"],
     "highlights": [],
@@ -13612,11 +13612,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Experience a 5-star registered cruise, with luxury services, visitors can join overnight cruises and day cruises with perfect amenities, on the cruise there are restaurant and hotel services, visitors can organize events right on the…",
-    "image": "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    "image": "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
     "gallery": [
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg"
@@ -13681,14 +13681,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Experiencing the Sea Stars cruise, visitors will enjoy the poetic scenery of a place likened to a resort paradise. Let's experience it with Vietlook on this 5-star Ha Long…",
-    "image": "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    "image": "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
     "gallery": [
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/da-nang-tour-copy.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["Sung Sot Cave - Titop Island", "Tung Sau Pearl Farm"],
     "highlights": [],
@@ -13750,11 +13750,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ha Long 2 days 1 night cruise tour, visitors will experience the most interesting things, with luxurious design inspired by Europe, explore the beauty of the sea and islands and enjoy Asian and European cuisine with delicious and irresistible…",
-    "image": "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    "image": "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
     "gallery": [
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
       "/images/tours/khamphavedepvietnamhuehoiansapa.jpg"
@@ -13819,13 +13819,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ha Long Cruise 2 days 1 night, visitors will experience on the luxurious 5-star ASPIRA CRUISES boat with a perfect combination of modern and traditional design, bringing you a comfortable journey and taking you to explore natural wonders with many interesting activities such as: kayaking, swimming, relaxing,…",
-    "image": "/images/tours/tourduthuyenhalong1ngay1-2.png",
+    "image": "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
     "gallery": [
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
       "/images/tours/da-nang-tour-copy.jpg"
     ],
     "route": ["Ha Noi – Halong - Lan Ha Bay", "Lan Ha Bay – Ha Noi"],
@@ -13888,11 +13888,11 @@
     "image": "/images/tours/hanoicitytour01daytrip.png",
     "gallery": [
       "/images/tours/hanoicitytour01daytrip.png",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/quang-phu-cau.jpg"
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg"
     ],
     "route": [
       "Hanoi - Catba National Park - Trung Trang Cave",
@@ -13954,14 +13954,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ninh Binh – Ha Long 2 day, 1 night tour is the perfect journey for travelers who want to uncover the breathtaking natural beauty and rich cultural heritage…",
-    "image": "/images/tours/ha-long.png",
+    "image": "/images/tours/hd/ha-long.jpg",
     "gallery": [
-      "/images/tours/ha-long.png",
+      "/images/tours/hd/ha-long.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/cuc-huong.png"
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/cuc-huong.jpg"
     ],
     "route": ["Ninh Binh – Ha Long Bay – Hanoi"],
     "highlights": [
@@ -14061,13 +14061,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Vietnam, with its 4,000-year history, is renowned nationally and globally for its intricate crafts created by talented artisans. These masterpieces reflect the country’s rich cultural and historical…",
-    "image": "/images/tours/langnonchuongdapxe.jpg",
+    "image": "/images/tours/hd/langnonchuongdapxe.jpg",
     "gallery": [
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png"
     ],
     "route": [],
@@ -14138,8 +14138,8 @@
       "/images/tours/tournonchung.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/hanoi-12.png"
     ],
     "route": [],
@@ -14204,14 +14204,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Paradise Delight Cruise – Journey Through the World Natural…",
-    "image": "/images/tours/emperor-cruises.png",
+    "image": "/images/tours/hd/emperor-cruises.jpg",
     "gallery": [
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/coktail-crusie.jpg",
-      "/images/tours/dam-van-long-ninh-binh.jpg"
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg"
     ],
     "route": ["Paradise Delight Ha Long Bay Cruise"],
     "highlights": [
@@ -14301,11 +14301,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Experience the Ambassador Day Cruise, one of the most luxurious day cruises in Halong Bay. The vessel offers spacious twin sundecks with 360 degree views…",
-    "image": "/images/tours/emperor-cruises.png",
+    "image": "/images/tours/hd/emperor-cruises.jpg",
     "gallery": [
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/coktail-crusie.jpg"
     ],
@@ -14371,11 +14371,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Check-in and Transfer to Luna Halong…",
-    "image": "/images/tours/emperor-cruises.png",
+    "image": "/images/tours/hd/emperor-cruises.jpg",
     "gallery": [
-      "/images/tours/emperor-cruises.png",
-      "/images/tours/ha-long.png",
-      "/images/tours/tourduthuyenhalong1ngay1-2.png",
+      "/images/tours/hd/emperor-cruises.jpg",
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
       "/images/tours/tourdulichhanoi-daoquanlan3ngay.jpg",
       "/images/tours/coktail-crusie.jpg"
     ],
@@ -14463,10 +14463,10 @@
     "image": "/images/tours/tourdulichlanghuong1ngay.png",
     "gallery": [
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/quang-phu-cau.jpg",
-      "/images/tours/duong-lam.jpg",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
+      "/images/tours/hd/duong-lam.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg"
     ],
     "route": [
@@ -14519,11 +14519,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "The 1-day Cu Chi tour will take tourists to visit the beautiful Reunification Palace in HCM, stop by the Notre Dame Cathedral and the historic Central Post Office, the Museum displaying historical artifacts, and continue the journey to visit Cu Chi…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg"
     ],
     "route": ["Ho Chi Minh City Tour – Cu Chi Tune"],
@@ -14580,10 +14580,10 @@
     "image": "/images/tours/tourdulichlanghuong1ngay.png",
     "gallery": [
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/quang-phu-cau.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
-      "/images/tours/duong-lam.jpg",
-      "/images/tours/lang-co1.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
+      "/images/tours/hd/duong-lam.jpg",
+      "/images/tours/hd/lang-co1.jpg",
       "/images/tours/tournonchung.jpg"
     ],
     "route": ["Quang Phu Cau Incense Village & Chuong Conical Hat Village"],
@@ -14634,11 +14634,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Let's explore the beauty of Ba Na with Vietlook Travel, visitors will experience the record-breaking cable car route, sitting on the cable car, visitors will admire the scenery of the clear blue Mo stream, freely take virtual photos at the Golden Bridge, visit the sacred Linh Ung pagoda, conquer the peak of Ba Na, the mountain lord hidden in the…",
-    "image": "/images/tours/da-nang.jpg",
+    "image": "/images/tours/hd/da-nang.jpg",
     "gallery": [
-      "/images/tours/da-nang.jpg",
-      "/images/tours/cham-islands-da-nang.png",
-      "/images/tours/chua-linh-ung-1.jpeg",
+      "/images/tours/hd/da-nang.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
+      "/images/tours/hd/chua-linh-ung-1.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png",
       "/images/tours/than-tai-hot-spring-park.png"
@@ -14691,8 +14691,8 @@
     "price": null,
     "originalPrice": null,
     "summary": "On the 1-day Mekong tour, visitors will experience a boat ride through the canals, surrounded by rows of trees and green coconut trees, to Dragon Island, Unicorn Island, Phoenix Island and Turtle Island... and visit the fishing port, Rach Mieu bridge, stilt houses and boatyards, and fruit gardens where visitors can enjoy seasonal fruits and delicious local…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
-    "gallery": ["/images/tours/dulichmientay5ngay4dem.png"],
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+    "gallery": ["/images/tours/hd/dulichmientay5ngay4dem.jpg"],
     "route": ["Mekong Delta"],
     "highlights": [],
     "itinerary": [
@@ -14741,13 +14741,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ho Chi Minh City to Mui Ne One Day Tour offers travelers a chance to explore some of the most beautiful natural landscapes in southern Vietnam within a…",
-    "image": "/images/tours/suoi-tien-mui-ne.jpg",
+    "image": "/images/tours/hd/suoi-tien-mui-ne.jpg",
     "gallery": [
-      "/images/tours/suoi-tien-mui-ne.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/suoi-tien-mui-ne.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/dulichmuine3ngay2demtuhcm.png"
     ],
     "route": ["Ho Chi Minh City to Mui Ne One Day Tour"],
@@ -14820,14 +14820,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "This sapa tour is designed for travelers who want to spend 3 days - 2 night in Sapa aiming at: Saving the time, visit the most popular travel sites in…",
-    "image": "/images/tours/lonely-tree.jpg",
+    "image": "/images/tours/hd/lonely-tree.jpg",
     "gallery": [
-      "/images/tours/lonely-tree.jpg",
-      "/images/tours/where-is-cat-cat-village-1.jpg",
+      "/images/tours/hd/lonely-tree.jpg",
+      "/images/tours/hd/where-is-cat-cat-village-1.jpg",
       "/images/tours/silver-waterfall-1.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png"
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg"
     ],
     "route": ["Hanoi – Sapa Tour 2 Day 1 Night"],
     "highlights": ["What to Bring"],
@@ -14906,14 +14906,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ha Long – Ninh Binh 2 day, 1 night tour is an ideal journey for travelers seeking to explore the magnificent natural landscapes and rich cultural heritage…",
-    "image": "/images/tours/ha-long.png",
+    "image": "/images/tours/hd/ha-long.jpg",
     "gallery": [
-      "/images/tours/ha-long.png",
-      "/images/tours/tam-coc.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/dam-van-long-ninh-binh.jpg",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg"
+      "/images/tours/hd/ha-long.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/dam-van-long-ninh-binh.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg"
     ],
     "route": ["Hanoi - Ha Long Sonata 5 Star Day Cruise - Ninh Binh"],
     "highlights": [
@@ -15008,12 +15008,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "Our team takes guests to sample the best dishes that Vietnam has to offer! This is a great way to see parts of the city that most tourists don’t have…",
-    "image": "/images/tours/old-quarter-ta-hien-1.jpg",
+    "image": "/images/tours/hd/old-quarter-ta-hien-1.jpg",
     "gallery": [
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/vietnamese-1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/vietnamese-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
       "/images/tours/hanoi-12.png"
     ],
@@ -15081,13 +15081,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "We will cycle to see the amazing alley where the train passes through the residential area. Riding along the train track, you will explore part of the…",
-    "image": "/images/tours/west-lake-hanoi.png",
+    "image": "/images/tours/hd/west-lake-hanoi.jpg",
     "gallery": [
-      "/images/tours/west-lake-hanoi.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png"
     ],
     "route": ["Hanoi Bicycle Backstreet Tour 4.5 Hours"],
@@ -15152,11 +15152,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "War is a memory that peace lovers do not wish to recall, but it happened on the beautiful land of Vietnam. While there is an abundance of…",
-    "image": "/images/tours/cho-dong-xuan-ha-noi.jpg",
+    "image": "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
     "gallery": [
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
       "/images/tours/yen-stream.png"
@@ -15214,12 +15214,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "From there, we continue riding to Ho Chi Minh Mausoleum, the 1,000 year old Citadel and B52 Lake, where a military aircraft was shot down and has remained…",
-    "image": "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
+    "image": "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
     "gallery": [
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg"
     ],
@@ -15285,13 +15285,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Dive into the coffee culture of Hanoi with our Hanoi Coffee Tour and learn traditional coffee-making techniques while creating three local…",
-    "image": "/images/tours/hanoi-2-2.png",
+    "image": "/images/tours/hd/hanoi-2-2.jpg",
     "gallery": [
-      "/images/tours/hanoi-2-2.png",
+      "/images/tours/hd/hanoi-2-2.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi7.png",
+      "/images/tours/hd/hanoi7.jpg",
       "/images/tours/hanoicitytour01daytrip.png"
     ],
     "route": ["Hanoi Coffee Tour"],
@@ -15360,14 +15360,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Cooking is a key part of culture, and through this experience, participants will gain valuable insights into the history, rituals, and values connected…",
-    "image": "/images/tours/nem-1.jpg",
+    "image": "/images/tours/hd/nem-1.jpg",
     "gallery": [
-      "/images/tours/nem-1.jpg",
+      "/images/tours/hd/nem-1.jpg",
       "/images/tours/tournonchung.jpg",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/old-quarter-ta-hien-1.jpg",
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/quang-phu-cau.jpg"
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/old-quarter-ta-hien-1.jpg",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg"
     ],
     "route": ["Discover Vietnam's Culinary Culture Experience"],
     "highlights": ["Itinerary", "Our Menu"],
@@ -15424,10 +15424,10 @@
     "gallery": [
       "/images/tours/bike-tours-hanoi-3.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
-      "/images/tours/hanoi-2-2.png",
+      "/images/tours/hd/hanoi-2-2.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi7.png"
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi7.jpg"
     ],
     "route": ["Hanoi Bicycle To Red River Island Countryside"],
     "highlights": ["Detailed Itinerary of the Tour"],
@@ -15493,10 +15493,10 @@
     "gallery": [
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
-      "/images/tours/hanoi-2-2.png",
+      "/images/tours/hd/hanoi-2-2.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-      "/images/tours/hanoi7.png"
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi7.jpg"
     ],
     "route": ["Visit Hanoi And Countryside By Bicycle"],
     "highlights": ["Detailed Itinerary Of the Tour"],
@@ -15561,11 +15561,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Detailed Itinerary Of The Tour 8:00 AM: Our Hanoi Bicycle Tour Team will pick you up from your hotel, Airbnb, or homestay and take you to our bicycle…",
-    "image": "/images/tours/hanoi6.png",
+    "image": "/images/tours/hd/hanoi6.jpg",
     "gallery": [
-      "/images/tours/hanoi6.png",
-      "/images/tours/hanoi7.png",
-      "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/hanoi7.jpg",
+      "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg"
@@ -15635,12 +15635,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "Our first highlight is crossing the Red River via Long Bien Bridge – the oldest bridge in Hanoi, built over 100 years ago during the French colonial…",
-    "image": "/images/tours/hanoi7.png",
+    "image": "/images/tours/hd/hanoi7.jpg",
     "gallery": [
-      "/images/tours/hanoi7.png",
-      "/images/tours/hanoi-2-2.png",
+      "/images/tours/hd/hanoi7.jpg",
+      "/images/tours/hd/hanoi-2-2.jpg",
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi6.png",
+      "/images/tours/hd/hanoi6.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png"
     ],
@@ -15718,13 +15718,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "",
-    "image": "/images/tours/pho-chien-phong.jpg",
+    "image": "/images/tours/hd/pho-chien-phong.jpg",
     "gallery": [
-      "/images/tours/pho-chien-phong.jpg",
-      "/images/tours/lang-chu-tich-ho-chi-minh-2.png",
-      "/images/tours/vietnamese-1.jpg",
-      "/images/tours/nem-1.jpg",
-      "/images/tours/west-lake-hanoi.png",
+      "/images/tours/hd/pho-chien-phong.jpg",
+      "/images/tours/hd/lang-chu-tich-ho-chi-minh-2.jpg",
+      "/images/tours/hd/vietnamese-1.jpg",
+      "/images/tours/hd/nem-1.jpg",
+      "/images/tours/hd/west-lake-hanoi.jpg",
       "/images/tours/yen-stream.png"
     ],
     "route": ["Hanoi by Night Food Tour"],
@@ -15794,11 +15794,11 @@
     "image": "/images/tours/hanoi-12.png",
     "gallery": [
       "/images/tours/hanoi-12.png",
-      "/images/tours/hanoi-2-2.png",
-      "/images/tours/hanoi6.png",
-      "/images/tours/cho-dong-xuan-ha-noi.jpg",
+      "/images/tours/hd/hanoi-2-2.jpg",
+      "/images/tours/hd/hanoi6.jpg",
+      "/images/tours/hd/cho-dong-xuan-ha-noi.jpg",
       "/images/tours/dulichtamdao2ngay1dem.png",
-      "/images/tours/duong-lam.jpg"
+      "/images/tours/hd/duong-lam.jpg"
     ],
     "route": ["Exploring the North of the Red River"],
     "highlights": [],
@@ -15867,12 +15867,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "This tour combines visits to ancient temples or a grand pagoda complex with countryside cycling, cave exploration, and the famous Thung Nham Bird…",
-    "image": "/images/tours/thung-nham-bird-park.jpg",
+    "image": "/images/tours/hd/thung-nham-bird-park.jpg",
     "gallery": [
-      "/images/tours/thung-nham-bird-park.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg"
     ],
@@ -15966,13 +15966,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "Discover the timeless beauty of Đường Lâm Ancient Village and explore northern Vietnam’s spiritual heritage on this full-day cultural journey with…",
-    "image": "/images/tours/duong-lam.jpg",
+    "image": "/images/tours/hd/duong-lam.jpg",
     "gallery": [
-      "/images/tours/duong-lam.jpg",
+      "/images/tours/hd/duong-lam.jpg",
       "/images/tours/tourdulichlanghuong1ngay.png",
-      "/images/tours/lang-co1.jpg",
-      "/images/tours/langnonchuongdapxe.jpg",
-      "/images/tours/quang-phu-cau.jpg",
+      "/images/tours/hd/lang-co1.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
+      "/images/tours/hd/quang-phu-cau.jpg",
       "/images/tours/tourcityhanoi1ngay.jpg"
     ],
     "route": ["Ancient Village And Spiritual Journey"],
@@ -16031,14 +16031,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Hanoi – Hoa Lu or Bai Dinh – Trang An – Mua Cave – Cuc Phuong National Park. Discover the highlights of Ninh Binh with a perfect combination of spiritual sites, natural wonders, river grottoes, panoramic mountains, and Vietnam’s oldest national…",
-    "image": "/images/tours/cuc-huong.png",
+    "image": "/images/tours/hd/cuc-huong.jpg",
     "gallery": [
-      "/images/tours/cuc-huong.png",
+      "/images/tours/hd/cuc-huong.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/mua-cave.png",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png"
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg"
     ],
     "route": ["Hanoi – Hoa Lu or Bai Dinh – Trang An – Mua Cave – Cuc Phuong National Park"],
     "highlights": [
@@ -16139,12 +16139,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "Hanoi – Hoa Lu or Bai Dinh – Trang An – Mua Cave – Tam Coc – Cycling –…",
-    "image": "/images/tours/bai-dinh.png",
+    "image": "/images/tours/hd/bai-dinh.jpg",
     "gallery": [
-      "/images/tours/bai-dinh.png",
+      "/images/tours/hd/bai-dinh.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/tam-coc.png",
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg",
       "/images/tours/bike-tours-hanoi-3.jpg"
     ],
@@ -16234,13 +16234,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "10:30 – Visit Hoa Lu Ancient…",
-    "image": "/images/tours/tam-coc-bich-dong.jpg",
+    "image": "/images/tours/hd/tam-coc-bich-dong.jpg",
     "gallery": [
-      "/images/tours/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/mua-cave.png",
-      "/images/tours/tam-coc.png",
-      "/images/tours/langnonchuongdapxe.jpg",
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/tam-coc.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg",
       "/images/tours/bike-tours-hanoi-1-1.jpg"
     ],
     "route": ["Hanoi – Hoa Lu – Cycling – Tam Coc – Mua Cave"],
@@ -16325,11 +16325,11 @@
     "image": "/images/tours/hoa-lu.png",
     "gallery": [
       "/images/tours/hoa-lu.png",
-      "/images/tours/mua-cave.png",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg",
-      "/images/tours/tourdulichninhbinh1ngay.png",
-      "/images/tours/langnonchuongdapxe.jpg"
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg",
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
+      "/images/tours/hd/langnonchuongdapxe.jpg"
     ],
     "route": ["Hoa Lu – Cycling – Trang An – Mua Cave – Tam Coc"],
     "highlights": ["Itinerary"],
@@ -16406,14 +16406,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Discover the beauty of Ninh Binh through ancient history, peaceful rivers, limestone mountains, and countryside cycling. This tour is perfect for…",
-    "image": "/images/tours/tam-coc.png",
+    "image": "/images/tours/hd/tam-coc.jpg",
     "gallery": [
-      "/images/tours/tam-coc.png",
+      "/images/tours/hd/tam-coc.jpg",
       "/images/tours/hoa-lu.png",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg",
-      "/images/tours/thung-nham-bird-park.jpg"
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg"
     ],
     "route": ["Ninh Binh Experience"],
     "highlights": ["Itinerary"],
@@ -16490,14 +16490,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Explore the natural beauty and cultural heritage of Ninh Binh on this full-day tour. From ancient temples to towering limestone mountains and serene…",
-    "image": "/images/tours/mua-cave.png",
+    "image": "/images/tours/hd/mua-cave.jpg",
     "gallery": [
-      "/images/tours/mua-cave.png",
-      "/images/tours/bai-dinh.png",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/cuc-huong.png",
-      "/images/tours/dulichninhbinhthang12cogidep8.jpg"
+      "/images/tours/hd/mua-cave.jpg",
+      "/images/tours/hd/bai-dinh.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/cuc-huong.jpg",
+      "/images/tours/hd/dulichninhbinhthang12cogidep8.jpg"
     ],
     "route": ["Ninh Binh Discovery"],
     "highlights": ["Itinerary"],
@@ -16573,14 +16573,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Ninh Binh 1 day tour will take visitors to visit Trang An scenic spot, or visit caves such as: Sang Cave, Toi Cave, Ba Giot Cave and Sinh Cave...continue the journey to take visitors to visit Hoa Lu, Mua…",
-    "image": "/images/tours/tourdulichninhbinh1ngay.png",
+    "image": "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
     "gallery": [
-      "/images/tours/tourdulichninhbinh1ngay.png",
-      "/images/tours/ninh-binh-goat.jpg",
-      "/images/tours/tam-coc-bich-dong.jpg",
-      "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-      "/images/tours/thung-nham-bird-park.jpg",
-      "/images/tours/top20diadiemdulichninhbinhbannenbiet.jpg"
+      "/images/tours/hd/tourdulichninhbinh1ngay.jpg",
+      "/images/tours/hd/ninh-binh-goat.jpg",
+      "/images/tours/hd/tam-coc-bich-dong.jpg",
+      "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+      "/images/tours/hd/thung-nham-bird-park.jpg",
+      "/images/tours/hd/top20diadiemdulichninhbinhbannenbiet.jpg"
     ],
     "route": ["Ha Noi – Ninh Binh"],
     "highlights": [],
@@ -16630,12 +16630,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "The 1-day Da Nang tour is an exciting journey that takes visitors to visit the Ngu Hanh Son stone village, take a bamboo boat to visit the Bay Mau coconut forest, and go to Hoi An to explore the beauty of Hoi An Ancient Town with magical shimmering…",
-    "image": "/images/tours/hoi-an-9-copy.jpg",
+    "image": "/images/tours/hd/hoi-an-9-copy.jpg",
     "gallery": [
-      "/images/tours/hoi-an-9-copy.jpg",
-      "/images/tours/cham-islands-da-nang.png",
+      "/images/tours/hd/hoi-an-9-copy.jpg",
+      "/images/tours/hd/cham-islands-da-nang.jpg",
       "/images/tours/than-tai-hot-spring-park.png",
-      "/images/tours/da-nang-world-wonders-park.jpeg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg",
       "/images/tours/danang-phuquoctour8days7nights.png",
       "/images/tours/halongdanang9day8nightstour.png"
     ],
@@ -16760,8 +16760,8 @@
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png"
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg"
     ],
     "route": ["Phong Nha Cave Expedition by Kayak"],
     "highlights": [],
@@ -16826,8 +16826,8 @@
     "image": "/images/tours/khamphadanhthangvietnam.jpg",
     "gallery": [
       "/images/tours/khamphadanhthangvietnam.jpg",
-      "/images/tours/nguom-ngao.png",
-      "/images/tours/mua-cave.png",
+      "/images/tours/hd/nguom-ngao.jpg",
+      "/images/tours/hd/mua-cave.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg"
     ],
     "route": ["Paradise Cave and Phong Nha Cave One Day Tour"],
@@ -16894,12 +16894,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "The Phong Nha Ho Chi Minh Trail Cycling Tour offers an adventurous and immersive way to explore the stunning landscapes and historic trails of Phong…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/khamphadanhthangvietnam.jpg",
       "/images/tours/tourdulichhanoi-biencualo3n2d.jpg"
     ],
@@ -16966,13 +16966,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "This full day tour Vietlook Travel is perfect for travelers interested in Vietnam’s history and culture, as well as those who want to explore the Mekong…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     "gallery": [
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
+      "/images/tours/hd/hcm-tour-1.jpg",
       "/images/tours/island.png"
     ],
     "route": ["Cu Chi Tunnels – My Tho – Ben Tre – Unicorn Island"],
@@ -17041,13 +17041,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "This short day trip offers a peaceful escape from the busy city of Ho Chi Minh, allowing you to immerse yourself in the natural beauty and tranquil…",
-    "image": "/images/tours/dulichmientay5ngay4dem.png",
+    "image": "/images/tours/hd/dulichmientay5ngay4dem.jpg",
     "gallery": [
-      "/images/tours/dulichmientay5ngay4dem.png",
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/dulichmientay5ngay4dem.jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Mekong Delta 1 Day Trip"],
     "highlights": [],
@@ -17115,13 +17115,13 @@
     "price": null,
     "originalPrice": null,
     "summary": "This full day Ho Chi Minh city tour offers a comprehensive introduction to Ho Chi Minh City, also known as Saigon. Throughout the day, you will…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg",
-      "/images/tours/da-nang-world-wonders-park.jpeg"
+      "/images/tours/hd/hcm-tour-1.jpg",
+      "/images/tours/hd/da-nang-world-wonders-park.jpg"
     ],
     "route": ["City Full Day Saigon Tour"],
     "highlights": [],
@@ -17185,12 +17185,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "Experience Saigon like a local with Vietlook Travel, combining sightseeing, street food, and craft beer in a fun and authentic…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Saigon Sightseeing and Craft Beer Tour"],
     "highlights": ["Highlights / Itinerary"],
@@ -17240,12 +17240,12 @@
     "price": null,
     "originalPrice": null,
     "summary": "Cu Chi Tunnels Half Day Tour is carefully designed to help visitors gain a deeper understanding of Viet Nam’s history, resilience, and wartime…",
-    "image": "/images/tours/cho-lon-binh-tay-market.jpg",
+    "image": "/images/tours/hd/cho-lon-binh-tay-market.jpg",
     "gallery": [
-      "/images/tours/cho-lon-binh-tay-market.jpg",
-      "/images/tours/hcm-tour-2 (1).jpg",
+      "/images/tours/hd/cho-lon-binh-tay-market.jpg",
+      "/images/tours/hd/hcm-tour-2-1.jpg",
       "/images/tours/hcm-tour-2 (2).jpg",
-      "/images/tours/hcm-tour-1.jpg"
+      "/images/tours/hd/hcm-tour-1.jpg"
     ],
     "route": ["Cu Chi Tunnels Half Day Tour"],
     "highlights": [],
@@ -17309,11 +17309,11 @@
     "price": null,
     "originalPrice": null,
     "summary": "Visit a pearl farm to learn about the culture and process of pearl cultivation on Phu Quoc Island. Continue to the Sim Wine Factory to discover how local…",
-    "image": "/images/tours/sim-wine-factory.jpg",
+    "image": "/images/tours/hd/sim-wine-factory.jpg",
     "gallery": [
-      "/images/tours/sim-wine-factory.jpg",
+      "/images/tours/hd/sim-wine-factory.jpg",
       "/images/tours/ho-quoc-pagoda.jpg",
-      "/images/tours/may-rut-trong-island.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-north-island.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-south-island-1-day.jpg",
       "/images/tours/phu-quoc-to-east-island.png"
@@ -17369,14 +17369,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "This private fishing tour is suitable for guests who enjoy sport fishing or would like to experience big fish fishing in Phu Quoc. Guests can choose between…",
-    "image": "/images/tours/fish.png",
+    "image": "/images/tours/hd/fish.jpg",
     "gallery": [
-      "/images/tours/fish.png",
-      "/images/tours/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
       "/images/tours/dong-duong.png",
-      "/images/tours/nha-trang-fishing-village.jpg",
-      "/images/tours/sun-world-hon-thom-nature.jpg",
-      "/images/tours/sunset-1.png"
+      "/images/tours/hd/nha-trang-fishing-village.jpg",
+      "/images/tours/hd/sun-world-hon-thom-nature.jpg",
+      "/images/tours/hd/sunset-1.jpg"
     ],
     "route": ["Fishing Trip Sunrise “big Fish” Fishing"],
     "highlights": [
@@ -17463,9 +17463,9 @@
       "/images/tours/ho-quoc-pagoda.jpg",
       "/images/tours/tour4daophuquoc-1.jpg",
       "/images/tours/tour4daophuquoc.jpg",
-      "/images/tours/tourdulichphuquoc-1.jpg",
-      "/images/tours/tourdulichphuquocgiare.png",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg"
+      "/images/tours/hd/tourdulichphuquocgiare.jpg",
+      "/images/tours/hd/tourdulichphuquocgiare.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg"
     ],
     "route": ["Phu Quoc South and North Island Tour"],
     "highlights": [],
@@ -17522,14 +17522,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "This full day Island Life Trip by speedboat offers a deeper look into the authentic lifestyle of Phu Quoc Island. The tour is designed for small…",
-    "image": "/images/tours/rach-vem-fishing-village-1.jpg",
+    "image": "/images/tours/hd/rach-vem-fishing-village-1.jpg",
     "gallery": [
-      "/images/tours/rach-vem-fishing-village-1.jpg",
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg",
       "/images/tours/ganh-dau-beach.jpg",
       "/images/tours/island.png",
-      "/images/tours/may-rut-trong-island.jpg",
-      "/images/tours/may-rut.png",
-      "/images/tours/phu-quoc.jpg"
+      "/images/tours/hd/phu-quoc.jpg",
+      "/images/tours/hd/may-rut.jpg",
+      "/images/tours/hd/phu-quoc.jpg"
     ],
     "route": ["Phu Quoc Island Life Trip"],
     "highlights": [
@@ -17604,11 +17604,11 @@
     "image": "/images/tours/ganh-dau-beach.jpg",
     "gallery": [
       "/images/tours/ganh-dau-beach.jpg",
-      "/images/tours/may-rut.png",
-      "/images/tours/sun-world-hon-thom-nature.jpg",
+      "/images/tours/hd/may-rut.jpg",
+      "/images/tours/hd/sun-world-hon-thom-nature.jpg",
       "/images/tours/tourdulichphuquoc4ngay3demtet1.png",
-      "/images/tours/airport-pick-up-one-way.jpg",
-      "/images/tours/glaming.jpg"
+      "/images/tours/hd/airport-pick-up-one-way.jpg",
+      "/images/tours/hd/glaming.jpg"
     ],
     "route": ["Phu Quoc Cable Car and Landscape Tour"],
     "highlights": ["Without Lunch", "With Lunch"],
@@ -17676,11 +17676,11 @@
     "image": "/images/tours/dong-duong.png",
     "gallery": [
       "/images/tours/dong-duong.png",
-      "/images/tours/sunset-1.png",
-      "/images/tours/fish.png",
+      "/images/tours/hd/sunset-1.jpg",
+      "/images/tours/hd/fish.jpg",
       "/images/tours/phu-quoc-centre-hotel-area-to-north-island.jpg",
       "/images/tours/phu-quoc-to-east-island.png",
-      "/images/tours/rach-vem-fishing-village-1.jpg"
+      "/images/tours/hd/rach-vem-fishing-village-1.jpg"
     ],
     "route": ["Sunset and Night Squid Fishing Tour"],
     "highlights": ["What to Bring", "Environmental Responsibility"],
@@ -17744,14 +17744,14 @@
     "price": null,
     "originalPrice": null,
     "summary": "Xuong Island or Buom Island – Gam Ghi Island – May Rut Trong…",
-    "image": "/images/tours/may-rut-trong-island.jpg",
+    "image": "/images/tours/hd/phu-quoc.jpg",
     "gallery": [
-      "/images/tours/may-rut-trong-island.jpg",
+      "/images/tours/hd/phu-quoc.jpg",
       "/images/tours/island.png",
       "/images/tours/tour4daophuquoc.jpg",
-      "/images/tours/fish.png",
-      "/images/tours/fishing-snorkeling-2-islands-tour-by-boat.jpg",
-      "/images/tours/sunset-1.png"
+      "/images/tours/hd/fish.jpg",
+      "/images/tours/hd/fishing-snorkeling-2-islands-tour-by-boat.jpg",
+      "/images/tours/hd/sunset-1.jpg"
     ],
     "route": ["Buom Island – Gam Ghi Island – May Rut Trong Island"],
     "highlights": ["What to Bring", "Environmental Responsibility", "Snorkeling Safety Guidelines"],

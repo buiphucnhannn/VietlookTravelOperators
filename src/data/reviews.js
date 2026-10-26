@@ -10,7 +10,7 @@ const list = [
     rating: 5,
     source: "tripadvisor",
     avatar: "/images/tours/default-avatar-2020-54.jpg",
-    photo: "/images/tours/da-nang.jpg",
+    photo: "/images/tours/hd/da-nang.jpg",
   },
   {
     title: "Excellent in Da Nang",
@@ -19,7 +19,7 @@ const list = [
     rating: 5,
     source: "tripadvisor",
     avatar: "/images/tours/default-avatar-2020-10.jpg",
-    photo: "/images/tours/chua-linh-ung-1.jpeg",
+    photo: "/images/tours/hd/chua-linh-ung-1.jpg",
   },
   {
     title: "Patel family – Phu Quoc",
@@ -37,7 +37,7 @@ const list = [
     rating: 5,
     source: "tripadvisor",
     avatar: "/images/tours/default-avatar-2020-53.jpg",
-    photo: "/images/tours/cham-islands-da-nang.png",
+    photo: "/images/tours/hd/cham-islands-da-nang.jpg",
   },
   {
     title: "Hanoi tour, 3 days",
@@ -55,7 +55,7 @@ const list = [
     rating: 5,
     source: "tripadvisor",
     avatar: "/images/tours/default-avatar-2020-61.jpg",
-    photo: "/images/tours/sun-world-hon-thom-nature.jpg",
+    photo: "/images/tours/hd/sun-world-hon-thom-nature.jpg",
   },
   {
     title: "Perfectly organised",
@@ -64,7 +64,7 @@ const list = [
     rating: 5,
     source: "google",
     avatar: "/images/tours/default-avatar-2020-64.jpg",
-    photo: "/images/tours/hcm-tour-2 (1).jpg",
+    photo: "/images/tours/hd/hcm-tour-2-1.jpg",
   },
   {
     title: "Amazing guide",
@@ -73,7 +73,7 @@ const list = [
     rating: 5,
     source: "google",
     avatar: "/images/tours/default-avatar-2020-68.jpg",
-    photo: "/images/tours/tam-coc-bich-dong.jpg",
+    photo: "/images/tours/hd/tam-coc-bich-dong.jpg",
   },
   {
     title: "Nice trip with great explanations",
@@ -82,7 +82,7 @@ const list = [
     rating: 5,
     source: "tripadvisor",
     avatar: "/images/tours/default-avatar-2020-52.jpg",
-    photo: "/images/tours/my-son-holy-land-1.jpg",
+    photo: "/images/tours/hd/my-son-holy-land-1.jpg",
   },
 ];
 

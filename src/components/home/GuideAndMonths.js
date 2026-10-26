@@ -82,7 +82,7 @@ export default function GuideAndMonths({ lang, dict, posts, months, destinations
       </section>
 
       <section className="relative isolate overflow-hidden">
-        <BgImage src="/images/tours/doi-che-moc-chau.jpg" tone="light" />
+        <BgImage src="/images/tours/hd/doi-che-moc-chau.jpg" tone="light" />
         <Container className="relative pt-6 pb-14 lg:pt-8 lg:pb-[4.5rem]">
           <HandNote className="top-10 left-0" arrow="below-left">
             {t.monthNote}

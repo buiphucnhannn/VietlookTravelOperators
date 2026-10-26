@@ -123,13 +123,13 @@ export default async function PackagesPage({ params }) {
           "/images/tours/dulichhagiangcaobang6ngay5dem.png",
           "/images/tours/exploring-the-culture-and-traditions-of-the-hmong-people-in-vietnam.jpg",
           "/images/tours/khamphavedepvietnamhuehoiansapa.jpg",
-          "/images/tours/dulichmientay5ngay4dem.png",
+          "/images/tours/hd/dulichmientay5ngay4dem.jpg",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: p.title }]}
       />
 
       <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/bao-lac-cao-bang.jpg" tone="light" />
+        <BgImage src="/images/tours/hd/bao-lac-cao-bang.jpg" tone="light" />
         <Container>
           <h2 className="mb-10 text-center text-3xl font-semibold tracking-tight text-ink sm:text-4xl">
             {p.whyTitle}

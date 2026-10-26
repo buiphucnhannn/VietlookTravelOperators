@@ -237,19 +237,19 @@ export const carAreas = [
     key: "hanoi",
     name: { en: "Hanoi", zh: "河内" },
     airport: "Noi Bai (HAN)",
-    image: "/images/tours/hanoi6.png",
+    image: "/images/tours/hd/hanoi6.jpg",
   },
   {
     key: "da-nang",
     name: { en: "Da Nang", zh: "岘港" },
     airport: "Da Nang (DAD)",
-    image: "/images/tours/da-nang-world-wonders-park.jpeg",
+    image: "/images/tours/hd/da-nang-world-wonders-park.jpg",
   },
   {
     key: "nha-trang",
     name: { en: "Nha Trang", zh: "芽庄" },
     airport: "Cam Ranh (CXR)",
-    image: "/images/tours/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
+    image: "/images/tours/hd/nha-trang-da-lat-mui-ne-ho-chi-minh-city.jpg",
   },
   {
     key: "dalat",

@@ -338,7 +338,7 @@ export function buildNavigation(lang, dict) {
         ],
       },
       promo: {
-        image: "/images/tours/langnonchuongdapxe.jpg",
+        image: "/images/tours/hd/langnonchuongdapxe.jpg",
         badge: z("Since 2009", "始于2009年"),
         title: z("Our story", "我们的故事"),
         text: z("The local team behind every Vietlook trip", "每一段 Vietlook 旅程背后的本地团队"),

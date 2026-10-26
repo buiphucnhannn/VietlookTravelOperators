@@ -39,7 +39,7 @@ export default async function PartnersPage({ params }) {
         subtitle={p.subtitle}
         images={[
           "/images/tours/coktail-crusie.jpg",
-          "/images/tours/tourduthuyenhalong1ngay1-2.png",
+          "/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg",
           "/images/tours/tourdulichphuquoc4ngay3demtet1.png",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: dict.nav.partners }]}
@@ -51,7 +51,7 @@ export default async function PartnersPage({ params }) {
       </Container>
 
       <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/emperor-cruises.png" tone="light" />
+        <BgImage src="/images/tours/hd/emperor-cruises.jpg" tone="light" />
         <Container>
           <SectionHeading title={p.offerTitle} />
           <div className="rail grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
@@ -76,7 +76,7 @@ export default async function PartnersPage({ params }) {
           {/* Bento: ảnh lớn trái + 2 ảnh phải + 1 ảnh ngang dưới; cả cụm cao đúng bằng form bên cạnh */}
           <div className="grid h-[420px] grid-cols-2 grid-rows-[1fr_1fr_0.9fr] gap-4 sm:h-[560px] lg:h-full">
             {[
-              ["/images/tours/emperor-cruises.png", "row-span-2"],
+              ["/images/tours/hd/emperor-cruises.jpg", "row-span-2"],
               ["/images/tours/tourtambunnhatrang.jpg", ""],
               ["/images/tours/dulichnhatrangbinhthun4ngay3dem.png", ""],
               ["/images/tours/tourdulichhanoi-biencualo3n2d.jpg", "col-span-2"],

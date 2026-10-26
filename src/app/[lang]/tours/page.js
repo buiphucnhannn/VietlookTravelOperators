@@ -29,8 +29,8 @@ export default async function ToursPage({ params }) {
         subtitle={t.allIntro}
         images={[
           "/images/tours/cao-bang.jpg",
-          "/images/tours/hoi-an-9-copy.jpg",
-          "/images/tours/tourdulichphuquocgiare.png",
+          "/images/tours/hd/hoi-an-9-copy.jpg",
+          "/images/tours/hd/tourdulichphuquocgiare.jpg",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: href(lang) }, { label: t.allTitle }]}
       />

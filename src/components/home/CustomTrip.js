@@ -13,7 +13,7 @@ export default function CustomTrip({ lang, dict }) {
   const points = t.customPoints;
   return (
     <section className="relative isolate overflow-hidden bg-[#f2f7fb] py-14 lg:py-[4.5rem]">
-      <BgImage src="/images/tours/hoang-su-phi-ha-giang.jpg" tone="mist" position="50% 75%" />
+      <BgImage src="/images/tours/hd/hoang-su-phi-ha-giang.jpg" tone="mist" position="50% 75%" />
       <Container className="grid items-center gap-10 lg:grid-cols-[1fr_1.1fr] lg:gap-14">
         <Reveal className="relative mx-auto w-full max-w-[540px] lg:ml-0 lg:max-w-[min(540px,calc(100svh-260px))] lg:pb-20">
           <div className="blob relative aspect-square overflow-hidden shadow-xl">

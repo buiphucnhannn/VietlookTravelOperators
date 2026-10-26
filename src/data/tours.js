@@ -28,14 +28,14 @@ export const cruiseTours = () =>
 // (1200–1920px) khớp với một điểm đến trên lộ trình; ảnh gốc của tour chỉ 555–800px nên bị mờ.
 const I = "/images/tours";
 export const longTourCovers = {
-  "nha-trang-da-lat-mui-ne-mekong-delta-ho-chi-minh": `${I}/tourdulichnhatranggiare.png`,
-  "ha-long-ninh-binh-sapa-8-days-7-nights-tour": `${I}/hoang-su-phi-ha-giang.jpg`,
-  "da-nang-phu-quoc-tour-8-days-7-nights": `${I}/tourdulichphuquocgiare.png`,
+  "nha-trang-da-lat-mui-ne-mekong-delta-ho-chi-minh": `${I}/hd/tourdulichnhatranggiare.jpg`,
+  "ha-long-ninh-binh-sapa-8-days-7-nights-tour": `${I}/hd/hoang-su-phi-ha-giang.jpg`,
+  "da-nang-phu-quoc-tour-8-days-7-nights": `${I}/hd/tourdulichphuquocgiare.jpg`,
   "ha-long-da-nang-9-days-8-nights-tour": `${I}/da-nang-tour-copy.jpg`,
   "northern-vietnam-tour-9-days-8-nights": `${I}/cao-bang.jpg`,
-  "ha-long-ninh-binh-da-nang-hoi-an-10-days-9-nights-tour": `${I}/dam-van-long-ninh-binh.jpg`,
-  "hanoi-ha-long-sapa-da-nang-ho-chi-minh": `${I}/the-best-lotus-viewing-spots-in-ninh-binh.jpg`,
-  "hanoi-ha-long-ninh-binh-da-nang-phu-quoc": `${I}/tourdulichphuquocgiare.png`,
+  "ha-long-ninh-binh-da-nang-hoi-an-10-days-9-nights-tour": `${I}/hd/dam-van-long-ninh-binh.jpg`,
+  "hanoi-ha-long-sapa-da-nang-ho-chi-minh": `${I}/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg`,
+  "hanoi-ha-long-ninh-binh-da-nang-phu-quoc": `${I}/hd/tourdulichphuquocgiare.jpg`,
 };
 
 export const longTours = () => tours.filter((t) => t.featuredLong).sort((a, b) => a.days - b.days);

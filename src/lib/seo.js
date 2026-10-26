@@ -33,7 +33,7 @@ export function pageMetadata({ lang, path = "", title, description, image, type 
   const url = (l) => href(l, path || "/");
   const languages = Object.fromEntries(locales.map((l) => [localeMeta[l].hreflang, url(l)]));
   languages["x-default"] = url(defaultLocale);
-  const img = image || "/images/tours/ha-long.png";
+  const img = image || "/images/tours/hd/ha-long.jpg";
 
   // Tiêu đề dài: bỏ hậu tố " | Vietlook Travel" để Google không cắt mất nội dung chính (~65 ký tự)
   const pageTitle = typeof title === "string" && title.length > 47 ? { absolute: title } : title;

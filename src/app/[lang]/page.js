@@ -78,7 +78,7 @@ export default async function HomePage({ params }) {
       <ThemesMasonry lang={lang} dict={dict} themes={themes} />
 
       <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/ha-long.png" tone="mist" position="50% 70%" />
+        <BgImage src="/images/tours/hd/ha-long.jpg" tone="mist" position="50% 70%" />
         <Container className="relative">
           <SectionHeading
             eyebrow={dict.home.destEyebrow}

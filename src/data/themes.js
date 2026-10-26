@@ -3,8 +3,8 @@ export const themes = [
   {
     slug: "luxury",
     name: { en: "Luxury", zh: "奢华之旅" },
-    image: "/images/tours/emperor-cruises.png",
-    banner: "/images/tours/tourdulichnhatranggiare.png",
+    image: "/images/tours/hd/emperor-cruises.jpg",
+    banner: "/images/tours/hd/tourdulichnhatranggiare.jpg",
     tagline: { en: "5-star stays, private guides", zh: "五星住宿 · 私人导游" },
     intro: {
       en: "Boutique cruises, five-star resorts, private transfers and dedicated guides. Our luxury journeys take care of every detail so you simply enjoy Vietnam at its finest.",
@@ -26,7 +26,7 @@ export const themes = [
     slug: "culture",
     name: { en: "Culture", zh: "文化体验" },
     image: "/images/tours/tournonchung.jpg",
-    banner: "/images/tours/langnonchuongdapxe.jpg",
+    banner: "/images/tours/hd/langnonchuongdapxe.jpg",
     tagline: { en: "Crafts, heritage & people", zh: "手工艺 · 遗产 · 人文" },
     intro: {
       en: "Make a conical hat with artisans, cook with a local family, cycle through craft villages and meet the ethnic communities of the highlands.",
@@ -36,7 +36,7 @@ export const themes = [
   {
     slug: "family",
     name: { en: "Family", zh: "亲子家庭" },
-    image: "/images/tours/bay-mau-coconut-forest.png",
+    image: "/images/tours/hd/rach-vem-fishing-village-1.jpg",
     banner: "/images/tours/tourdulichphuquoc4ngay3demtet1.png",
     tagline: { en: "Easy pace, fun for all ages", zh: "节奏轻松 · 老少皆宜" },
     intro: {
@@ -47,8 +47,8 @@ export const themes = [
   {
     slug: "honeymoon",
     name: { en: "Honeymoon", zh: "蜜月浪漫" },
-    image: "/images/tours/glaming.jpg",
-    banner: "/images/tours/sunset-1.png",
+    image: "/images/tours/hd/glaming.jpg",
+    banner: "/images/tours/hd/sunset-1.jpg",
     tagline: { en: "Romantic escapes for two", zh: "两人世界的浪漫之旅" },
     intro: {
       en: "Sunset cruises, private beach dinners and island villas. Celebrate together with a journey designed only for the two of you.",
@@ -58,7 +58,7 @@ export const themes = [
   {
     slug: "classic",
     name: { en: "Classic", zh: "经典路线" },
-    image: "/images/tours/ha-long.png",
+    image: "/images/tours/hd/ha-long.jpg",
     banner: "/images/tours/halongninhbinhdananghoian10days9nightstour.png",
     tagline: { en: "Vietnam's must-see icons", zh: "越南必游经典" },
     intro: {
@@ -69,8 +69,8 @@ export const themes = [
   {
     slug: "photography",
     name: { en: "Photography", zh: "摄影之旅" },
-    image: "/images/tours/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
-    banner: "/images/tours/hoang-su-phi-ha-giang.jpg",
+    image: "/images/tours/hd/the-best-lotus-viewing-spots-in-ninh-binh.jpg",
+    banner: "/images/tours/hd/hoang-su-phi-ha-giang.jpg",
     tagline: { en: "Golden hours & epic views", zh: "黄金时刻 · 壮美风光" },
     intro: {
       en: "Timed for the best light: terraced rice fields, lotus lakes, misty mountains and fishing villages at dawn.",
@@ -80,8 +80,8 @@ export const themes = [
   {
     slug: "tailor-made",
     name: { en: "Tailor-made", zh: "私人定制" },
-    image: "/images/tours/lonely-tree.jpg",
-    banner: "/images/tours/du-lich-tay-bac.png",
+    image: "/images/tours/hd/lonely-tree.jpg",
+    banner: "/images/tours/hd/du-lich-tay-bac.jpg",
     tagline: { en: "Designed around you", zh: "为您量身打造" },
     intro: {
       en: "Your dates, your pace, your hotel class (3–5★) and budget. Tell us what you love and we design a private itinerary just for you.",

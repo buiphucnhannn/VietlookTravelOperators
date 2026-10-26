@@ -69,14 +69,14 @@ export default async function ContactPage({ params }) {
         title={t.title}
         subtitle={t.subtitle}
         images={[
-          "/images/tours/hanoi-bicycle-sunset-tour-1.jpg",
-          "/images/tours/old-quarter-ta-hien-1.jpg",
+          "/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg",
+          "/images/tours/hd/old-quarter-ta-hien-1.jpg",
           "/images/tours/tourcityhanoi1ngay.jpg",
         ]}
         breadcrumbs={[{ label: "Vietlook", href: "/" + lang }, { label: t.title }]}
       />
       <section className="relative isolate overflow-clip bg-[#e6f4ef] py-14 lg:py-[4.5rem]">
-        <BgImage src="/images/tours/hanoi-bicycle-sunset-tour-1.jpg" tone="mist" />
+        <BgImage src="/images/tours/hd/hanoi-bicycle-sunset-tour-1.jpg" tone="mist" />
         <Container>
           <div className="grid items-start gap-8 lg:grid-cols-[1.4fr_1fr]">
             <div className="rounded-2xl bg-white p-6 shadow-sm sm:p-8">

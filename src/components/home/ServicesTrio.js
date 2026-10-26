@@ -11,7 +11,7 @@ export default function ServicesTrio({ lang, dict }) {
       key: "tours",
       icon: Map,
       href: `${lp(lang)}/tours`,
-      image: "/images/tours/emperor-cruises.png",
+      image: "/images/tours/hd/emperor-cruises.jpg",
       tone: "from-brand-950/80",
     },
     {

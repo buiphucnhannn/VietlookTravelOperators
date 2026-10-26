@@ -57,7 +57,7 @@ export const policies = {
       en: "How to pay for your trip – bank transfer, in person or on arrival. No online card payments.",
       zh: "如何支付行程费用——银行转账、线下付款或抵达后付款，网站不收取在线刷卡。",
     },
-    image: "/images/tours/hcm-tour-2 (1).jpg",
+    image: "/images/tours/hd/hcm-tour-2-1.jpg",
     body: {
       en: `<p>Vietlook Travel does not take online card payments on this website. After you send a booking request, our team confirms availability and sends you a written confirmation with the final price.</p><h2>How to pay</h2><ul><li><strong>Bank transfer</strong> – international transfer to our company account in Vietnam (details provided on your confirmation).</li><li><strong>In person</strong> – cash (USD or VND) or card at our Hanoi office.</li><li><strong>On arrival</strong> – for day tours, car transfers and fast-track, payment to our guide or driver is possible on request.</li></ul><h2>Deposit and balance</h2><ul><li>Multi-day tours: a deposit (usually 30%) secures hotels, cruises and flights; the balance is paid before or on arrival.</li><li>Peak dates (Tet, national holidays, Christmas–New Year) may require full prepayment for cruises and hotels.</li></ul><h2>Travel agents (B2B)</h2><p>Partner agencies receive net-rate confirmations and invoice-based payment terms agreed in our partnership contract.</p>`,
       zh: `<p>Vietlook Travel 网站不收取在线刷卡付款。您提交预订需求后，我们会先确认资源，再向您发送包含最终价格的书面确认。</p><h2>付款方式</h2><ul><li><strong>银行转账</strong>——国际汇款至我司越南账户（账户信息见确认单）。</li><li><strong>线下付款</strong>——在河内办公室支付现金（美元或越南盾）或刷卡。</li><li><strong>抵达后付款</strong>——一日游、包车与快速通关可应要求付给导游或司机。</li></ul><h2>定金与尾款</h2><ul><li>多日行程：支付定金（通常30%）以锁定酒店、游轮与机票，尾款在出发前或抵达时支付。</li><li>旺季（春节、国家法定节假日、圣诞元旦）游轮与酒店可能需全额预付。</li></ul><h2>同业伙伴（B2B）</h2><p>合作旅行社享受净价确认，并按合作协议约定的账期结算。</p>`,
@@ -81,7 +81,7 @@ export const policies = {
       en: "What personal data we collect, how we use it to arrange your trip and how we keep it safe.",
       zh: "我们收集哪些个人信息、如何用于安排您的行程，以及如何保障信息安全。",
     },
-    image: "/images/tours/west-lake-hanoi.png",
+    image: "/images/tours/hd/west-lake-hanoi.jpg",
     body: {
       en: `<p>Vietlook Travel respects your privacy. This policy explains what we collect and how we use it.</p><h2>Information we collect</h2><ul><li>Contact details you send via our forms: name, email, phone/WhatsApp/WeChat, nationality.</li><li>Trip details: dates, number of travellers, children's ages, flight numbers and special requests.</li><li>Passport details only when needed for visas, flights, cruises or hotel registration.</li></ul><h2>How we use it</h2><p>Only to answer your enquiry, arrange and operate your services, and send booking confirmations. We share necessary details with hotels, cruises, airlines and immigration services that deliver your trip – never for marketing by third parties.</p><h2>Security & retention</h2><p>Requests are stored in our protected management system and kept only as long as needed for your booking and legal obligations.</p><h2>Your rights</h2><p>Email us at any time to access, correct or delete your personal data.</p>`,
       zh: `<p>Vietlook Travel 尊重您的隐私。本政策说明我们收集哪些信息以及如何使用。</p><h2>我们收集的信息</h2><ul><li>您通过表单提交的联系方式：姓名、邮箱、电话/WhatsApp/微信、国籍。</li><li>行程信息：日期、人数、儿童年龄、航班号与特殊要求。</li><li>仅在办理签证、机票、游轮或酒店登记时需要护照信息。</li></ul><h2>信息用途</h2><p>仅用于回复您的咨询、安排与执行服务、发送预订确认。我们只向提供服务的酒店、游轮、航空公司与出入境服务方提供必要信息——绝不用于第三方营销。</p><h2>安全与保存</h2><p>需求信息保存在受保护的管理系统中，仅在预订及法律义务所需期间保留。</p><h2>您的权利</h2><p>您可随时发邮件要求查询、更正或删除个人数据。</p>`,

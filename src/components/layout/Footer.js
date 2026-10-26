@@ -114,7 +114,7 @@ export default function Footer({ lang, dict }) {
 
       {/* Dải CTA */}
       <div className="relative isolate overflow-hidden bg-[#2b3640] text-white">
-        <BgImage src="/images/tours/sunset-1.png" tone="night" />
+        <BgImage src="/images/tours/hd/sunset-1.jpg" tone="night" />
         <Container className="grid items-center gap-8 py-12 md:grid-cols-[auto_1fr_auto]">
           <div className="relative hidden h-28 w-44 md:block">
             <Image
@@ -223,6 +223,10 @@ export default function Footer({ lang, dict }) {
       <div className="bg-[#16191d] py-5 text-center text-sm text-white/60">
         <Container>
           © {siteConfig.since}–2026 {siteConfig.legalName}. {f.rights}
+          <span className="mx-2 text-white/30">·</span>
+          <Link href={h("/photo-credits")} className="hover:text-white">
+            {f.photoCredits}
+          </Link>
         </Container>
       </div>
     </footer>

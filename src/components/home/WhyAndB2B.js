@@ -19,7 +19,7 @@ export function WhyUs({ dict }) {
   const t = dict.home;
   return (
     <section className="relative isolate overflow-hidden py-14 lg:py-[4.5rem]">
-      <BgImage src="/images/tours/du-lich.jpg" tone="light" />
+      <BgImage src="/images/tours/hd/du-lich.jpg" tone="light" />
       <Container>
         <SectionHeading title={t.whyTitle} subtitle={t.whySubtitle} />
         <div className="grid gap-x-10 gap-y-9 sm:grid-cols-2 lg:grid-cols-3">
@@ -48,7 +48,7 @@ export function B2BBlock({ lang, dict }) {
   const t = dict.home;
   return (
     <section className="relative isolate overflow-hidden bg-brand-950 py-14 text-white lg:py-[4.5rem]">
-      <BgImage src="/images/tours/tourduthuyenhalong1ngay1-2.png" tone="dark" />
+      <BgImage src="/images/tours/hd/tourduthuyenhalong1ngay1-2.jpg" tone="dark" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_15%_20%,rgba(23,128,193,0.45),transparent_50%),radial-gradient(circle_at_90%_90%,rgba(238,59,53,0.25),transparent_45%)]" />
       <Container className="relative grid items-center gap-12 lg:grid-cols-2">
         <Reveal className="relative mx-auto h-[380px] w-full max-w-lg sm:h-[440px]">
