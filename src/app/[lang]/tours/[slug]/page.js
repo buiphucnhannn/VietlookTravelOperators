@@ -1,17 +1,7 @@
 import { Suspense } from "react";
 import PageSkeleton from "@/components/ui/PageSkeleton";
 import { notFound } from "next/navigation";
-import {
-  Check,
-  Clock,
-  Headphones,
-  MapPin,
-  MessageCircle,
-  Plane,
-  Tag,
-  UserRound,
-  X,
-} from "lucide-react";
+import { Check, Clock, Headphones, MapPin, MessageCircle, Plane, UserRound, X } from "lucide-react";
 import { getDictionary } from "@/i18n/dictionaries";
 import { href, locales, lp, tr } from "@/i18n/config";
 import { cardLabels } from "@/lib/labels";
@@ -164,14 +154,9 @@ async function TourPageContent({ params }) {
         <TourGallery images={tour.gallery} title={title} label={t.gallery} />
       </Container>
 
-      <Container className="grid gap-8 py-8 lg:grid-cols-[1fr_400px] lg:py-10">
+      <Container className="grid gap-8 py-8 lg:grid-cols-[1fr_400px] lg:items-center lg:py-10">
         <div>
           <div className="flex flex-wrap gap-2">
-            {tour.code && (
-              <span className="rounded-full bg-surface px-3 py-1 text-xs font-semibold text-muted">
-                {c.tourCode}: {tour.code}
-              </span>
-            )}
             {tour.themes.slice(0, 3).map((th) => (
               <a
                 key={th}
@@ -203,8 +188,9 @@ async function TourPageContent({ params }) {
             ))}
           </div>
           {destNames.length > 0 && (
-            <p className="mt-6 flex flex-wrap items-center gap-2 text-sm text-muted">
-              <MapPin className="size-4 text-sun-500" />
+            /* Dòng điểm đến căn giữa theo chiều ngang của cột trái */
+            <p className="mt-7 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-sm text-muted">
+              <MapPin className="size-5 text-sun-500" />
               {tour.destinations.map((d, i) => (
                 <a
                   key={d}
@@ -223,14 +209,17 @@ async function TourPageContent({ params }) {
         <aside className="rounded-2xl bg-surface p-6 ring-1 ring-border">
           <div className="flex items-start justify-between">
             <div>
-              <p className="text-sm text-muted">{c.from}</p>
+              {/* Giá gốc gạch ngang nằm cùng dòng "From" → không tăng chiều cao khối */}
+              <p className="text-sm text-muted">
+                {c.from}
+                {tour.price && tour.originalPrice && (
+                  <span className="ml-2 text-base font-medium text-muted/80 line-through decoration-sun-500/70 decoration-2">
+                    {formatUSD(tour.originalPrice)}
+                  </span>
+                )}
+              </p>
               {tour.price ? (
                 <>
-                  {tour.originalPrice && (
-                    <p className="text-lg text-muted line-through">
-                      {formatUSD(tour.originalPrice)}
-                    </p>
-                  )}
                   <p className="text-4xl font-extrabold tracking-tight text-sun-500">
                     {formatUSD(tour.price)}
                   </p>
@@ -252,11 +241,6 @@ async function TourPageContent({ params }) {
             <span className="font-semibold text-ink">{c.ratingShort}</span>
             <span className="text-muted">({c.reviewsN})</span>
           </div>
-          {tour.originalPrice && tour.price && (
-            <p className="mt-3 inline-flex items-center gap-1.5 rounded-md bg-sun-100 px-2.5 py-1 text-xs font-bold text-sun-700">
-              <Tag className="size-3.5" /> {c.save} {formatUSD(tour.originalPrice - tour.price)}
-            </p>
-          )}
           <a
             href="#book"
             className="mt-5 flex h-12 items-center justify-center rounded-md bg-sun-500 font-semibold text-white shadow-md transition hover:bg-sun-600"
