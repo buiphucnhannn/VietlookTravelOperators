@@ -1,7 +1,18 @@
 // Dữ liệu tour chuyển từ vietlooktravel.com (xem scratch script build-tours). Sau này thay bằng API/CMS.
-import tours from "./generated/tours.json";
+import rawTours from "./generated/tours.json";
 import { tr } from "@/i18n/config";
 import { getDestination, getRegion } from "./destinations";
+
+/**
+ * Hiển thị kiểu khuyến mãi: giá gạch = giá hiện tại + MARKUP, làm tròn lên bội số 5.
+ * Đặt PROMO_MARKUP = 0 để tắt toàn bộ (giá gạch & nhãn -%) ngay lập tức.
+ * Tour nào đã có originalPrice thật trong dữ liệu thì giữ nguyên giá thật đó.
+ */
+export const PROMO_MARKUP = 0.2;
+const listPrice = (p) => Math.ceil((p * (1 + PROMO_MARKUP)) / 5) * 5;
+const tours = rawTours.map((t) =>
+  t.price && !t.originalPrice && PROMO_MARKUP > 0 ? { ...t, originalPrice: listPrice(t.price) } : t,
+);
 
 export const allTours = tours;
 

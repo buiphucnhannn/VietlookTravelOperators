@@ -461,6 +461,7 @@ async function TourPageContent({ params }) {
 
       <MobileBookBar
         price={tour.price}
+        originalPrice={tour.originalPrice}
         labels={{
           from: c.from,
           perPerson: c.perPerson,

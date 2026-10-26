@@ -39,11 +39,6 @@ export default function TourCard({ card, lang, labels, badge, className, priorit
             {badge}
           </span>
         )}
-        {card.originalPrice && card.price && (
-          <span className="absolute top-3 left-3 rounded-md bg-sun-500 px-2.5 py-1 text-xs font-bold text-white shadow">
-            -{Math.round((1 - card.price / card.originalPrice) * 100)}%
-          </span>
-        )}
       </Link>
 
       <div className="flex flex-1 flex-col p-5">
@@ -170,7 +165,13 @@ export function AuroraTourCard({ card, lang, labels }) {
           {durationLabel(card, labels)} ·{" "}
           {card.price ? (
             <span className="font-semibold text-ink">
-              {labels.from} {formatUSD(card.price)}
+              {labels.from}{" "}
+              {card.originalPrice && (
+                <span className="mr-1 font-normal text-muted line-through">
+                  {formatUSD(card.originalPrice)}
+                </span>
+              )}
+              <span className="text-sun-500">{formatUSD(card.price)}</span>
             </span>
           ) : (
             labels.contactPrice

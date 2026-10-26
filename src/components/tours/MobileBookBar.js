@@ -8,7 +8,7 @@ import { smoothScrollTo } from "@/components/fx/SmoothScroll";
  * Thanh đặt tour dính đáy màn hình trên mobile (<1024px): giá + nút "Book now" cuộn tới form.
  * Tự ẩn khi khung đặt tour (#book) đang hiển thị. Đặt biến --mobile-bar để nút chat nổi nhích lên.
  */
-export default function MobileBookBar({ price, labels }) {
+export default function MobileBookBar({ price, originalPrice, labels }) {
   const [show, setShow] = useState(false);
 
   useEffect(() => {
@@ -49,6 +49,11 @@ export default function MobileBookBar({ price, labels }) {
           {price ? (
             <>
               <span className="block text-xs text-muted">{labels.from}</span>
+              {originalPrice && (
+                <span className="mr-1.5 text-sm text-muted line-through">
+                  {formatUSD(originalPrice)}
+                </span>
+              )}
               <span className="text-xl font-extrabold text-sun-500">{formatUSD(price)}</span>{" "}
               <span className="text-xs text-muted">/ {labels.perPerson}</span>
             </>
