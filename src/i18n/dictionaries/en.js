@@ -1,8 +1,8 @@
 const en = {
   meta: {
-    title: "Vietlook Travel – Vietnam Tour Operator & DMC | Tours, Private Car, Visa",
+    title: "Vietlook Travel – Vietnam Tour Operator & DMC | Tours, Car, Visa",
     description:
-      "Vietnam tour operator & DMC since 2009: group and tailor-made tours, Halong Bay cruises, private car hire with driver, Vietnam visa and airport fast-track – all in one place.",
+      "Vietnam tour operator & DMC since 2009: group & tailor-made tours, Halong Bay cruises, private car hire with driver, visa and airport fast-track.",
   },
   topbar: {
     dmc: "Vietnam Tour Operator & DMC since 2009",

@@ -16,7 +16,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { href, locales, lp, tr } from "@/i18n/config";
 import { cardLabels } from "@/lib/labels";
 import { formatUSD } from "@/lib/utils";
-import { JsonLd, pageMetadata } from "@/lib/seo";
+import { JsonLd, pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { siteConfig } from "@/constants/site";
 import { getDestination } from "@/data/destinations";
 import { getTheme } from "@/data/themes";
@@ -38,14 +38,40 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const tour = getTour(slug);
-  if (!tour) return {};
-  return pageMetadata({
+  if (!tour) return notFoundMetadata();
+  const tx = tourText(tour, lang);
+  const title = tr(tour.title, lang);
+  const meta = pageMetadata({
     lang,
     path: `/tours/${slug}`,
-    title: tr(tour.title, lang),
-    description: tourText(tour, lang).summary,
+    title,
+    description: tourDescription(tour, tx, lang),
     image: tour.image,
   });
+  return meta;
+}
+
+/**
+ * Description cho Google: dùng phần tóm tắt nếu đủ ý; nếu tóm tắt quá ngắn hoặc chỉ là dòng giờ giấc
+ * ("Departure time: 12:30…") thì ghép từ dữ liệu thật của tour: số ngày, điểm đến, điểm nổi bật.
+ */
+function tourDescription(tour, tx, lang) {
+  const summary = String(tx.summary || "").trim();
+  const weak =
+    summary.length < 80 || /^(\d{1,2}[:h.]\d{2}|departure|check-in|出发|\d{1,2}：)/i.test(summary);
+  if (!weak) return summary;
+  const card = toCard(tour, lang);
+  const dest = card.destinationNames.slice(0, 4);
+  // Bỏ các dòng chỉ là tiêu đề mục (vd. "Course Information")
+  const hl = (tx.highlights || []).filter((h) => h.length >= 20 && !/[:：]$/.test(h)).slice(0, 2);
+  if (lang === "zh") {
+    return `${tx.title}——${tour.days > 1 ? `${tour.days}天` : "一日"}私人线路${
+      dest.length ? `，途经${dest.join("、")}` : ""
+    }。${hl.length ? `${hl.join("；")}。` : ""}由 Vietlook Travel 本地地接社安排。`;
+  }
+  return `${tx.title} – ${tour.days > 1 ? `${tour.days}-day` : "1-day"} private tour${
+    dest.length ? ` in ${dest.join(", ")}` : ""
+  }. ${hl.length ? `${hl.join("; ")}. ` : ""}Arranged by Vietlook Travel, local tour operator since 2009.`;
 }
 
 function Card({ id, eyebrow, title, children }) {

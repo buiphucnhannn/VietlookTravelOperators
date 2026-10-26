@@ -34,8 +34,9 @@ export async function generateMetadata({ params }) {
   const dict = await getDictionary(lang);
   return {
     metadataBase: new URL(siteConfig.url),
-    title: { default: dict.meta.title, template: `%s | ${siteConfig.name}` },
     ...pageMetadata({ lang, title: dict.meta.title, description: dict.meta.description }),
+    // Đặt SAU pageMetadata để mẫu "%s | Vietlook Travel" không bị ghi đè
+    title: { default: dict.meta.title, template: `%s | ${siteConfig.name}` },
   };
 }
 

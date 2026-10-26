@@ -3,7 +3,7 @@ import PageSkeleton from "@/components/ui/PageSkeleton";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/i18n/dictionaries";
 import { fill, href, locales, lp, tr } from "@/i18n/config";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import {
   destinations,
   destinationsByRegion,
@@ -36,14 +36,18 @@ function resolve(slug) {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const r = resolve(slug);
-  if (!r) return {};
+  if (!r) return notFoundMetadata();
   const dict = await getDictionary(lang);
   const name = tr(r.item.name, lang);
   return pageMetadata({
     lang,
     path: `/destinations/${slug}`,
     title: fill(dict.destination.bestTours, { name }),
-    description: tr(r.item.intro, lang),
+    // Mô tả ngắn → thêm câu ngữ cảnh để đủ ý cho kết quả tìm kiếm
+    description:
+      lang === "zh"
+        ? `${tr(r.item.intro, lang)}${name}私人线路与定制行程，由本地地接社 Vietlook Travel 安排。`
+        : `${tr(r.item.intro, lang)} Private ${name} tours and tailor-made trips by local operator Vietlook Travel.`,
     image: r.item.hero || r.item.image,
   });
 }

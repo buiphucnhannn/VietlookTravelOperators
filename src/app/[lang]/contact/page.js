@@ -16,7 +16,11 @@ export async function generateMetadata({ params }) {
     lang,
     path: "/contact",
     title: dict.contact.title,
-    description: dict.contact.subtitle,
+    // Phụ đề hero ngắn → thêm thông tin liên hệ cho kết quả tìm kiếm
+    description:
+      lang === "zh"
+        ? `${dict.contact.subtitle}河内办公室，热线、WhatsApp、微信与Zalo全天候联系 Vietlook Travel。`
+        : `${dict.contact.subtitle} Contact Vietlook Travel in Hanoi by hotline, WhatsApp, WeChat, Zalo or email.`,
   });
 }
 

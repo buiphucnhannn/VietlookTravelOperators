@@ -8,7 +8,7 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { fill, locales, lp, tr } from "@/i18n/config";
 import { cardLabels } from "@/lib/labels";
 import { formatDate, slugify } from "@/lib/utils";
-import { JsonLd, pageMetadata } from "@/lib/seo";
+import { JsonLd, pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { siteConfig } from "@/constants/site";
 import { destinationsByRegion, getDestination, regions } from "@/data/destinations";
 import { getGuideCategory } from "@/data/guide-categories";
@@ -26,7 +26,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const post = getPost(slug);
-  if (!post) return {};
+  if (!post) return notFoundMetadata();
   return {
     ...pageMetadata({
       lang,

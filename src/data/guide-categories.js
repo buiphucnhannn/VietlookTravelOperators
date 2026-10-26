@@ -44,8 +44,8 @@ export const guideCategories = [
     slug: "travel-news",
     name: { en: "Travel news", zh: "旅游资讯" },
     description: {
-      en: "Latest updates and news from Vietlook Travel.",
-      zh: "Vietlook Travel 最新动态与资讯。",
+      en: "Latest Vietnam travel updates, new tours and company news from the Vietlook Travel team in Hanoi.",
+      zh: "来自河内 Vietlook Travel 团队的越南旅游最新资讯、新线路与公司动态。",
     },
   },
 ];

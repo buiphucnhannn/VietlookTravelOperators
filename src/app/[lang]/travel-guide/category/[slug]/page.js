@@ -3,7 +3,7 @@ import PageSkeleton from "@/components/ui/PageSkeleton";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/i18n/dictionaries";
 import { locales, tr } from "@/i18n/config";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { getGuideCategory, guideCategories } from "@/data/guide-categories";
 import GuideIndex from "@/components/guide/GuideIndex";
 
@@ -14,12 +14,15 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const cat = getGuideCategory(slug);
-  if (!cat) return {};
+  if (!cat) return notFoundMetadata();
   return pageMetadata({
     lang,
     path: `/travel-guide/category/${slug}`,
     title: tr(cat.name, lang),
-    description: tr(cat.description, lang),
+    description:
+      lang === "zh"
+        ? `${tr(cat.description, lang)}来自河内本地团队的越南旅游攻略。`
+        : `${tr(cat.description, lang)} Vietnam travel guide by our local team in Hanoi.`,
   });
 }
 

@@ -5,7 +5,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/i18n/dictionaries";
 import { fill, href, locales, lp, tr } from "@/i18n/config";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { getTheme, themes } from "@/data/themes";
 import { toursByTheme } from "@/data/tours";
 import { Container } from "@/components/ui";
@@ -19,7 +19,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const theme = getTheme(slug);
-  if (!theme) return {};
+  if (!theme) return notFoundMetadata();
   const dict = await getDictionary(lang);
   return pageMetadata({
     lang,

@@ -4,7 +4,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getDictionary } from "@/i18n/dictionaries";
 import { locales, tr } from "@/i18n/config";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { allPosts, authors } from "@/data/posts";
 import { getGuideCategory } from "@/data/guide-categories";
 import { Container } from "@/components/ui";
@@ -18,7 +18,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const author = authors[slug];
-  if (!author) return {};
+  if (!author) return notFoundMetadata();
   return pageMetadata({
     lang,
     path: `/travel-guide/author/${slug}`,

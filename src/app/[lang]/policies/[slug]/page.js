@@ -8,7 +8,7 @@ import { notFound } from "next/navigation";
 import { getDictionary } from "@/i18n/dictionaries";
 import { href, locales, lp, tr } from "@/i18n/config";
 import { cn } from "@/lib/utils";
-import { pageMetadata } from "@/lib/seo";
+import { pageMetadata, notFoundMetadata } from "@/lib/seo";
 import { policies } from "@/data/company";
 import { Container } from "@/components/ui";
 import { BannerHero } from "@/components/ui/PageHero";
@@ -20,7 +20,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang, slug } = await params;
   const p = policies[slug];
-  if (!p) return {};
+  if (!p) return notFoundMetadata();
   return pageMetadata({
     lang,
     path: `/policies/${slug}`,
