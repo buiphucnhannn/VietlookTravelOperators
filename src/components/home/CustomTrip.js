@@ -25,34 +25,12 @@ export default function CustomTrip({ lang, dict }) {
               className="object-cover object-[30%_40%]"
             />
           </div>
-          {/* Ghi chú viết tay ở góc dưới trái, mũi tên chỉa ngược lên ảnh (không khung, viền sáng nhẹ để dễ đọc) */}
+          {/* Ghi chú viết tay ở góc dưới trái (không khung, viền sáng nhẹ để dễ đọc) */}
           <div
             className="absolute bottom-0 left-2 hidden items-start gap-1 font-hand text-[1.6rem] leading-[1.1] text-brand-800 [text-shadow:0_1px_14px_rgba(255,255,255,0.95),0_0_4px_rgba(255,255,255,0.8)] lg:flex"
             aria-hidden
           >
-            <p className="relative whitespace-pre-line">
-              {t.customNote}
-              {/* Mũi tên vẽ tay: xuất phát sau dòng đầu, cong lên và chỉa vào ảnh */}
-              <svg
-                viewBox="0 0 90 70"
-                fill="none"
-                className="absolute -top-12 left-[7.4rem] h-14 w-[4.5rem] text-brand-700 drop-shadow-[0_0_3px_rgba(255,255,255,0.95)]"
-              >
-                <path
-                  d="M6 62 C 34 60, 58 48, 70 14"
-                  stroke="currentColor"
-                  strokeWidth="2.4"
-                  strokeLinecap="round"
-                />
-                <path
-                  d="M58 22 L70 10 L77 26"
-                  stroke="currentColor"
-                  strokeWidth="2.4"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-            </p>
+            <p className="relative whitespace-pre-line">{t.customNote}</p>
           </div>
         </Reveal>
 
