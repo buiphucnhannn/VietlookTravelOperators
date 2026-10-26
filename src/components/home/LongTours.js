@@ -39,7 +39,8 @@ export default function LongTours({ lang, dict, cards, labels }) {
                     src={card.image}
                     alt={card.title}
                     fill
-                    sizes="(min-width: 1280px) 1200px, 100vw"
+                    sizes="(min-width: 1280px) 1600px, 100vw"
+                    quality={85}
                     className="object-cover transition-transform duration-[1500ms] group-hover:scale-105"
                   />
                 </Link>

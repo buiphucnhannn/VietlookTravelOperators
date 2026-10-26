@@ -24,6 +24,20 @@ export const toursByTheme = (slug) => tours.filter((t) => t.themes.includes(slug
 export const cruiseTours = () =>
   tours.filter((t) => t.cruise || t.destinations.includes("halong-bay"));
 
+// Ảnh bìa riêng cho slider tour dài ngày trên trang chủ (khung rất rộng): ảnh nét nhất trong kho
+// (1200–1920px) khớp với một điểm đến trên lộ trình; ảnh gốc của tour chỉ 555–800px nên bị mờ.
+const I = "/images/tours";
+export const longTourCovers = {
+  "nha-trang-da-lat-mui-ne-mekong-delta-ho-chi-minh": `${I}/tourdulichnhatranggiare.png`,
+  "ha-long-ninh-binh-sapa-8-days-7-nights-tour": `${I}/hoang-su-phi-ha-giang.jpg`,
+  "da-nang-phu-quoc-tour-8-days-7-nights": `${I}/tourdulichphuquocgiare.png`,
+  "ha-long-da-nang-9-days-8-nights-tour": `${I}/da-nang-tour-copy.jpg`,
+  "northern-vietnam-tour-9-days-8-nights": `${I}/cao-bang.jpg`,
+  "ha-long-ninh-binh-da-nang-hoi-an-10-days-9-nights-tour": `${I}/dam-van-long-ninh-binh.jpg`,
+  "hanoi-ha-long-sapa-da-nang-ho-chi-minh": `${I}/the-best-lotus-viewing-spots-in-ninh-binh.jpg`,
+  "hanoi-ha-long-ninh-binh-da-nang-phu-quoc": `${I}/tourdulichphuquocgiare.png`,
+};
+
 export const longTours = () => tours.filter((t) => t.featuredLong).sort((a, b) => a.days - b.days);
 
 /** Gói theo tuần: 1 tuần (5–8 ngày), 2 tuần (9–15), 3 tuần (16+). */

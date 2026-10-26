@@ -4,7 +4,7 @@ import { cardLabels } from "@/lib/labels";
 import { pageMetadata } from "@/lib/seo";
 import { destinations, destinationsByRegion, plannerOptions, regions } from "@/data/destinations";
 import { themes } from "@/data/themes";
-import { countFor, longTours, toCard } from "@/data/tours";
+import { countFor, longTourCovers, longTours, toCard } from "@/data/tours";
 import { allPosts, monthPosts } from "@/data/posts";
 import { reviews } from "@/data/reviews";
 import BgImage from "@/components/ui/BgImage";
@@ -69,7 +69,10 @@ export default async function HomePage({ params }) {
         labels={labels}
         cards={longTours()
           .slice(0, 8)
-          .map((t) => toCard(t, lang))}
+          .map((t) => ({
+            ...toCard(t, lang),
+            image: longTourCovers[t.slug] || toCard(t, lang).image,
+          }))}
       />
       <CustomTrip lang={lang} dict={dict} />
       <ThemesMasonry lang={lang} dict={dict} themes={themes} />

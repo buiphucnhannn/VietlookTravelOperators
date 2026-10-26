@@ -9,6 +9,8 @@ const nextConfig = {
   },
   images: {
     formats: ["image/avif", "image/webp"],
+    // 85 cho ảnh lớn hiển thị toàn bề rộng (slider tour dài ngày)
+    qualities: [75, 85],
     remotePatterns: [{ protocol: "https", hostname: "i.ytimg.com" }],
   },
   // Giữ SEO website cũ (WordPress): chuyển hướng 301 các đường dẫn cũ sang cấu trúc mới
